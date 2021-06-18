@@ -1,11 +1,11 @@
 {
-  "displayName": "pickbazar-levyne-template",
+  "displayName": "levyne-styles",
   "version": "1.0.0",
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
-  "name": "pickbazar",
+  "name": "levyne-styles",
   "author": "Vikas",
   "devDependencies": {},
   "dependencies": {}
