@@ -247,7 +247,7 @@ Overlay Scrollbar - os-theme-thin-dark
   @apply md:mx-auto;
 }
 
-.bar {
+.progress-bar {
   @apply absolute bg-gray-100 w-1 h-double left-1/2 -top-1/2 -ml-px md:w-full md:h-1 md:top-1/2 md:left-0 md:-mt-px;
 }
 
@@ -267,10 +267,10 @@ Overlay Scrollbar - os-theme-thin-dark
   @apply relative flex items-center justify-center md:w-full md:mb-4;
 }
 
-.checked {
+.progress-checked {
 }
 
-.progress_wrapper.checked .bar {
+.progress_wrapper.progress-checked .progress-bar {
   @apply bg-primary;
 }
 
