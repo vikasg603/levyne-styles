@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@500&display=swap');
+
+.ucontainer{
+    background-color: rgb(224, 223, 223);
+    padding: 3rem;
+    @media #{$xs-layout}{
+        margin:20px;
+        width:auto;
+        padding:2px;
+    }
+    @media #{$sm-layout}{
+        margin:15px;
+        width:auto;
+        padding:2px ;
+    }
+    .uinput
+    {
+        border: none;
+        background: none;
+        border-bottom: 1px solid black;
+        
+    }
+    h1{
+        font-family: 'Playfair Display';
+        @media #{$xs-layout}{
+            font-size: 16px;
+        }
+        @media #{$sm-layout}{
+            font-size: 16px;
+        }
+    }
+}
