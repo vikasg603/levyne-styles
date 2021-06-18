@@ -1,0 +1,12 @@
+{
+  "displayName": "pickbazar-levyne-template",
+  "version": "0.1.0",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "name": "pickbazar",
+  "author": "Vikas",
+  "devDependencies": {},
+  "dependencies": {}
+}
