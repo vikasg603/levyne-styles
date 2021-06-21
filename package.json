@@ -8,5 +8,9 @@
   "name": "levyne-styles",
   "author": "Vikas",
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "bootstrap-sass": "^3.4.1",
+    "node-sass": "^6.0.0"
+  }
 }
