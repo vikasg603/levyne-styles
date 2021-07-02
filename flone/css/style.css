@@ -31,11 +31,6 @@
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0)); }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box; }
-
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth; } }
@@ -12651,11 +12646,6 @@ textarea.form-control-lg {
 /*----------------------------------------*/
 /*-- Google Font --*/
 /*-- Common Style --*/
-*,
-*::after,
-*::before {
-  box-sizing: border-box; }
-
 html,
 body {
   height: 100%; }
