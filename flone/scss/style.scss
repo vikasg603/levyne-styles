@@ -2,7 +2,7 @@
 // @import "~swiper/css/swiper.css";
 // @import "~lightgallery.js/dist/css/lightgallery.css";
 //@import "../css/icons.min.css";
-
+@import "../bootstrap/scss/bootstrap.scss";
 @import "variables";
 @import "helper";
 @import "animate";
@@ -36,4 +36,3 @@
 @import "404";
 @import 'update.scss';
 @import 'videocomponent.scss';
-@import "../bootstrap/scss/bootstrap.scss";
