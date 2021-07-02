@@ -12714,9 +12714,6 @@ input,
 span {
   transition: all 0.3s ease 0s; }
 
-*:focus {
-  outline: none !important; }
-
 a:focus {
   color: inherit;
   outline: none;
