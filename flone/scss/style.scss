@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@500&display=swap');
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 // @import "~swiper/css/swiper.css";
-@import "../../node_modules/animate.css/animate.min.css";
 // @import "~lightgallery.js/dist/css/lightgallery.css";
 //@import "../css/icons.min.css";
 
 @import "variables";
 @import "helper";
+@import "animate";
 @import "common";
 @import "preloader";
 @import "header";
