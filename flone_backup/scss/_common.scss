@@ -5,15 +5,7 @@
 
 /*-- Google Font --*/
 
-@import url("https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,400,500,600,700|Poppins:300,400,500,600,700,800,900|Abril+Fatface&display=swap");
-
 /*-- Common Style --*/
-
-*,
-*::after,
-*::before {
-  box-sizing: border-box;
-}
 
 html,
 body {
@@ -99,10 +91,6 @@ img,
 input,
 span {
   transition: all 0.3s ease 0s;
-}
-
-*:focus {
-  outline: none !important;
 }
 
 a:focus {

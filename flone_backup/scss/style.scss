@@ -1,11 +1,11 @@
-@import "~bootstrap/scss/bootstrap.scss";
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@500&display=swap');
 // @import "~swiper/css/swiper.css";
-@import "~animate.css/animate.min.css";
 // @import "~lightgallery.js/dist/css/lightgallery.css";
-@import "../css/icons.min.css";
-
+//@import "../css/icons.min.css";
+@import "../bootstrap/scss/bootstrap.scss";
 @import "variables";
 @import "helper";
+@import "animate";
 @import "common";
 @import "preloader";
 @import "header";
