@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'flone/css/style.css'
+      - 'fashion/css/style.css'
 
 jobs:
   build:
