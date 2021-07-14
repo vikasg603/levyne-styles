@@ -20,7 +20,7 @@ $breakpoints: ( "": "", "sm": 576px, "md": 768pxm, "lg": 992px, "xl": 1200px, );
     @for $i from 0 through 100 {
       
       $property: if($sideName == '', '', -#{$sideValue});
-      $space: $i * 10;
+      $space: $i;
       $selector: '';
 
       @if $breakName != "" {
