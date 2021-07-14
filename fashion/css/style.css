@@ -15206,6 +15206,9 @@ readers do not read off random characters that represent icons */
   .footer-widget.ml-75 {
     margin-left: 0px; } }
 
+.bg-gray {
+  background-color: #f6f6f8; }
+
 .footer-area {
   position: relative; }
   .footer-area.ml-10 {
@@ -30485,3 +30488,46 @@ ul {
   list-style: outside none none;
   margin: 0;
   padding: 0; }
+
+/*-- 
+    Scroll Up 
+-----------------------------------------*/
+.scroll-top {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: none;
+  border: none;
+  background-color: var(--primary-color);
+  color: #fff;
+  right: 20px;
+  bottom: 60px;
+  text-align: center;
+  overflow: hidden;
+  border-radius: 50px;
+  z-index: 9811 !important;
+  visibility: hidden;
+  opacity: 0; }
+  .scroll-top.show {
+    visibility: visible;
+    opacity: 1; }
+  @media only screen and (max-width: 767px) {
+    .scroll-top {
+      width: 40px;
+      height: 40px; } }
+  .scroll-top i {
+    display: block;
+    line-height: 50px;
+    font-size: 22px; }
+    @media only screen and (max-width: 767px) {
+      .scroll-top i {
+        line-height: 40px;
+        font-size: 16px; } }
+  .scroll-top:hover i {
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    animation-iteration-count: infinite; }
+
+.height-100 {
+  height: 100vh; }
