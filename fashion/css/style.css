@@ -15058,61 +15058,6 @@ readers do not read off random characters that represent icons */
   position: static;
   width: auto; }
 
-.support-wrap {
-  display: flex; }
-  .support-wrap .support-icon {
-    flex: 0 0 50px;
-    margin-right: 20px; }
-    .support-wrap .support-icon img {
-      width: 100%; }
-  .support-wrap .support-content h5, .support-wrap .support-content .h5 {
-    font-size: 18px;
-    margin: 0 0 5px; }
-  .support-wrap .support-content p {
-    color: #666;
-    margin: 0; }
-  .support-wrap.support-2 {
-    margin-left: 22px; }
-    @media only screen and (min-width: 992px) and (max-width: 1199px) {
-      .support-wrap.support-2 {
-        margin-left: 0px; } }
-    @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .support-wrap.support-2 {
-        margin-left: 0px; } }
-    @media only screen and (max-width: 767px) {
-      .support-wrap.support-2 {
-        margin-left: 0px; } }
-    .support-wrap.support-2 .support-icon {
-      flex: 0 0 41px; }
-  .support-wrap.support-3 {
-    margin-left: 9px; }
-    @media only screen and (min-width: 992px) and (max-width: 1199px) {
-      .support-wrap.support-3 {
-        margin-left: 0px; } }
-    @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .support-wrap.support-3 {
-        margin-left: 0px; } }
-    @media only screen and (max-width: 767px) {
-      .support-wrap.support-3 {
-        margin-left: 0px; } }
-    .support-wrap.support-3 .support-icon {
-      flex: 0 0 41px; }
-  .support-wrap.support-4 {
-    margin-left: 23px; }
-    @media only screen and (min-width: 992px) and (max-width: 1199px) {
-      .support-wrap.support-4 {
-        margin-left: 0px; } }
-    @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .support-wrap.support-4 {
-        margin-left: 0px; } }
-    @media only screen and (max-width: 767px) {
-      .support-wrap.support-4 {
-        margin-left: 0px; } }
-    .support-wrap.support-4 .support-icon {
-      flex: 0 0 35px; }
-  .support-wrap:hover .support-icon img {
-    animation: 500ms ease-in-out 0s normal none 1 running tada; }
-
 /*-------- 8. Footer style  -----*/
 .copyright p {
   color: #313131;
