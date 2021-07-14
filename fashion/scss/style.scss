@@ -13,7 +13,7 @@ $sides: (
   "r": "right",
 );
 
-$breakpoints: ( "": "", "sm": 576px, "md": 768pxm, "lg": 992px, "xl": 1200px, );
+$breakpoints: ( "": "", "sm": 576px, "md": 768px, "lg": 992px, "xl": 1200px, );
 
 @each $breakName, $breakValue in $breakpoints {
   @each $sideName, $sideValue in $sides {
