@@ -11,26 +11,49 @@ $breakValue in $breakpoints {
 
   @if $breakName !="" {
     @media (min-width: $breakValue) {
-      @each $sideName, $sideValue in $sides {
-        @for $i from 0 through 100 {
-
+      @for $i from 0 through 100 {
+        @each $sideName, $sideValue in $sides {
+        
           $property: if($sideName=='', '', -#{$sideValue});
 
           $space: $i;
 
           $selector: #{$sideName}-#{$breakName}-#{$i};
+
           .m#{$selector} {
             margin#{$property}: #{$space}px !important;
           }
           .p#{$selector} {
             padding#{$property}: #{$space}px !important;
           }
+
         }
+
+        .my-#{$breakName}-#{$i} {
+          margin-top: #{$i}px !important;
+          margin-bottom: #{$i}px !important;
+        }
+
+        .py-#{$breakName}-#{$i} {
+          padding-top: #{$i}px !important;
+          padding-bottom: #{$i}px !important;
+        }
+
+        .mx-#{$breakName}-#{$i} {
+          margin-left: #{$i}px !important;
+          margin-right: #{$i}px !important;
+        }
+
+        .px-#{$breakName}-#{$i} {
+          padding-left: #{$i}px !important;
+          padding-right: #{$i}px !important;
+        }
+        
       }
     }
   } @else {
-    @each $sideName, $sideValue in $sides {
-      @for $i from 0 through 100 {
+    @for $i from 0 through 100 {
+      @each $sideName, $sideValue in $sides {
         $selector: #{$sideName}-#{$i};
         $property: if($sideName=='', '', -#{$sideValue});
           
@@ -43,55 +66,24 @@ $breakValue in $breakpoints {
           padding#{$property}: #{$space}px !important;
         }
       }
+      .my-#{$i} {
+        margin-top: #{$i}px !important;
+        margin-bottom: #{$i}px !important;
+      }
+      .py-#{$i} {
+        padding-top: #{$i}px !important;
+        padding-bottom: #{$i}px !important;
+      }
+      .mx-#{$i} {
+        margin-left: #{$i}px !important;
+        margin-right: #{$i}px !important;
+      }
+      .px-#{$i} {
+        padding-left: #{$i}px !important;
+        padding-right: #{$i}px !important;
+      }
     }
   }
-}
- 
-//Margin paddings loops
-@each $breakName,
-$breakValue in $breakpoints {
-    @if $breakName !="" {
-        @media (min-width: $breakValue) {
-            @for $i from 0 through 100 {
-                .my-#{$breakName}-#{$i} {
-                    margin-top: #{$i}px !important;
-                    margin-bottom: #{$i}px !important;
-                }
-                .py-#{$breakName}-#{$i} {
-                    padding-top: #{$i}px !important;
-                    padding-bottom: #{$i}px !important;
-                }
-                .mx-#{$breakName}-#{$i} {
-                    margin-left: #{$i}px !important;
-                    margin-right: #{$i}px !important;
-                }
-                .px-#{$breakName}-#{$i} {
-                    padding-left: #{$i}px !important;
-                    padding-right: #{$i}px !important;
-                }
-            }
-        }
-    }
-    @else {
-        @for $i from 0 through 100 {
-            .my-#{$i} {
-                margin-top: #{$i}px !important;
-                margin-bottom: #{$i}px !important;
-            }
-            .py-#{$i} {
-                padding-top: #{$i}px !important;
-                padding-bottom: #{$i}px !important;
-            }
-            .mx-#{$i} {
-                margin-left: #{$i}px !important;
-                margin-right: #{$i}px !important;
-            }
-            .px-#{$i} {
-                padding-left: #{$i}px !important;
-                padding-right: #{$i}px !important;
-            }
-        }
-    }
 }
 
 img {
