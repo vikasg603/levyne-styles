@@ -13,8 +13,10 @@ $sides: (
   "r": "right",
 );
 
+
 $breakpoints: ( "": "", "sm": 576px, "md": 768px, "lg": 992px, "xl": 1200px, );
 
+//Margin paddings loops
 @each $breakName, $breakValue in $breakpoints {
   @each $sideName, $sideValue in $sides {
     @for $i from 0 through 100 {
@@ -32,20 +34,20 @@ $breakpoints: ( "": "", "sm": 576px, "md": 768px, "lg": 992px, "xl": 1200px, );
       @if $breakName != "" {
         @media (min-width: $breakValue) {
           .m#{$selector} {
-            margin#{$property}: #{$space}px;
+            margin#{$property}: #{$space}px !important;
           }
   
           .p#{$selector} {
-            padding#{$property}: #{$space}px;
+            padding#{$property}: #{$space}px !important;
           }
         }
       } @else {
         .m#{$selector} {
-          margin#{$property}: #{$space}px;
+          margin#{$property}: #{$space}px !important;
         }
 
         .p#{$selector} {
-          padding#{$property}: #{$space}px;
+          padding#{$property}: #{$space}px !important;
         }
       }
     }
