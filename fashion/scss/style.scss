@@ -21,32 +21,32 @@ $breakValue in $breakpoints {
           $selector: #{$sideName}-#{$breakName}-#{$i};
 
           .m#{$selector} {
-            margin#{$property}: #{$space}px !important;
+            margin#{$property}: #{$space}px;
           }
           .p#{$selector} {
-            padding#{$property}: #{$space}px !important;
+            padding#{$property}: #{$space}px;
           }
 
         }
 
         .my-#{$breakName}-#{$i} {
-          margin-top: #{$i}px !important;
-          margin-bottom: #{$i}px !important;
+          margin-top: #{$i}px;
+          margin-bottom: #{$i}px;
         }
 
         .py-#{$breakName}-#{$i} {
-          padding-top: #{$i}px !important;
-          padding-bottom: #{$i}px !important;
+          padding-top: #{$i}px;
+          padding-bottom: #{$i}px;
         }
 
         .mx-#{$breakName}-#{$i} {
-          margin-left: #{$i}px !important;
-          margin-right: #{$i}px !important;
+          margin-left: #{$i}px;
+          margin-right: #{$i}px;
         }
 
         .px-#{$breakName}-#{$i} {
-          padding-left: #{$i}px !important;
-          padding-right: #{$i}px !important;
+          padding-left: #{$i}px;
+          padding-right: #{$i}px;
         }
         
       }
@@ -60,27 +60,27 @@ $breakValue in $breakpoints {
         $space: $i;
 
         .m#{$selector} {
-          margin#{$property}: #{$space}px !important;
+          margin#{$property}: #{$space}px;
         }
         .p#{$selector} {
-          padding#{$property}: #{$space}px !important;
+          padding#{$property}: #{$space}px;
         }
       }
       .my-#{$i} {
-        margin-top: #{$i}px !important;
-        margin-bottom: #{$i}px !important;
+        margin-top: #{$i}px;
+        margin-bottom: #{$i}px;
       }
       .py-#{$i} {
-        padding-top: #{$i}px !important;
-        padding-bottom: #{$i}px !important;
+        padding-top: #{$i}px;
+        padding-bottom: #{$i}px;
       }
       .mx-#{$i} {
-        margin-left: #{$i}px !important;
-        margin-right: #{$i}px !important;
+        margin-left: #{$i}px;
+        margin-right: #{$i}px;
       }
       .px-#{$i} {
-        padding-left: #{$i}px !important;
-        padding-right: #{$i}px !important;
+        padding-left: #{$i}px;
+        padding-right: #{$i}px;
       }
     }
   }
@@ -191,7 +191,7 @@ span {
 
 /*
 *:focus {
-  outline: none !important;
+  outline: none;
 }
 */
 
