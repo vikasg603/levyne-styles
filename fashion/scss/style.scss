@@ -75,7 +75,7 @@ $breakValue in $breakpoints {
     }
 }
 
-//font weight and size loops
+//font weight, size and border loops
 $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600": 600, "700": 700, "800": 800, "900": 900);
 @each $breakName, $breakValue in $breakpoints {
 
@@ -91,6 +91,35 @@ $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600"
 					font-size: #{$i}px;
 				}	
 			}
+            .border-#{$breakName} {
+                border: 1px solid var(--border-color);
+            }
+            
+            .border-#{$breakName}-left {
+                border-left: 1px solid var(--border-color);
+            }
+            
+            .border-#{$breakName}-right {
+                border-right: 1px solid var(--border-color);
+            }
+            
+            .border-#{$breakName}-top {
+                border-top: 1px solid var(--border-color);
+            }
+            
+            .border-#{$breakName}-bottom {
+                border-bottom: 1px solid var(--border-color);
+            }
+            
+            .border-#{$breakName}-y {
+                border-top: 1px solid var(--border-color);
+                border-bottom: 1px solid var(--border-color);
+            }
+            
+            .border-#{$breakName}-x {
+                border-left: 1px solid var(--border-color);
+                border-right: 1px solid var(--border-color);
+            }
 		}
 	} @else {
 		@each $weightName, $weightValue in $fontWeights {
@@ -103,6 +132,35 @@ $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600"
 				font-size: #{$i}px;
 			}	
 		}
+        .border {
+            border: 1px solid var(--border-color);
+        }
+        
+        .border-left {
+            border-left: 1px solid var(--border-color);
+        }
+        
+        .border-right {
+            border-right: 1px solid var(--border-color);
+        }
+        
+        .border-top {
+            border-top: 1px solid var(--border-color);
+        }
+        
+        .border-bottom {
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .border-y {
+            border-top: 1px solid var(--border-color);
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .border-x {
+            border-left: 1px solid var(--border-color);
+            border-right: 1px solid var(--border-color);
+        }
 	}
 }
 
