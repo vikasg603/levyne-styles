@@ -3,90 +3,110 @@
 @import "../../fontawesome/scss/fontawesome.scss";
 @import "./variables.scss";
 @import "./footer.scss";
-
-
 $sides: ( "": "", "t": "top", "b": "bottom", "l": "left", "r": "right", );
 $breakpoints: ( "": "", "sm": 576px, "md": 768px, "lg": 992px, "xl": 1200px, );
 //Margin paddings loops
 @each $breakName,
 $breakValue in $breakpoints {
-
-  @if $breakName !="" {
-    @media (min-width: $breakValue) {
-      @for $i from 0 through 150 {
-        @each $sideName, $sideValue in $sides {
-        
-          $property: if($sideName=='', '', -#{$sideValue});
-
-          $space: $i;
-
-          $selector: #{$sideName}-#{$breakName}-#{$i};
-
-          .m#{$selector} {
-            margin#{$property}: #{$space}px;
-          }
-          .p#{$selector} {
-            padding#{$property}: #{$space}px;
-          }
-
+    @if $breakName !="" {
+        @media (min-width: $breakValue) {
+            @for $i from 0 through 150 {
+                @each $sideName, $sideValue in $sides {
+                    $property: if($sideName=='', '', -#{$sideValue});
+                    $space: $i;
+                    $selector: #{$sideName}-#{$breakName}-#{$i};
+                    .m#{$selector} {
+                        margin#{$property}: #{$space}px;
+                    }
+                    .p#{$selector} {
+                        padding#{$property}: #{$space}px;
+                    }
+                }
+                .my-#{$breakName}-#{$i} {
+                    margin-top: #{$i}px;
+                    margin-bottom: #{$i}px;
+                }
+                .py-#{$breakName}-#{$i} {
+                    padding-top: #{$i}px;
+                    padding-bottom: #{$i}px;
+                }
+                .mx-#{$breakName}-#{$i} {
+                    margin-left: #{$i}px;
+                    margin-right: #{$i}px;
+                }
+                .px-#{$breakName}-#{$i} {
+                    padding-left: #{$i}px;
+                    padding-right: #{$i}px;
+                }
+            }
         }
-
-        .my-#{$breakName}-#{$i} {
-          margin-top: #{$i}px;
-          margin-bottom: #{$i}px;
-        }
-
-        .py-#{$breakName}-#{$i} {
-          padding-top: #{$i}px;
-          padding-bottom: #{$i}px;
-        }
-
-        .mx-#{$breakName}-#{$i} {
-          margin-left: #{$i}px;
-          margin-right: #{$i}px;
-        }
-
-        .px-#{$breakName}-#{$i} {
-          padding-left: #{$i}px;
-          padding-right: #{$i}px;
-        }
-        
-      }
     }
-  } @else {
-    @for $i from 0 through 150 {
-      @each $sideName, $sideValue in $sides {
-        $selector: #{$sideName}-#{$i};
-        $property: if($sideName=='', '', -#{$sideValue});
-          
-        $space: $i;
-
-        .m#{$selector} {
-          margin#{$property}: #{$space}px;
+    @else {
+        @for $i from 0 through 150 {
+            @each $sideName,
+            $sideValue in $sides {
+                $selector: #{$sideName}-#{$i};
+                $property: if($sideName=='', '', -#{$sideValue});
+                $space: $i;
+                .m#{$selector} {
+                    margin#{$property}: #{$space}px;
+                }
+                .p#{$selector} {
+                    padding#{$property}: #{$space}px;
+                }
+            }
+            .my-#{$i} {
+                margin-top: #{$i}px;
+                margin-bottom: #{$i}px;
+            }
+            .py-#{$i} {
+                padding-top: #{$i}px;
+                padding-bottom: #{$i}px;
+            }
+            .mx-#{$i} {
+                margin-left: #{$i}px;
+                margin-right: #{$i}px;
+            }
+            .px-#{$i} {
+                padding-left: #{$i}px;
+                padding-right: #{$i}px;
+            }
         }
-        .p#{$selector} {
-          padding#{$property}: #{$space}px;
-        }
-      }
-      .my-#{$i} {
-        margin-top: #{$i}px;
-        margin-bottom: #{$i}px;
-      }
-      .py-#{$i} {
-        padding-top: #{$i}px;
-        padding-bottom: #{$i}px;
-      }
-      .mx-#{$i} {
-        margin-left: #{$i}px;
-        margin-right: #{$i}px;
-      }
-      .px-#{$i} {
-        padding-left: #{$i}px;
-        padding-right: #{$i}px;
-      }
     }
-  }
 }
+
+//font weight and size loops
+$fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600": 600, "700": 700, "800": 800, "900": 900);
+@each $breakName, $breakValue in $breakpoints {
+
+	@if $breakName !="" {
+        @media (min-width: $breakValue) {
+			@each $weightName, $weightValue in $fontWeights {
+				.fw-#{$breakName}-#{$weightName} {
+					font-weight: #{$weightValue};
+				}
+			}
+			@for $i from 0 through 30 {
+				.fs-#{$breakName}-#{$i} {
+					font-size: #{$i}px;
+				}	
+			}
+		}
+	} @else {
+		@each $weightName, $weightValue in $fontWeights {
+			.fw-#{$weightName} {
+				font-weight: #{$weightValue};
+			}
+		}
+		@for $i from 10 through 30 {
+			.fs-#{$i} {
+				font-size: #{$i}px;
+			}	
+		}
+	}
+}
+
+
 
 img {
     width: 100%;
