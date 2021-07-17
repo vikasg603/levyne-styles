@@ -91,6 +91,9 @@ $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600"
 					font-size: #{$i}px;
 				}	
 			}
+            .border-#{$breakName}-none {
+                border: none
+            }
             .border-#{$breakName} {
                 border: 1px solid var(--border-color);
             }
@@ -98,17 +101,33 @@ $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600"
             .border-#{$breakName}-left {
                 border-left: 1px solid var(--border-color);
             }
+
+            .border-#{$breakName}-left-none {
+                border-left: none
+            }
             
             .border-#{$breakName}-right {
                 border-right: 1px solid var(--border-color);
+            }
+
+            .border-#{$breakName}-right-none {
+                border-right: none
             }
             
             .border-#{$breakName}-top {
                 border-top: 1px solid var(--border-color);
             }
+
+            .border-#{$breakName}-top-none {
+                border-top: none
+            }
             
             .border-#{$breakName}-bottom {
                 border-bottom: 1px solid var(--border-color);
+            }
+
+            .border-#{$breakName}-bottom-none {
+                border-bottom: none
             }
             
             .border-#{$breakName}-y {
@@ -119,6 +138,16 @@ $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600"
             .border-#{$breakName}-x {
                 border-left: 1px solid var(--border-color);
                 border-right: 1px solid var(--border-color);
+            }
+
+            .border-#{$breakName}-y-none {
+                border-top: none;
+                border-bottom: none;
+            }
+            
+            .border-#{$breakName}-x-none {
+                border-left: none;
+                border-right: none;
             }
 		}
 	} @else {
@@ -132,6 +161,9 @@ $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600"
 				font-size: #{$i}px;
 			}	
 		}
+        .border-none {
+            border: none
+        }
         .border {
             border: 1px solid var(--border-color);
         }
@@ -139,17 +171,33 @@ $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600"
         .border-left {
             border-left: 1px solid var(--border-color);
         }
+
+        .border-left-none {
+            border-left: none
+        }
         
         .border-right {
             border-right: 1px solid var(--border-color);
+        }
+
+        .border-right-none {
+            border-right: none
         }
         
         .border-top {
             border-top: 1px solid var(--border-color);
         }
+
+        .border-top-none {
+            border-top: none
+        }
         
         .border-bottom {
             border-bottom: 1px solid var(--border-color);
+        }
+
+        .border-bottom-none {
+            border-bottom: none
         }
         
         .border-y {
@@ -160,6 +208,16 @@ $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600"
         .border-x {
             border-left: 1px solid var(--border-color);
             border-right: 1px solid var(--border-color);
+        }
+
+        .border-y-none {
+            border-top: none;
+            border-bottom: none;
+        }
+        
+        .border-x-none {
+            border-left: none;
+            border-right: none;
         }
 	}
 }
