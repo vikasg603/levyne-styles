@@ -13,7 +13,7 @@ $breakValue in $breakpoints {
 
   @if $breakName !="" {
     @media (min-width: $breakValue) {
-      @for $i from 0 through 100 {
+      @for $i from 0 through 150 {
         @each $sideName, $sideValue in $sides {
         
           $property: if($sideName=='', '', -#{$sideValue});
@@ -54,7 +54,7 @@ $breakValue in $breakpoints {
       }
     }
   } @else {
-    @for $i from 0 through 100 {
+    @for $i from 0 through 150 {
       @each $sideName, $sideValue in $sides {
         $selector: #{$sideName}-#{$i};
         $property: if($sideName=='', '', -#{$sideValue});
