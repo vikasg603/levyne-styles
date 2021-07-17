@@ -10,66 +10,77 @@ $breakpoints: ( "": "", "sm": 576px, "md": 768px, "lg": 992px, "xl": 1200px, );
 $breakValue in $breakpoints {
     @if $breakName !="" {
         @media (min-width: $breakValue) {
-            @for $i from 0 through 150 {
+            @for $i from -1 through 150 {
+                $space: $i;
+                $spaceValue: $i + 'px';
+                @if $i == -1 {
+                    $space: 'auto';
+                    $spaceValue: 'auto';
+                }
                 @each $sideName, $sideValue in $sides {
                     $property: if($sideName=='', '', -#{$sideValue});
-                    $space: $i;
-                    $selector: #{$sideName}-#{$breakName}-#{$i};
+                    $selector: #{$sideName}-#{$breakName}-#{$space};
                     .m#{$selector} {
-                        margin#{$property}: #{$space}px;
+                        margin#{$property}: #{$spaceValue};
                     }
                     .p#{$selector} {
-                        padding#{$property}: #{$space}px;
+                        padding#{$property}: #{$spaceValue};
                     }
                 }
-                .my-#{$breakName}-#{$i} {
-                    margin-top: #{$i}px;
-                    margin-bottom: #{$i}px;
+                .my-#{$breakName}-#{$space} {
+                    margin-top: #{$spaceValue};
+                    margin-bottom: #{$spaceValue};
                 }
-                .py-#{$breakName}-#{$i} {
-                    padding-top: #{$i}px;
-                    padding-bottom: #{$i}px;
+                .py-#{$breakName}-#{$space} {
+                    padding-top: #{$spaceValue};
+                    padding-bottom: #{$spaceValue};
                 }
-                .mx-#{$breakName}-#{$i} {
-                    margin-left: #{$i}px;
-                    margin-right: #{$i}px;
+                .mx-#{$breakName}-#{$space} {
+                    margin-left: #{$spaceValue};
+                    margin-right: #{$spaceValue};
                 }
-                .px-#{$breakName}-#{$i} {
-                    padding-left: #{$i}px;
-                    padding-right: #{$i}px;
+                .px-#{$breakName}-#{$space} {
+                    padding-left: #{$spaceValue};
+                    padding-right: #{$spaceValue};
                 }
             }
         }
     }
     @else {
         @for $i from 0 through 150 {
+            $space: $i;
+            $spaceValue: $i + 'px';
+            @if $i == -1 {
+                $space: 'auto';
+                $spaceValue: 'auto';
+            }
+
             @each $sideName,
             $sideValue in $sides {
                 $selector: #{$sideName}-#{$i};
                 $property: if($sideName=='', '', -#{$sideValue});
-                $space: $i;
                 .m#{$selector} {
-                    margin#{$property}: #{$space}px;
+                    margin#{$property}: #{$spaceValue};
                 }
                 .p#{$selector} {
-                    padding#{$property}: #{$space}px;
+                    padding#{$property}: #{$spaceValue};
                 }
             }
-            .my-#{$i} {
-                margin-top: #{$i}px;
-                margin-bottom: #{$i}px;
+            .my-#{$space} {
+                margin-top: #{$spaceValue};
+                margin-bottom: #{$spaceValue};
             }
-            .py-#{$i} {
-                padding-top: #{$i}px;
-                padding-bottom: #{$i}px;
+            .py-#{$space} {
+                padding-top: #{$spaceValue};
+                padding-bottom: #{$spaceValue};
             }
-            .mx-#{$i} {
-                margin-left: #{$i}px;
-                margin-right: #{$i}px;
+            .mx-#{$space} {
+                margin-left: #{$spaceValue};
+                margin-right: #{$spaceValue};
             }
-            .px-#{$i} {
-                padding-left: #{$i}px;
-                padding-right: #{$i}px;
+            .px-#{$space} {
+                padding-left: #{$spaceValue};
+                padding-right: #{$spaceValue};
             }
         }
     }
