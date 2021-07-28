@@ -20625,6 +20625,38 @@ readers do not read off random characters that represent icons */
   padding-right: 150px; }
 
 @media (min-width: 576px) {
+  .m-sm-auto {
+    margin: auto; }
+  .p-sm-auto {
+    padding: auto; }
+  .mt-sm-auto {
+    margin-top: auto; }
+  .pt-sm-auto {
+    padding-top: auto; }
+  .mb-sm-auto {
+    margin-bottom: auto; }
+  .pb-sm-auto {
+    padding-bottom: auto; }
+  .ml-sm-auto {
+    margin-left: auto; }
+  .pl-sm-auto {
+    padding-left: auto; }
+  .mr-sm-auto {
+    margin-right: auto; }
+  .pr-sm-auto {
+    padding-right: auto; }
+  .my-sm-auto {
+    margin-top: auto;
+    margin-bottom: auto; }
+  .py-sm-auto {
+    padding-top: auto;
+    padding-bottom: auto; }
+  .mx-sm-auto {
+    margin-left: auto;
+    margin-right: auto; }
+  .px-sm-auto {
+    padding-left: auto;
+    padding-right: auto; }
   .m-sm-0 {
     margin: 0px; }
   .p-sm-0 {
@@ -25459,6 +25491,38 @@ readers do not read off random characters that represent icons */
     padding-right: 150px; } }
 
 @media (min-width: 768px) {
+  .m-md-auto {
+    margin: auto; }
+  .p-md-auto {
+    padding: auto; }
+  .mt-md-auto {
+    margin-top: auto; }
+  .pt-md-auto {
+    padding-top: auto; }
+  .mb-md-auto {
+    margin-bottom: auto; }
+  .pb-md-auto {
+    padding-bottom: auto; }
+  .ml-md-auto {
+    margin-left: auto; }
+  .pl-md-auto {
+    padding-left: auto; }
+  .mr-md-auto {
+    margin-right: auto; }
+  .pr-md-auto {
+    padding-right: auto; }
+  .my-md-auto {
+    margin-top: auto;
+    margin-bottom: auto; }
+  .py-md-auto {
+    padding-top: auto;
+    padding-bottom: auto; }
+  .mx-md-auto {
+    margin-left: auto;
+    margin-right: auto; }
+  .px-md-auto {
+    padding-left: auto;
+    padding-right: auto; }
   .m-md-0 {
     margin: 0px; }
   .p-md-0 {
@@ -30293,6 +30357,38 @@ readers do not read off random characters that represent icons */
     padding-right: 150px; } }
 
 @media (min-width: 992px) {
+  .m-lg-auto {
+    margin: auto; }
+  .p-lg-auto {
+    padding: auto; }
+  .mt-lg-auto {
+    margin-top: auto; }
+  .pt-lg-auto {
+    padding-top: auto; }
+  .mb-lg-auto {
+    margin-bottom: auto; }
+  .pb-lg-auto {
+    padding-bottom: auto; }
+  .ml-lg-auto {
+    margin-left: auto; }
+  .pl-lg-auto {
+    padding-left: auto; }
+  .mr-lg-auto {
+    margin-right: auto; }
+  .pr-lg-auto {
+    padding-right: auto; }
+  .my-lg-auto {
+    margin-top: auto;
+    margin-bottom: auto; }
+  .py-lg-auto {
+    padding-top: auto;
+    padding-bottom: auto; }
+  .mx-lg-auto {
+    margin-left: auto;
+    margin-right: auto; }
+  .px-lg-auto {
+    padding-left: auto;
+    padding-right: auto; }
   .m-lg-0 {
     margin: 0px; }
   .p-lg-0 {
@@ -35127,6 +35223,38 @@ readers do not read off random characters that represent icons */
     padding-right: 150px; } }
 
 @media (min-width: 1200px) {
+  .m-xl-auto {
+    margin: auto; }
+  .p-xl-auto {
+    padding: auto; }
+  .mt-xl-auto {
+    margin-top: auto; }
+  .pt-xl-auto {
+    padding-top: auto; }
+  .mb-xl-auto {
+    margin-bottom: auto; }
+  .pb-xl-auto {
+    padding-bottom: auto; }
+  .ml-xl-auto {
+    margin-left: auto; }
+  .pl-xl-auto {
+    padding-left: auto; }
+  .mr-xl-auto {
+    margin-right: auto; }
+  .pr-xl-auto {
+    padding-right: auto; }
+  .my-xl-auto {
+    margin-top: auto;
+    margin-bottom: auto; }
+  .py-xl-auto {
+    padding-top: auto;
+    padding-bottom: auto; }
+  .mx-xl-auto {
+    margin-left: auto;
+    margin-right: auto; }
+  .px-xl-auto {
+    padding-left: auto;
+    padding-right: auto; }
   .m-xl-0 {
     margin: 0px; }
   .p-xl-0 {
