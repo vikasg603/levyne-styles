@@ -21884,6 +21884,9 @@ readers do not read off random characters that represent icons */
 .p-0 {
   padding: 0px; }
 
+.br-0 {
+  border-radius: 0px; }
+
 .mt-0 {
   margin-top: 0px; }
 
@@ -21929,6 +21932,9 @@ readers do not read off random characters that represent icons */
 
 .p-1 {
   padding: 1px; }
+
+.br-1 {
+  border-radius: 1px; }
 
 .mt-1 {
   margin-top: 1px; }
@@ -21976,6 +21982,9 @@ readers do not read off random characters that represent icons */
 .p-2 {
   padding: 2px; }
 
+.br-2 {
+  border-radius: 2px; }
+
 .mt-2 {
   margin-top: 2px; }
 
@@ -22021,6 +22030,9 @@ readers do not read off random characters that represent icons */
 
 .p-3 {
   padding: 3px; }
+
+.br-3 {
+  border-radius: 3px; }
 
 .mt-3 {
   margin-top: 3px; }
@@ -22068,6 +22080,9 @@ readers do not read off random characters that represent icons */
 .p-4 {
   padding: 4px; }
 
+.br-4 {
+  border-radius: 4px; }
+
 .mt-4 {
   margin-top: 4px; }
 
@@ -22113,6 +22128,9 @@ readers do not read off random characters that represent icons */
 
 .p-5 {
   padding: 5px; }
+
+.br-5 {
+  border-radius: 5px; }
 
 .mt-5 {
   margin-top: 5px; }
@@ -22160,6 +22178,9 @@ readers do not read off random characters that represent icons */
 .p-6 {
   padding: 6px; }
 
+.br-6 {
+  border-radius: 6px; }
+
 .mt-6 {
   margin-top: 6px; }
 
@@ -22205,6 +22226,9 @@ readers do not read off random characters that represent icons */
 
 .p-7 {
   padding: 7px; }
+
+.br-7 {
+  border-radius: 7px; }
 
 .mt-7 {
   margin-top: 7px; }
@@ -22252,6 +22276,9 @@ readers do not read off random characters that represent icons */
 .p-8 {
   padding: 8px; }
 
+.br-8 {
+  border-radius: 8px; }
+
 .mt-8 {
   margin-top: 8px; }
 
@@ -22297,6 +22324,9 @@ readers do not read off random characters that represent icons */
 
 .p-9 {
   padding: 9px; }
+
+.br-9 {
+  border-radius: 9px; }
 
 .mt-9 {
   margin-top: 9px; }
@@ -22344,6 +22374,9 @@ readers do not read off random characters that represent icons */
 .p-10 {
   padding: 10px; }
 
+.br-10 {
+  border-radius: 10px; }
+
 .mt-10 {
   margin-top: 10px; }
 
@@ -22389,6 +22422,9 @@ readers do not read off random characters that represent icons */
 
 .p-11 {
   padding: 11px; }
+
+.br-11 {
+  border-radius: 11px; }
 
 .mt-11 {
   margin-top: 11px; }
@@ -22436,6 +22472,9 @@ readers do not read off random characters that represent icons */
 .p-12 {
   padding: 12px; }
 
+.br-12 {
+  border-radius: 12px; }
+
 .mt-12 {
   margin-top: 12px; }
 
@@ -22481,6 +22520,9 @@ readers do not read off random characters that represent icons */
 
 .p-13 {
   padding: 13px; }
+
+.br-13 {
+  border-radius: 13px; }
 
 .mt-13 {
   margin-top: 13px; }
@@ -22528,6 +22570,9 @@ readers do not read off random characters that represent icons */
 .p-14 {
   padding: 14px; }
 
+.br-14 {
+  border-radius: 14px; }
+
 .mt-14 {
   margin-top: 14px; }
 
@@ -22573,6 +22618,9 @@ readers do not read off random characters that represent icons */
 
 .p-15 {
   padding: 15px; }
+
+.br-15 {
+  border-radius: 15px; }
 
 .mt-15 {
   margin-top: 15px; }
@@ -22620,6 +22668,9 @@ readers do not read off random characters that represent icons */
 .p-16 {
   padding: 16px; }
 
+.br-16 {
+  border-radius: 16px; }
+
 .mt-16 {
   margin-top: 16px; }
 
@@ -22665,6 +22716,9 @@ readers do not read off random characters that represent icons */
 
 .p-17 {
   padding: 17px; }
+
+.br-17 {
+  border-radius: 17px; }
 
 .mt-17 {
   margin-top: 17px; }
@@ -22712,6 +22766,9 @@ readers do not read off random characters that represent icons */
 .p-18 {
   padding: 18px; }
 
+.br-18 {
+  border-radius: 18px; }
+
 .mt-18 {
   margin-top: 18px; }
 
@@ -22757,6 +22814,9 @@ readers do not read off random characters that represent icons */
 
 .p-19 {
   padding: 19px; }
+
+.br-19 {
+  border-radius: 19px; }
 
 .mt-19 {
   margin-top: 19px; }
@@ -22804,6 +22864,9 @@ readers do not read off random characters that represent icons */
 .p-20 {
   padding: 20px; }
 
+.br-20 {
+  border-radius: 20px; }
+
 .mt-20 {
   margin-top: 20px; }
 
@@ -22849,6 +22912,9 @@ readers do not read off random characters that represent icons */
 
 .p-21 {
   padding: 21px; }
+
+.br-21 {
+  border-radius: 21px; }
 
 .mt-21 {
   margin-top: 21px; }
@@ -22896,6 +22962,9 @@ readers do not read off random characters that represent icons */
 .p-22 {
   padding: 22px; }
 
+.br-22 {
+  border-radius: 22px; }
+
 .mt-22 {
   margin-top: 22px; }
 
@@ -22941,6 +23010,9 @@ readers do not read off random characters that represent icons */
 
 .p-23 {
   padding: 23px; }
+
+.br-23 {
+  border-radius: 23px; }
 
 .mt-23 {
   margin-top: 23px; }
@@ -22988,6 +23060,9 @@ readers do not read off random characters that represent icons */
 .p-24 {
   padding: 24px; }
 
+.br-24 {
+  border-radius: 24px; }
+
 .mt-24 {
   margin-top: 24px; }
 
@@ -23033,6 +23108,9 @@ readers do not read off random characters that represent icons */
 
 .p-25 {
   padding: 25px; }
+
+.br-25 {
+  border-radius: 25px; }
 
 .mt-25 {
   margin-top: 25px; }
@@ -23080,6 +23158,9 @@ readers do not read off random characters that represent icons */
 .p-26 {
   padding: 26px; }
 
+.br-26 {
+  border-radius: 26px; }
+
 .mt-26 {
   margin-top: 26px; }
 
@@ -23125,6 +23206,9 @@ readers do not read off random characters that represent icons */
 
 .p-27 {
   padding: 27px; }
+
+.br-27 {
+  border-radius: 27px; }
 
 .mt-27 {
   margin-top: 27px; }
@@ -23172,6 +23256,9 @@ readers do not read off random characters that represent icons */
 .p-28 {
   padding: 28px; }
 
+.br-28 {
+  border-radius: 28px; }
+
 .mt-28 {
   margin-top: 28px; }
 
@@ -23217,6 +23304,9 @@ readers do not read off random characters that represent icons */
 
 .p-29 {
   padding: 29px; }
+
+.br-29 {
+  border-radius: 29px; }
 
 .mt-29 {
   margin-top: 29px; }
@@ -23264,6 +23354,9 @@ readers do not read off random characters that represent icons */
 .p-30 {
   padding: 30px; }
 
+.br-30 {
+  border-radius: 30px; }
+
 .mt-30 {
   margin-top: 30px; }
 
@@ -23309,6 +23402,9 @@ readers do not read off random characters that represent icons */
 
 .p-31 {
   padding: 31px; }
+
+.br-31 {
+  border-radius: 31px; }
 
 .mt-31 {
   margin-top: 31px; }
@@ -23356,6 +23452,9 @@ readers do not read off random characters that represent icons */
 .p-32 {
   padding: 32px; }
 
+.br-32 {
+  border-radius: 32px; }
+
 .mt-32 {
   margin-top: 32px; }
 
@@ -23401,6 +23500,9 @@ readers do not read off random characters that represent icons */
 
 .p-33 {
   padding: 33px; }
+
+.br-33 {
+  border-radius: 33px; }
 
 .mt-33 {
   margin-top: 33px; }
@@ -23448,6 +23550,9 @@ readers do not read off random characters that represent icons */
 .p-34 {
   padding: 34px; }
 
+.br-34 {
+  border-radius: 34px; }
+
 .mt-34 {
   margin-top: 34px; }
 
@@ -23493,6 +23598,9 @@ readers do not read off random characters that represent icons */
 
 .p-35 {
   padding: 35px; }
+
+.br-35 {
+  border-radius: 35px; }
 
 .mt-35 {
   margin-top: 35px; }
@@ -23540,6 +23648,9 @@ readers do not read off random characters that represent icons */
 .p-36 {
   padding: 36px; }
 
+.br-36 {
+  border-radius: 36px; }
+
 .mt-36 {
   margin-top: 36px; }
 
@@ -23585,6 +23696,9 @@ readers do not read off random characters that represent icons */
 
 .p-37 {
   padding: 37px; }
+
+.br-37 {
+  border-radius: 37px; }
 
 .mt-37 {
   margin-top: 37px; }
@@ -23632,6 +23746,9 @@ readers do not read off random characters that represent icons */
 .p-38 {
   padding: 38px; }
 
+.br-38 {
+  border-radius: 38px; }
+
 .mt-38 {
   margin-top: 38px; }
 
@@ -23677,6 +23794,9 @@ readers do not read off random characters that represent icons */
 
 .p-39 {
   padding: 39px; }
+
+.br-39 {
+  border-radius: 39px; }
 
 .mt-39 {
   margin-top: 39px; }
@@ -23724,6 +23844,9 @@ readers do not read off random characters that represent icons */
 .p-40 {
   padding: 40px; }
 
+.br-40 {
+  border-radius: 40px; }
+
 .mt-40 {
   margin-top: 40px; }
 
@@ -23769,6 +23892,9 @@ readers do not read off random characters that represent icons */
 
 .p-41 {
   padding: 41px; }
+
+.br-41 {
+  border-radius: 41px; }
 
 .mt-41 {
   margin-top: 41px; }
@@ -23816,6 +23942,9 @@ readers do not read off random characters that represent icons */
 .p-42 {
   padding: 42px; }
 
+.br-42 {
+  border-radius: 42px; }
+
 .mt-42 {
   margin-top: 42px; }
 
@@ -23861,6 +23990,9 @@ readers do not read off random characters that represent icons */
 
 .p-43 {
   padding: 43px; }
+
+.br-43 {
+  border-radius: 43px; }
 
 .mt-43 {
   margin-top: 43px; }
@@ -23908,6 +24040,9 @@ readers do not read off random characters that represent icons */
 .p-44 {
   padding: 44px; }
 
+.br-44 {
+  border-radius: 44px; }
+
 .mt-44 {
   margin-top: 44px; }
 
@@ -23953,6 +24088,9 @@ readers do not read off random characters that represent icons */
 
 .p-45 {
   padding: 45px; }
+
+.br-45 {
+  border-radius: 45px; }
 
 .mt-45 {
   margin-top: 45px; }
@@ -24000,6 +24138,9 @@ readers do not read off random characters that represent icons */
 .p-46 {
   padding: 46px; }
 
+.br-46 {
+  border-radius: 46px; }
+
 .mt-46 {
   margin-top: 46px; }
 
@@ -24045,6 +24186,9 @@ readers do not read off random characters that represent icons */
 
 .p-47 {
   padding: 47px; }
+
+.br-47 {
+  border-radius: 47px; }
 
 .mt-47 {
   margin-top: 47px; }
@@ -24092,6 +24236,9 @@ readers do not read off random characters that represent icons */
 .p-48 {
   padding: 48px; }
 
+.br-48 {
+  border-radius: 48px; }
+
 .mt-48 {
   margin-top: 48px; }
 
@@ -24137,6 +24284,9 @@ readers do not read off random characters that represent icons */
 
 .p-49 {
   padding: 49px; }
+
+.br-49 {
+  border-radius: 49px; }
 
 .mt-49 {
   margin-top: 49px; }
@@ -24184,6 +24334,9 @@ readers do not read off random characters that represent icons */
 .p-50 {
   padding: 50px; }
 
+.br-50 {
+  border-radius: 50px; }
+
 .mt-50 {
   margin-top: 50px; }
 
@@ -24229,6 +24382,9 @@ readers do not read off random characters that represent icons */
 
 .p-51 {
   padding: 51px; }
+
+.br-51 {
+  border-radius: 51px; }
 
 .mt-51 {
   margin-top: 51px; }
@@ -24276,6 +24432,9 @@ readers do not read off random characters that represent icons */
 .p-52 {
   padding: 52px; }
 
+.br-52 {
+  border-radius: 52px; }
+
 .mt-52 {
   margin-top: 52px; }
 
@@ -24321,6 +24480,9 @@ readers do not read off random characters that represent icons */
 
 .p-53 {
   padding: 53px; }
+
+.br-53 {
+  border-radius: 53px; }
 
 .mt-53 {
   margin-top: 53px; }
@@ -24368,6 +24530,9 @@ readers do not read off random characters that represent icons */
 .p-54 {
   padding: 54px; }
 
+.br-54 {
+  border-radius: 54px; }
+
 .mt-54 {
   margin-top: 54px; }
 
@@ -24413,6 +24578,9 @@ readers do not read off random characters that represent icons */
 
 .p-55 {
   padding: 55px; }
+
+.br-55 {
+  border-radius: 55px; }
 
 .mt-55 {
   margin-top: 55px; }
@@ -24460,6 +24628,9 @@ readers do not read off random characters that represent icons */
 .p-56 {
   padding: 56px; }
 
+.br-56 {
+  border-radius: 56px; }
+
 .mt-56 {
   margin-top: 56px; }
 
@@ -24505,6 +24676,9 @@ readers do not read off random characters that represent icons */
 
 .p-57 {
   padding: 57px; }
+
+.br-57 {
+  border-radius: 57px; }
 
 .mt-57 {
   margin-top: 57px; }
@@ -24552,6 +24726,9 @@ readers do not read off random characters that represent icons */
 .p-58 {
   padding: 58px; }
 
+.br-58 {
+  border-radius: 58px; }
+
 .mt-58 {
   margin-top: 58px; }
 
@@ -24597,6 +24774,9 @@ readers do not read off random characters that represent icons */
 
 .p-59 {
   padding: 59px; }
+
+.br-59 {
+  border-radius: 59px; }
 
 .mt-59 {
   margin-top: 59px; }
@@ -24644,6 +24824,9 @@ readers do not read off random characters that represent icons */
 .p-60 {
   padding: 60px; }
 
+.br-60 {
+  border-radius: 60px; }
+
 .mt-60 {
   margin-top: 60px; }
 
@@ -24689,6 +24872,9 @@ readers do not read off random characters that represent icons */
 
 .p-61 {
   padding: 61px; }
+
+.br-61 {
+  border-radius: 61px; }
 
 .mt-61 {
   margin-top: 61px; }
@@ -24736,6 +24922,9 @@ readers do not read off random characters that represent icons */
 .p-62 {
   padding: 62px; }
 
+.br-62 {
+  border-radius: 62px; }
+
 .mt-62 {
   margin-top: 62px; }
 
@@ -24781,6 +24970,9 @@ readers do not read off random characters that represent icons */
 
 .p-63 {
   padding: 63px; }
+
+.br-63 {
+  border-radius: 63px; }
 
 .mt-63 {
   margin-top: 63px; }
@@ -24828,6 +25020,9 @@ readers do not read off random characters that represent icons */
 .p-64 {
   padding: 64px; }
 
+.br-64 {
+  border-radius: 64px; }
+
 .mt-64 {
   margin-top: 64px; }
 
@@ -24873,6 +25068,9 @@ readers do not read off random characters that represent icons */
 
 .p-65 {
   padding: 65px; }
+
+.br-65 {
+  border-radius: 65px; }
 
 .mt-65 {
   margin-top: 65px; }
@@ -24920,6 +25118,9 @@ readers do not read off random characters that represent icons */
 .p-66 {
   padding: 66px; }
 
+.br-66 {
+  border-radius: 66px; }
+
 .mt-66 {
   margin-top: 66px; }
 
@@ -24965,6 +25166,9 @@ readers do not read off random characters that represent icons */
 
 .p-67 {
   padding: 67px; }
+
+.br-67 {
+  border-radius: 67px; }
 
 .mt-67 {
   margin-top: 67px; }
@@ -25012,6 +25216,9 @@ readers do not read off random characters that represent icons */
 .p-68 {
   padding: 68px; }
 
+.br-68 {
+  border-radius: 68px; }
+
 .mt-68 {
   margin-top: 68px; }
 
@@ -25057,6 +25264,9 @@ readers do not read off random characters that represent icons */
 
 .p-69 {
   padding: 69px; }
+
+.br-69 {
+  border-radius: 69px; }
 
 .mt-69 {
   margin-top: 69px; }
@@ -25104,6 +25314,9 @@ readers do not read off random characters that represent icons */
 .p-70 {
   padding: 70px; }
 
+.br-70 {
+  border-radius: 70px; }
+
 .mt-70 {
   margin-top: 70px; }
 
@@ -25149,6 +25362,9 @@ readers do not read off random characters that represent icons */
 
 .p-71 {
   padding: 71px; }
+
+.br-71 {
+  border-radius: 71px; }
 
 .mt-71 {
   margin-top: 71px; }
@@ -25196,6 +25412,9 @@ readers do not read off random characters that represent icons */
 .p-72 {
   padding: 72px; }
 
+.br-72 {
+  border-radius: 72px; }
+
 .mt-72 {
   margin-top: 72px; }
 
@@ -25241,6 +25460,9 @@ readers do not read off random characters that represent icons */
 
 .p-73 {
   padding: 73px; }
+
+.br-73 {
+  border-radius: 73px; }
 
 .mt-73 {
   margin-top: 73px; }
@@ -25288,6 +25510,9 @@ readers do not read off random characters that represent icons */
 .p-74 {
   padding: 74px; }
 
+.br-74 {
+  border-radius: 74px; }
+
 .mt-74 {
   margin-top: 74px; }
 
@@ -25333,6 +25558,9 @@ readers do not read off random characters that represent icons */
 
 .p-75 {
   padding: 75px; }
+
+.br-75 {
+  border-radius: 75px; }
 
 .mt-75 {
   margin-top: 75px; }
@@ -25380,6 +25608,9 @@ readers do not read off random characters that represent icons */
 .p-76 {
   padding: 76px; }
 
+.br-76 {
+  border-radius: 76px; }
+
 .mt-76 {
   margin-top: 76px; }
 
@@ -25425,6 +25656,9 @@ readers do not read off random characters that represent icons */
 
 .p-77 {
   padding: 77px; }
+
+.br-77 {
+  border-radius: 77px; }
 
 .mt-77 {
   margin-top: 77px; }
@@ -25472,6 +25706,9 @@ readers do not read off random characters that represent icons */
 .p-78 {
   padding: 78px; }
 
+.br-78 {
+  border-radius: 78px; }
+
 .mt-78 {
   margin-top: 78px; }
 
@@ -25517,6 +25754,9 @@ readers do not read off random characters that represent icons */
 
 .p-79 {
   padding: 79px; }
+
+.br-79 {
+  border-radius: 79px; }
 
 .mt-79 {
   margin-top: 79px; }
@@ -25564,6 +25804,9 @@ readers do not read off random characters that represent icons */
 .p-80 {
   padding: 80px; }
 
+.br-80 {
+  border-radius: 80px; }
+
 .mt-80 {
   margin-top: 80px; }
 
@@ -25609,6 +25852,9 @@ readers do not read off random characters that represent icons */
 
 .p-81 {
   padding: 81px; }
+
+.br-81 {
+  border-radius: 81px; }
 
 .mt-81 {
   margin-top: 81px; }
@@ -25656,6 +25902,9 @@ readers do not read off random characters that represent icons */
 .p-82 {
   padding: 82px; }
 
+.br-82 {
+  border-radius: 82px; }
+
 .mt-82 {
   margin-top: 82px; }
 
@@ -25701,6 +25950,9 @@ readers do not read off random characters that represent icons */
 
 .p-83 {
   padding: 83px; }
+
+.br-83 {
+  border-radius: 83px; }
 
 .mt-83 {
   margin-top: 83px; }
@@ -25748,6 +26000,9 @@ readers do not read off random characters that represent icons */
 .p-84 {
   padding: 84px; }
 
+.br-84 {
+  border-radius: 84px; }
+
 .mt-84 {
   margin-top: 84px; }
 
@@ -25793,6 +26048,9 @@ readers do not read off random characters that represent icons */
 
 .p-85 {
   padding: 85px; }
+
+.br-85 {
+  border-radius: 85px; }
 
 .mt-85 {
   margin-top: 85px; }
@@ -25840,6 +26098,9 @@ readers do not read off random characters that represent icons */
 .p-86 {
   padding: 86px; }
 
+.br-86 {
+  border-radius: 86px; }
+
 .mt-86 {
   margin-top: 86px; }
 
@@ -25885,6 +26146,9 @@ readers do not read off random characters that represent icons */
 
 .p-87 {
   padding: 87px; }
+
+.br-87 {
+  border-radius: 87px; }
 
 .mt-87 {
   margin-top: 87px; }
@@ -25932,6 +26196,9 @@ readers do not read off random characters that represent icons */
 .p-88 {
   padding: 88px; }
 
+.br-88 {
+  border-radius: 88px; }
+
 .mt-88 {
   margin-top: 88px; }
 
@@ -25977,6 +26244,9 @@ readers do not read off random characters that represent icons */
 
 .p-89 {
   padding: 89px; }
+
+.br-89 {
+  border-radius: 89px; }
 
 .mt-89 {
   margin-top: 89px; }
@@ -26024,6 +26294,9 @@ readers do not read off random characters that represent icons */
 .p-90 {
   padding: 90px; }
 
+.br-90 {
+  border-radius: 90px; }
+
 .mt-90 {
   margin-top: 90px; }
 
@@ -26069,6 +26342,9 @@ readers do not read off random characters that represent icons */
 
 .p-91 {
   padding: 91px; }
+
+.br-91 {
+  border-radius: 91px; }
 
 .mt-91 {
   margin-top: 91px; }
@@ -26116,6 +26392,9 @@ readers do not read off random characters that represent icons */
 .p-92 {
   padding: 92px; }
 
+.br-92 {
+  border-radius: 92px; }
+
 .mt-92 {
   margin-top: 92px; }
 
@@ -26161,6 +26440,9 @@ readers do not read off random characters that represent icons */
 
 .p-93 {
   padding: 93px; }
+
+.br-93 {
+  border-radius: 93px; }
 
 .mt-93 {
   margin-top: 93px; }
@@ -26208,6 +26490,9 @@ readers do not read off random characters that represent icons */
 .p-94 {
   padding: 94px; }
 
+.br-94 {
+  border-radius: 94px; }
+
 .mt-94 {
   margin-top: 94px; }
 
@@ -26253,6 +26538,9 @@ readers do not read off random characters that represent icons */
 
 .p-95 {
   padding: 95px; }
+
+.br-95 {
+  border-radius: 95px; }
 
 .mt-95 {
   margin-top: 95px; }
@@ -26300,6 +26588,9 @@ readers do not read off random characters that represent icons */
 .p-96 {
   padding: 96px; }
 
+.br-96 {
+  border-radius: 96px; }
+
 .mt-96 {
   margin-top: 96px; }
 
@@ -26345,6 +26636,9 @@ readers do not read off random characters that represent icons */
 
 .p-97 {
   padding: 97px; }
+
+.br-97 {
+  border-radius: 97px; }
 
 .mt-97 {
   margin-top: 97px; }
@@ -26392,6 +26686,9 @@ readers do not read off random characters that represent icons */
 .p-98 {
   padding: 98px; }
 
+.br-98 {
+  border-radius: 98px; }
+
 .mt-98 {
   margin-top: 98px; }
 
@@ -26437,6 +26734,9 @@ readers do not read off random characters that represent icons */
 
 .p-99 {
   padding: 99px; }
+
+.br-99 {
+  border-radius: 99px; }
 
 .mt-99 {
   margin-top: 99px; }
@@ -26484,6 +26784,9 @@ readers do not read off random characters that represent icons */
 .p-100 {
   padding: 100px; }
 
+.br-100 {
+  border-radius: 100px; }
+
 .mt-100 {
   margin-top: 100px; }
 
@@ -26529,6 +26832,9 @@ readers do not read off random characters that represent icons */
 
 .p-101 {
   padding: 101px; }
+
+.br-101 {
+  border-radius: 101px; }
 
 .mt-101 {
   margin-top: 101px; }
@@ -26576,6 +26882,9 @@ readers do not read off random characters that represent icons */
 .p-102 {
   padding: 102px; }
 
+.br-102 {
+  border-radius: 102px; }
+
 .mt-102 {
   margin-top: 102px; }
 
@@ -26621,6 +26930,9 @@ readers do not read off random characters that represent icons */
 
 .p-103 {
   padding: 103px; }
+
+.br-103 {
+  border-radius: 103px; }
 
 .mt-103 {
   margin-top: 103px; }
@@ -26668,6 +26980,9 @@ readers do not read off random characters that represent icons */
 .p-104 {
   padding: 104px; }
 
+.br-104 {
+  border-radius: 104px; }
+
 .mt-104 {
   margin-top: 104px; }
 
@@ -26713,6 +27028,9 @@ readers do not read off random characters that represent icons */
 
 .p-105 {
   padding: 105px; }
+
+.br-105 {
+  border-radius: 105px; }
 
 .mt-105 {
   margin-top: 105px; }
@@ -26760,6 +27078,9 @@ readers do not read off random characters that represent icons */
 .p-106 {
   padding: 106px; }
 
+.br-106 {
+  border-radius: 106px; }
+
 .mt-106 {
   margin-top: 106px; }
 
@@ -26805,6 +27126,9 @@ readers do not read off random characters that represent icons */
 
 .p-107 {
   padding: 107px; }
+
+.br-107 {
+  border-radius: 107px; }
 
 .mt-107 {
   margin-top: 107px; }
@@ -26852,6 +27176,9 @@ readers do not read off random characters that represent icons */
 .p-108 {
   padding: 108px; }
 
+.br-108 {
+  border-radius: 108px; }
+
 .mt-108 {
   margin-top: 108px; }
 
@@ -26897,6 +27224,9 @@ readers do not read off random characters that represent icons */
 
 .p-109 {
   padding: 109px; }
+
+.br-109 {
+  border-radius: 109px; }
 
 .mt-109 {
   margin-top: 109px; }
@@ -26944,6 +27274,9 @@ readers do not read off random characters that represent icons */
 .p-110 {
   padding: 110px; }
 
+.br-110 {
+  border-radius: 110px; }
+
 .mt-110 {
   margin-top: 110px; }
 
@@ -26989,6 +27322,9 @@ readers do not read off random characters that represent icons */
 
 .p-111 {
   padding: 111px; }
+
+.br-111 {
+  border-radius: 111px; }
 
 .mt-111 {
   margin-top: 111px; }
@@ -27036,6 +27372,9 @@ readers do not read off random characters that represent icons */
 .p-112 {
   padding: 112px; }
 
+.br-112 {
+  border-radius: 112px; }
+
 .mt-112 {
   margin-top: 112px; }
 
@@ -27081,6 +27420,9 @@ readers do not read off random characters that represent icons */
 
 .p-113 {
   padding: 113px; }
+
+.br-113 {
+  border-radius: 113px; }
 
 .mt-113 {
   margin-top: 113px; }
@@ -27128,6 +27470,9 @@ readers do not read off random characters that represent icons */
 .p-114 {
   padding: 114px; }
 
+.br-114 {
+  border-radius: 114px; }
+
 .mt-114 {
   margin-top: 114px; }
 
@@ -27173,6 +27518,9 @@ readers do not read off random characters that represent icons */
 
 .p-115 {
   padding: 115px; }
+
+.br-115 {
+  border-radius: 115px; }
 
 .mt-115 {
   margin-top: 115px; }
@@ -27220,6 +27568,9 @@ readers do not read off random characters that represent icons */
 .p-116 {
   padding: 116px; }
 
+.br-116 {
+  border-radius: 116px; }
+
 .mt-116 {
   margin-top: 116px; }
 
@@ -27265,6 +27616,9 @@ readers do not read off random characters that represent icons */
 
 .p-117 {
   padding: 117px; }
+
+.br-117 {
+  border-radius: 117px; }
 
 .mt-117 {
   margin-top: 117px; }
@@ -27312,6 +27666,9 @@ readers do not read off random characters that represent icons */
 .p-118 {
   padding: 118px; }
 
+.br-118 {
+  border-radius: 118px; }
+
 .mt-118 {
   margin-top: 118px; }
 
@@ -27357,6 +27714,9 @@ readers do not read off random characters that represent icons */
 
 .p-119 {
   padding: 119px; }
+
+.br-119 {
+  border-radius: 119px; }
 
 .mt-119 {
   margin-top: 119px; }
@@ -27404,6 +27764,9 @@ readers do not read off random characters that represent icons */
 .p-120 {
   padding: 120px; }
 
+.br-120 {
+  border-radius: 120px; }
+
 .mt-120 {
   margin-top: 120px; }
 
@@ -27449,6 +27812,9 @@ readers do not read off random characters that represent icons */
 
 .p-121 {
   padding: 121px; }
+
+.br-121 {
+  border-radius: 121px; }
 
 .mt-121 {
   margin-top: 121px; }
@@ -27496,6 +27862,9 @@ readers do not read off random characters that represent icons */
 .p-122 {
   padding: 122px; }
 
+.br-122 {
+  border-radius: 122px; }
+
 .mt-122 {
   margin-top: 122px; }
 
@@ -27541,6 +27910,9 @@ readers do not read off random characters that represent icons */
 
 .p-123 {
   padding: 123px; }
+
+.br-123 {
+  border-radius: 123px; }
 
 .mt-123 {
   margin-top: 123px; }
@@ -27588,6 +27960,9 @@ readers do not read off random characters that represent icons */
 .p-124 {
   padding: 124px; }
 
+.br-124 {
+  border-radius: 124px; }
+
 .mt-124 {
   margin-top: 124px; }
 
@@ -27633,6 +28008,9 @@ readers do not read off random characters that represent icons */
 
 .p-125 {
   padding: 125px; }
+
+.br-125 {
+  border-radius: 125px; }
 
 .mt-125 {
   margin-top: 125px; }
@@ -27680,6 +28058,9 @@ readers do not read off random characters that represent icons */
 .p-126 {
   padding: 126px; }
 
+.br-126 {
+  border-radius: 126px; }
+
 .mt-126 {
   margin-top: 126px; }
 
@@ -27725,6 +28106,9 @@ readers do not read off random characters that represent icons */
 
 .p-127 {
   padding: 127px; }
+
+.br-127 {
+  border-radius: 127px; }
 
 .mt-127 {
   margin-top: 127px; }
@@ -27772,6 +28156,9 @@ readers do not read off random characters that represent icons */
 .p-128 {
   padding: 128px; }
 
+.br-128 {
+  border-radius: 128px; }
+
 .mt-128 {
   margin-top: 128px; }
 
@@ -27817,6 +28204,9 @@ readers do not read off random characters that represent icons */
 
 .p-129 {
   padding: 129px; }
+
+.br-129 {
+  border-radius: 129px; }
 
 .mt-129 {
   margin-top: 129px; }
@@ -27864,6 +28254,9 @@ readers do not read off random characters that represent icons */
 .p-130 {
   padding: 130px; }
 
+.br-130 {
+  border-radius: 130px; }
+
 .mt-130 {
   margin-top: 130px; }
 
@@ -27909,6 +28302,9 @@ readers do not read off random characters that represent icons */
 
 .p-131 {
   padding: 131px; }
+
+.br-131 {
+  border-radius: 131px; }
 
 .mt-131 {
   margin-top: 131px; }
@@ -27956,6 +28352,9 @@ readers do not read off random characters that represent icons */
 .p-132 {
   padding: 132px; }
 
+.br-132 {
+  border-radius: 132px; }
+
 .mt-132 {
   margin-top: 132px; }
 
@@ -28001,6 +28400,9 @@ readers do not read off random characters that represent icons */
 
 .p-133 {
   padding: 133px; }
+
+.br-133 {
+  border-radius: 133px; }
 
 .mt-133 {
   margin-top: 133px; }
@@ -28048,6 +28450,9 @@ readers do not read off random characters that represent icons */
 .p-134 {
   padding: 134px; }
 
+.br-134 {
+  border-radius: 134px; }
+
 .mt-134 {
   margin-top: 134px; }
 
@@ -28093,6 +28498,9 @@ readers do not read off random characters that represent icons */
 
 .p-135 {
   padding: 135px; }
+
+.br-135 {
+  border-radius: 135px; }
 
 .mt-135 {
   margin-top: 135px; }
@@ -28140,6 +28548,9 @@ readers do not read off random characters that represent icons */
 .p-136 {
   padding: 136px; }
 
+.br-136 {
+  border-radius: 136px; }
+
 .mt-136 {
   margin-top: 136px; }
 
@@ -28185,6 +28596,9 @@ readers do not read off random characters that represent icons */
 
 .p-137 {
   padding: 137px; }
+
+.br-137 {
+  border-radius: 137px; }
 
 .mt-137 {
   margin-top: 137px; }
@@ -28232,6 +28646,9 @@ readers do not read off random characters that represent icons */
 .p-138 {
   padding: 138px; }
 
+.br-138 {
+  border-radius: 138px; }
+
 .mt-138 {
   margin-top: 138px; }
 
@@ -28277,6 +28694,9 @@ readers do not read off random characters that represent icons */
 
 .p-139 {
   padding: 139px; }
+
+.br-139 {
+  border-radius: 139px; }
 
 .mt-139 {
   margin-top: 139px; }
@@ -28324,6 +28744,9 @@ readers do not read off random characters that represent icons */
 .p-140 {
   padding: 140px; }
 
+.br-140 {
+  border-radius: 140px; }
+
 .mt-140 {
   margin-top: 140px; }
 
@@ -28369,6 +28792,9 @@ readers do not read off random characters that represent icons */
 
 .p-141 {
   padding: 141px; }
+
+.br-141 {
+  border-radius: 141px; }
 
 .mt-141 {
   margin-top: 141px; }
@@ -28416,6 +28842,9 @@ readers do not read off random characters that represent icons */
 .p-142 {
   padding: 142px; }
 
+.br-142 {
+  border-radius: 142px; }
+
 .mt-142 {
   margin-top: 142px; }
 
@@ -28461,6 +28890,9 @@ readers do not read off random characters that represent icons */
 
 .p-143 {
   padding: 143px; }
+
+.br-143 {
+  border-radius: 143px; }
 
 .mt-143 {
   margin-top: 143px; }
@@ -28508,6 +28940,9 @@ readers do not read off random characters that represent icons */
 .p-144 {
   padding: 144px; }
 
+.br-144 {
+  border-radius: 144px; }
+
 .mt-144 {
   margin-top: 144px; }
 
@@ -28553,6 +28988,9 @@ readers do not read off random characters that represent icons */
 
 .p-145 {
   padding: 145px; }
+
+.br-145 {
+  border-radius: 145px; }
 
 .mt-145 {
   margin-top: 145px; }
@@ -28600,6 +29038,9 @@ readers do not read off random characters that represent icons */
 .p-146 {
   padding: 146px; }
 
+.br-146 {
+  border-radius: 146px; }
+
 .mt-146 {
   margin-top: 146px; }
 
@@ -28645,6 +29086,9 @@ readers do not read off random characters that represent icons */
 
 .p-147 {
   padding: 147px; }
+
+.br-147 {
+  border-radius: 147px; }
 
 .mt-147 {
   margin-top: 147px; }
@@ -28692,6 +29136,9 @@ readers do not read off random characters that represent icons */
 .p-148 {
   padding: 148px; }
 
+.br-148 {
+  border-radius: 148px; }
+
 .mt-148 {
   margin-top: 148px; }
 
@@ -28738,6 +29185,9 @@ readers do not read off random characters that represent icons */
 .p-149 {
   padding: 149px; }
 
+.br-149 {
+  border-radius: 149px; }
+
 .mt-149 {
   margin-top: 149px; }
 
@@ -28783,6 +29233,9 @@ readers do not read off random characters that represent icons */
 
 .p-150 {
   padding: 150px; }
+
+.br-150 {
+  border-radius: 150px; }
 
 .mt-150 {
   margin-top: 150px; }
@@ -34629,6 +35082,8 @@ readers do not read off random characters that represent icons */
     margin: auto; }
   .p-sm-auto {
     padding: auto; }
+  .br-sm-auto {
+    border-radius: auto; }
   .mt-sm-auto {
     margin-top: auto; }
   .pt-sm-auto {
@@ -34661,6 +35116,8 @@ readers do not read off random characters that represent icons */
     margin: 0px; }
   .p-sm-0 {
     padding: 0px; }
+  .br-sm-0 {
+    border-radius: 0px; }
   .mt-sm-0 {
     margin-top: 0px; }
   .pt-sm-0 {
@@ -34693,6 +35150,8 @@ readers do not read off random characters that represent icons */
     margin: 1px; }
   .p-sm-1 {
     padding: 1px; }
+  .br-sm-1 {
+    border-radius: 1px; }
   .mt-sm-1 {
     margin-top: 1px; }
   .pt-sm-1 {
@@ -34725,6 +35184,8 @@ readers do not read off random characters that represent icons */
     margin: 2px; }
   .p-sm-2 {
     padding: 2px; }
+  .br-sm-2 {
+    border-radius: 2px; }
   .mt-sm-2 {
     margin-top: 2px; }
   .pt-sm-2 {
@@ -34757,6 +35218,8 @@ readers do not read off random characters that represent icons */
     margin: 3px; }
   .p-sm-3 {
     padding: 3px; }
+  .br-sm-3 {
+    border-radius: 3px; }
   .mt-sm-3 {
     margin-top: 3px; }
   .pt-sm-3 {
@@ -34789,6 +35252,8 @@ readers do not read off random characters that represent icons */
     margin: 4px; }
   .p-sm-4 {
     padding: 4px; }
+  .br-sm-4 {
+    border-radius: 4px; }
   .mt-sm-4 {
     margin-top: 4px; }
   .pt-sm-4 {
@@ -34821,6 +35286,8 @@ readers do not read off random characters that represent icons */
     margin: 5px; }
   .p-sm-5 {
     padding: 5px; }
+  .br-sm-5 {
+    border-radius: 5px; }
   .mt-sm-5 {
     margin-top: 5px; }
   .pt-sm-5 {
@@ -34853,6 +35320,8 @@ readers do not read off random characters that represent icons */
     margin: 6px; }
   .p-sm-6 {
     padding: 6px; }
+  .br-sm-6 {
+    border-radius: 6px; }
   .mt-sm-6 {
     margin-top: 6px; }
   .pt-sm-6 {
@@ -34885,6 +35354,8 @@ readers do not read off random characters that represent icons */
     margin: 7px; }
   .p-sm-7 {
     padding: 7px; }
+  .br-sm-7 {
+    border-radius: 7px; }
   .mt-sm-7 {
     margin-top: 7px; }
   .pt-sm-7 {
@@ -34917,6 +35388,8 @@ readers do not read off random characters that represent icons */
     margin: 8px; }
   .p-sm-8 {
     padding: 8px; }
+  .br-sm-8 {
+    border-radius: 8px; }
   .mt-sm-8 {
     margin-top: 8px; }
   .pt-sm-8 {
@@ -34949,6 +35422,8 @@ readers do not read off random characters that represent icons */
     margin: 9px; }
   .p-sm-9 {
     padding: 9px; }
+  .br-sm-9 {
+    border-radius: 9px; }
   .mt-sm-9 {
     margin-top: 9px; }
   .pt-sm-9 {
@@ -34981,6 +35456,8 @@ readers do not read off random characters that represent icons */
     margin: 10px; }
   .p-sm-10 {
     padding: 10px; }
+  .br-sm-10 {
+    border-radius: 10px; }
   .mt-sm-10 {
     margin-top: 10px; }
   .pt-sm-10 {
@@ -35013,6 +35490,8 @@ readers do not read off random characters that represent icons */
     margin: 11px; }
   .p-sm-11 {
     padding: 11px; }
+  .br-sm-11 {
+    border-radius: 11px; }
   .mt-sm-11 {
     margin-top: 11px; }
   .pt-sm-11 {
@@ -35045,6 +35524,8 @@ readers do not read off random characters that represent icons */
     margin: 12px; }
   .p-sm-12 {
     padding: 12px; }
+  .br-sm-12 {
+    border-radius: 12px; }
   .mt-sm-12 {
     margin-top: 12px; }
   .pt-sm-12 {
@@ -35077,6 +35558,8 @@ readers do not read off random characters that represent icons */
     margin: 13px; }
   .p-sm-13 {
     padding: 13px; }
+  .br-sm-13 {
+    border-radius: 13px; }
   .mt-sm-13 {
     margin-top: 13px; }
   .pt-sm-13 {
@@ -35109,6 +35592,8 @@ readers do not read off random characters that represent icons */
     margin: 14px; }
   .p-sm-14 {
     padding: 14px; }
+  .br-sm-14 {
+    border-radius: 14px; }
   .mt-sm-14 {
     margin-top: 14px; }
   .pt-sm-14 {
@@ -35141,6 +35626,8 @@ readers do not read off random characters that represent icons */
     margin: 15px; }
   .p-sm-15 {
     padding: 15px; }
+  .br-sm-15 {
+    border-radius: 15px; }
   .mt-sm-15 {
     margin-top: 15px; }
   .pt-sm-15 {
@@ -35173,6 +35660,8 @@ readers do not read off random characters that represent icons */
     margin: 16px; }
   .p-sm-16 {
     padding: 16px; }
+  .br-sm-16 {
+    border-radius: 16px; }
   .mt-sm-16 {
     margin-top: 16px; }
   .pt-sm-16 {
@@ -35205,6 +35694,8 @@ readers do not read off random characters that represent icons */
     margin: 17px; }
   .p-sm-17 {
     padding: 17px; }
+  .br-sm-17 {
+    border-radius: 17px; }
   .mt-sm-17 {
     margin-top: 17px; }
   .pt-sm-17 {
@@ -35237,6 +35728,8 @@ readers do not read off random characters that represent icons */
     margin: 18px; }
   .p-sm-18 {
     padding: 18px; }
+  .br-sm-18 {
+    border-radius: 18px; }
   .mt-sm-18 {
     margin-top: 18px; }
   .pt-sm-18 {
@@ -35269,6 +35762,8 @@ readers do not read off random characters that represent icons */
     margin: 19px; }
   .p-sm-19 {
     padding: 19px; }
+  .br-sm-19 {
+    border-radius: 19px; }
   .mt-sm-19 {
     margin-top: 19px; }
   .pt-sm-19 {
@@ -35301,6 +35796,8 @@ readers do not read off random characters that represent icons */
     margin: 20px; }
   .p-sm-20 {
     padding: 20px; }
+  .br-sm-20 {
+    border-radius: 20px; }
   .mt-sm-20 {
     margin-top: 20px; }
   .pt-sm-20 {
@@ -35333,6 +35830,8 @@ readers do not read off random characters that represent icons */
     margin: 21px; }
   .p-sm-21 {
     padding: 21px; }
+  .br-sm-21 {
+    border-radius: 21px; }
   .mt-sm-21 {
     margin-top: 21px; }
   .pt-sm-21 {
@@ -35365,6 +35864,8 @@ readers do not read off random characters that represent icons */
     margin: 22px; }
   .p-sm-22 {
     padding: 22px; }
+  .br-sm-22 {
+    border-radius: 22px; }
   .mt-sm-22 {
     margin-top: 22px; }
   .pt-sm-22 {
@@ -35397,6 +35898,8 @@ readers do not read off random characters that represent icons */
     margin: 23px; }
   .p-sm-23 {
     padding: 23px; }
+  .br-sm-23 {
+    border-radius: 23px; }
   .mt-sm-23 {
     margin-top: 23px; }
   .pt-sm-23 {
@@ -35429,6 +35932,8 @@ readers do not read off random characters that represent icons */
     margin: 24px; }
   .p-sm-24 {
     padding: 24px; }
+  .br-sm-24 {
+    border-radius: 24px; }
   .mt-sm-24 {
     margin-top: 24px; }
   .pt-sm-24 {
@@ -35461,6 +35966,8 @@ readers do not read off random characters that represent icons */
     margin: 25px; }
   .p-sm-25 {
     padding: 25px; }
+  .br-sm-25 {
+    border-radius: 25px; }
   .mt-sm-25 {
     margin-top: 25px; }
   .pt-sm-25 {
@@ -35493,6 +36000,8 @@ readers do not read off random characters that represent icons */
     margin: 26px; }
   .p-sm-26 {
     padding: 26px; }
+  .br-sm-26 {
+    border-radius: 26px; }
   .mt-sm-26 {
     margin-top: 26px; }
   .pt-sm-26 {
@@ -35525,6 +36034,8 @@ readers do not read off random characters that represent icons */
     margin: 27px; }
   .p-sm-27 {
     padding: 27px; }
+  .br-sm-27 {
+    border-radius: 27px; }
   .mt-sm-27 {
     margin-top: 27px; }
   .pt-sm-27 {
@@ -35557,6 +36068,8 @@ readers do not read off random characters that represent icons */
     margin: 28px; }
   .p-sm-28 {
     padding: 28px; }
+  .br-sm-28 {
+    border-radius: 28px; }
   .mt-sm-28 {
     margin-top: 28px; }
   .pt-sm-28 {
@@ -35589,6 +36102,8 @@ readers do not read off random characters that represent icons */
     margin: 29px; }
   .p-sm-29 {
     padding: 29px; }
+  .br-sm-29 {
+    border-radius: 29px; }
   .mt-sm-29 {
     margin-top: 29px; }
   .pt-sm-29 {
@@ -35621,6 +36136,8 @@ readers do not read off random characters that represent icons */
     margin: 30px; }
   .p-sm-30 {
     padding: 30px; }
+  .br-sm-30 {
+    border-radius: 30px; }
   .mt-sm-30 {
     margin-top: 30px; }
   .pt-sm-30 {
@@ -35653,6 +36170,8 @@ readers do not read off random characters that represent icons */
     margin: 31px; }
   .p-sm-31 {
     padding: 31px; }
+  .br-sm-31 {
+    border-radius: 31px; }
   .mt-sm-31 {
     margin-top: 31px; }
   .pt-sm-31 {
@@ -35685,6 +36204,8 @@ readers do not read off random characters that represent icons */
     margin: 32px; }
   .p-sm-32 {
     padding: 32px; }
+  .br-sm-32 {
+    border-radius: 32px; }
   .mt-sm-32 {
     margin-top: 32px; }
   .pt-sm-32 {
@@ -35717,6 +36238,8 @@ readers do not read off random characters that represent icons */
     margin: 33px; }
   .p-sm-33 {
     padding: 33px; }
+  .br-sm-33 {
+    border-radius: 33px; }
   .mt-sm-33 {
     margin-top: 33px; }
   .pt-sm-33 {
@@ -35749,6 +36272,8 @@ readers do not read off random characters that represent icons */
     margin: 34px; }
   .p-sm-34 {
     padding: 34px; }
+  .br-sm-34 {
+    border-radius: 34px; }
   .mt-sm-34 {
     margin-top: 34px; }
   .pt-sm-34 {
@@ -35781,6 +36306,8 @@ readers do not read off random characters that represent icons */
     margin: 35px; }
   .p-sm-35 {
     padding: 35px; }
+  .br-sm-35 {
+    border-radius: 35px; }
   .mt-sm-35 {
     margin-top: 35px; }
   .pt-sm-35 {
@@ -35813,6 +36340,8 @@ readers do not read off random characters that represent icons */
     margin: 36px; }
   .p-sm-36 {
     padding: 36px; }
+  .br-sm-36 {
+    border-radius: 36px; }
   .mt-sm-36 {
     margin-top: 36px; }
   .pt-sm-36 {
@@ -35845,6 +36374,8 @@ readers do not read off random characters that represent icons */
     margin: 37px; }
   .p-sm-37 {
     padding: 37px; }
+  .br-sm-37 {
+    border-radius: 37px; }
   .mt-sm-37 {
     margin-top: 37px; }
   .pt-sm-37 {
@@ -35877,6 +36408,8 @@ readers do not read off random characters that represent icons */
     margin: 38px; }
   .p-sm-38 {
     padding: 38px; }
+  .br-sm-38 {
+    border-radius: 38px; }
   .mt-sm-38 {
     margin-top: 38px; }
   .pt-sm-38 {
@@ -35909,6 +36442,8 @@ readers do not read off random characters that represent icons */
     margin: 39px; }
   .p-sm-39 {
     padding: 39px; }
+  .br-sm-39 {
+    border-radius: 39px; }
   .mt-sm-39 {
     margin-top: 39px; }
   .pt-sm-39 {
@@ -35941,6 +36476,8 @@ readers do not read off random characters that represent icons */
     margin: 40px; }
   .p-sm-40 {
     padding: 40px; }
+  .br-sm-40 {
+    border-radius: 40px; }
   .mt-sm-40 {
     margin-top: 40px; }
   .pt-sm-40 {
@@ -35973,6 +36510,8 @@ readers do not read off random characters that represent icons */
     margin: 41px; }
   .p-sm-41 {
     padding: 41px; }
+  .br-sm-41 {
+    border-radius: 41px; }
   .mt-sm-41 {
     margin-top: 41px; }
   .pt-sm-41 {
@@ -36005,6 +36544,8 @@ readers do not read off random characters that represent icons */
     margin: 42px; }
   .p-sm-42 {
     padding: 42px; }
+  .br-sm-42 {
+    border-radius: 42px; }
   .mt-sm-42 {
     margin-top: 42px; }
   .pt-sm-42 {
@@ -36037,6 +36578,8 @@ readers do not read off random characters that represent icons */
     margin: 43px; }
   .p-sm-43 {
     padding: 43px; }
+  .br-sm-43 {
+    border-radius: 43px; }
   .mt-sm-43 {
     margin-top: 43px; }
   .pt-sm-43 {
@@ -36069,6 +36612,8 @@ readers do not read off random characters that represent icons */
     margin: 44px; }
   .p-sm-44 {
     padding: 44px; }
+  .br-sm-44 {
+    border-radius: 44px; }
   .mt-sm-44 {
     margin-top: 44px; }
   .pt-sm-44 {
@@ -36101,6 +36646,8 @@ readers do not read off random characters that represent icons */
     margin: 45px; }
   .p-sm-45 {
     padding: 45px; }
+  .br-sm-45 {
+    border-radius: 45px; }
   .mt-sm-45 {
     margin-top: 45px; }
   .pt-sm-45 {
@@ -36133,6 +36680,8 @@ readers do not read off random characters that represent icons */
     margin: 46px; }
   .p-sm-46 {
     padding: 46px; }
+  .br-sm-46 {
+    border-radius: 46px; }
   .mt-sm-46 {
     margin-top: 46px; }
   .pt-sm-46 {
@@ -36165,6 +36714,8 @@ readers do not read off random characters that represent icons */
     margin: 47px; }
   .p-sm-47 {
     padding: 47px; }
+  .br-sm-47 {
+    border-radius: 47px; }
   .mt-sm-47 {
     margin-top: 47px; }
   .pt-sm-47 {
@@ -36197,6 +36748,8 @@ readers do not read off random characters that represent icons */
     margin: 48px; }
   .p-sm-48 {
     padding: 48px; }
+  .br-sm-48 {
+    border-radius: 48px; }
   .mt-sm-48 {
     margin-top: 48px; }
   .pt-sm-48 {
@@ -36229,6 +36782,8 @@ readers do not read off random characters that represent icons */
     margin: 49px; }
   .p-sm-49 {
     padding: 49px; }
+  .br-sm-49 {
+    border-radius: 49px; }
   .mt-sm-49 {
     margin-top: 49px; }
   .pt-sm-49 {
@@ -36261,6 +36816,8 @@ readers do not read off random characters that represent icons */
     margin: 50px; }
   .p-sm-50 {
     padding: 50px; }
+  .br-sm-50 {
+    border-radius: 50px; }
   .mt-sm-50 {
     margin-top: 50px; }
   .pt-sm-50 {
@@ -36293,6 +36850,8 @@ readers do not read off random characters that represent icons */
     margin: 51px; }
   .p-sm-51 {
     padding: 51px; }
+  .br-sm-51 {
+    border-radius: 51px; }
   .mt-sm-51 {
     margin-top: 51px; }
   .pt-sm-51 {
@@ -36325,6 +36884,8 @@ readers do not read off random characters that represent icons */
     margin: 52px; }
   .p-sm-52 {
     padding: 52px; }
+  .br-sm-52 {
+    border-radius: 52px; }
   .mt-sm-52 {
     margin-top: 52px; }
   .pt-sm-52 {
@@ -36357,6 +36918,8 @@ readers do not read off random characters that represent icons */
     margin: 53px; }
   .p-sm-53 {
     padding: 53px; }
+  .br-sm-53 {
+    border-radius: 53px; }
   .mt-sm-53 {
     margin-top: 53px; }
   .pt-sm-53 {
@@ -36389,6 +36952,8 @@ readers do not read off random characters that represent icons */
     margin: 54px; }
   .p-sm-54 {
     padding: 54px; }
+  .br-sm-54 {
+    border-radius: 54px; }
   .mt-sm-54 {
     margin-top: 54px; }
   .pt-sm-54 {
@@ -36421,6 +36986,8 @@ readers do not read off random characters that represent icons */
     margin: 55px; }
   .p-sm-55 {
     padding: 55px; }
+  .br-sm-55 {
+    border-radius: 55px; }
   .mt-sm-55 {
     margin-top: 55px; }
   .pt-sm-55 {
@@ -36453,6 +37020,8 @@ readers do not read off random characters that represent icons */
     margin: 56px; }
   .p-sm-56 {
     padding: 56px; }
+  .br-sm-56 {
+    border-radius: 56px; }
   .mt-sm-56 {
     margin-top: 56px; }
   .pt-sm-56 {
@@ -36485,6 +37054,8 @@ readers do not read off random characters that represent icons */
     margin: 57px; }
   .p-sm-57 {
     padding: 57px; }
+  .br-sm-57 {
+    border-radius: 57px; }
   .mt-sm-57 {
     margin-top: 57px; }
   .pt-sm-57 {
@@ -36517,6 +37088,8 @@ readers do not read off random characters that represent icons */
     margin: 58px; }
   .p-sm-58 {
     padding: 58px; }
+  .br-sm-58 {
+    border-radius: 58px; }
   .mt-sm-58 {
     margin-top: 58px; }
   .pt-sm-58 {
@@ -36549,6 +37122,8 @@ readers do not read off random characters that represent icons */
     margin: 59px; }
   .p-sm-59 {
     padding: 59px; }
+  .br-sm-59 {
+    border-radius: 59px; }
   .mt-sm-59 {
     margin-top: 59px; }
   .pt-sm-59 {
@@ -36581,6 +37156,8 @@ readers do not read off random characters that represent icons */
     margin: 60px; }
   .p-sm-60 {
     padding: 60px; }
+  .br-sm-60 {
+    border-radius: 60px; }
   .mt-sm-60 {
     margin-top: 60px; }
   .pt-sm-60 {
@@ -36613,6 +37190,8 @@ readers do not read off random characters that represent icons */
     margin: 61px; }
   .p-sm-61 {
     padding: 61px; }
+  .br-sm-61 {
+    border-radius: 61px; }
   .mt-sm-61 {
     margin-top: 61px; }
   .pt-sm-61 {
@@ -36645,6 +37224,8 @@ readers do not read off random characters that represent icons */
     margin: 62px; }
   .p-sm-62 {
     padding: 62px; }
+  .br-sm-62 {
+    border-radius: 62px; }
   .mt-sm-62 {
     margin-top: 62px; }
   .pt-sm-62 {
@@ -36677,6 +37258,8 @@ readers do not read off random characters that represent icons */
     margin: 63px; }
   .p-sm-63 {
     padding: 63px; }
+  .br-sm-63 {
+    border-radius: 63px; }
   .mt-sm-63 {
     margin-top: 63px; }
   .pt-sm-63 {
@@ -36709,6 +37292,8 @@ readers do not read off random characters that represent icons */
     margin: 64px; }
   .p-sm-64 {
     padding: 64px; }
+  .br-sm-64 {
+    border-radius: 64px; }
   .mt-sm-64 {
     margin-top: 64px; }
   .pt-sm-64 {
@@ -36741,6 +37326,8 @@ readers do not read off random characters that represent icons */
     margin: 65px; }
   .p-sm-65 {
     padding: 65px; }
+  .br-sm-65 {
+    border-radius: 65px; }
   .mt-sm-65 {
     margin-top: 65px; }
   .pt-sm-65 {
@@ -36773,6 +37360,8 @@ readers do not read off random characters that represent icons */
     margin: 66px; }
   .p-sm-66 {
     padding: 66px; }
+  .br-sm-66 {
+    border-radius: 66px; }
   .mt-sm-66 {
     margin-top: 66px; }
   .pt-sm-66 {
@@ -36805,6 +37394,8 @@ readers do not read off random characters that represent icons */
     margin: 67px; }
   .p-sm-67 {
     padding: 67px; }
+  .br-sm-67 {
+    border-radius: 67px; }
   .mt-sm-67 {
     margin-top: 67px; }
   .pt-sm-67 {
@@ -36837,6 +37428,8 @@ readers do not read off random characters that represent icons */
     margin: 68px; }
   .p-sm-68 {
     padding: 68px; }
+  .br-sm-68 {
+    border-radius: 68px; }
   .mt-sm-68 {
     margin-top: 68px; }
   .pt-sm-68 {
@@ -36869,6 +37462,8 @@ readers do not read off random characters that represent icons */
     margin: 69px; }
   .p-sm-69 {
     padding: 69px; }
+  .br-sm-69 {
+    border-radius: 69px; }
   .mt-sm-69 {
     margin-top: 69px; }
   .pt-sm-69 {
@@ -36901,6 +37496,8 @@ readers do not read off random characters that represent icons */
     margin: 70px; }
   .p-sm-70 {
     padding: 70px; }
+  .br-sm-70 {
+    border-radius: 70px; }
   .mt-sm-70 {
     margin-top: 70px; }
   .pt-sm-70 {
@@ -36933,6 +37530,8 @@ readers do not read off random characters that represent icons */
     margin: 71px; }
   .p-sm-71 {
     padding: 71px; }
+  .br-sm-71 {
+    border-radius: 71px; }
   .mt-sm-71 {
     margin-top: 71px; }
   .pt-sm-71 {
@@ -36965,6 +37564,8 @@ readers do not read off random characters that represent icons */
     margin: 72px; }
   .p-sm-72 {
     padding: 72px; }
+  .br-sm-72 {
+    border-radius: 72px; }
   .mt-sm-72 {
     margin-top: 72px; }
   .pt-sm-72 {
@@ -36997,6 +37598,8 @@ readers do not read off random characters that represent icons */
     margin: 73px; }
   .p-sm-73 {
     padding: 73px; }
+  .br-sm-73 {
+    border-radius: 73px; }
   .mt-sm-73 {
     margin-top: 73px; }
   .pt-sm-73 {
@@ -37029,6 +37632,8 @@ readers do not read off random characters that represent icons */
     margin: 74px; }
   .p-sm-74 {
     padding: 74px; }
+  .br-sm-74 {
+    border-radius: 74px; }
   .mt-sm-74 {
     margin-top: 74px; }
   .pt-sm-74 {
@@ -37061,6 +37666,8 @@ readers do not read off random characters that represent icons */
     margin: 75px; }
   .p-sm-75 {
     padding: 75px; }
+  .br-sm-75 {
+    border-radius: 75px; }
   .mt-sm-75 {
     margin-top: 75px; }
   .pt-sm-75 {
@@ -37093,6 +37700,8 @@ readers do not read off random characters that represent icons */
     margin: 76px; }
   .p-sm-76 {
     padding: 76px; }
+  .br-sm-76 {
+    border-radius: 76px; }
   .mt-sm-76 {
     margin-top: 76px; }
   .pt-sm-76 {
@@ -37125,6 +37734,8 @@ readers do not read off random characters that represent icons */
     margin: 77px; }
   .p-sm-77 {
     padding: 77px; }
+  .br-sm-77 {
+    border-radius: 77px; }
   .mt-sm-77 {
     margin-top: 77px; }
   .pt-sm-77 {
@@ -37157,6 +37768,8 @@ readers do not read off random characters that represent icons */
     margin: 78px; }
   .p-sm-78 {
     padding: 78px; }
+  .br-sm-78 {
+    border-radius: 78px; }
   .mt-sm-78 {
     margin-top: 78px; }
   .pt-sm-78 {
@@ -37189,6 +37802,8 @@ readers do not read off random characters that represent icons */
     margin: 79px; }
   .p-sm-79 {
     padding: 79px; }
+  .br-sm-79 {
+    border-radius: 79px; }
   .mt-sm-79 {
     margin-top: 79px; }
   .pt-sm-79 {
@@ -37221,6 +37836,8 @@ readers do not read off random characters that represent icons */
     margin: 80px; }
   .p-sm-80 {
     padding: 80px; }
+  .br-sm-80 {
+    border-radius: 80px; }
   .mt-sm-80 {
     margin-top: 80px; }
   .pt-sm-80 {
@@ -37253,6 +37870,8 @@ readers do not read off random characters that represent icons */
     margin: 81px; }
   .p-sm-81 {
     padding: 81px; }
+  .br-sm-81 {
+    border-radius: 81px; }
   .mt-sm-81 {
     margin-top: 81px; }
   .pt-sm-81 {
@@ -37285,6 +37904,8 @@ readers do not read off random characters that represent icons */
     margin: 82px; }
   .p-sm-82 {
     padding: 82px; }
+  .br-sm-82 {
+    border-radius: 82px; }
   .mt-sm-82 {
     margin-top: 82px; }
   .pt-sm-82 {
@@ -37317,6 +37938,8 @@ readers do not read off random characters that represent icons */
     margin: 83px; }
   .p-sm-83 {
     padding: 83px; }
+  .br-sm-83 {
+    border-radius: 83px; }
   .mt-sm-83 {
     margin-top: 83px; }
   .pt-sm-83 {
@@ -37349,6 +37972,8 @@ readers do not read off random characters that represent icons */
     margin: 84px; }
   .p-sm-84 {
     padding: 84px; }
+  .br-sm-84 {
+    border-radius: 84px; }
   .mt-sm-84 {
     margin-top: 84px; }
   .pt-sm-84 {
@@ -37381,6 +38006,8 @@ readers do not read off random characters that represent icons */
     margin: 85px; }
   .p-sm-85 {
     padding: 85px; }
+  .br-sm-85 {
+    border-radius: 85px; }
   .mt-sm-85 {
     margin-top: 85px; }
   .pt-sm-85 {
@@ -37413,6 +38040,8 @@ readers do not read off random characters that represent icons */
     margin: 86px; }
   .p-sm-86 {
     padding: 86px; }
+  .br-sm-86 {
+    border-radius: 86px; }
   .mt-sm-86 {
     margin-top: 86px; }
   .pt-sm-86 {
@@ -37445,6 +38074,8 @@ readers do not read off random characters that represent icons */
     margin: 87px; }
   .p-sm-87 {
     padding: 87px; }
+  .br-sm-87 {
+    border-radius: 87px; }
   .mt-sm-87 {
     margin-top: 87px; }
   .pt-sm-87 {
@@ -37477,6 +38108,8 @@ readers do not read off random characters that represent icons */
     margin: 88px; }
   .p-sm-88 {
     padding: 88px; }
+  .br-sm-88 {
+    border-radius: 88px; }
   .mt-sm-88 {
     margin-top: 88px; }
   .pt-sm-88 {
@@ -37509,6 +38142,8 @@ readers do not read off random characters that represent icons */
     margin: 89px; }
   .p-sm-89 {
     padding: 89px; }
+  .br-sm-89 {
+    border-radius: 89px; }
   .mt-sm-89 {
     margin-top: 89px; }
   .pt-sm-89 {
@@ -37541,6 +38176,8 @@ readers do not read off random characters that represent icons */
     margin: 90px; }
   .p-sm-90 {
     padding: 90px; }
+  .br-sm-90 {
+    border-radius: 90px; }
   .mt-sm-90 {
     margin-top: 90px; }
   .pt-sm-90 {
@@ -37573,6 +38210,8 @@ readers do not read off random characters that represent icons */
     margin: 91px; }
   .p-sm-91 {
     padding: 91px; }
+  .br-sm-91 {
+    border-radius: 91px; }
   .mt-sm-91 {
     margin-top: 91px; }
   .pt-sm-91 {
@@ -37605,6 +38244,8 @@ readers do not read off random characters that represent icons */
     margin: 92px; }
   .p-sm-92 {
     padding: 92px; }
+  .br-sm-92 {
+    border-radius: 92px; }
   .mt-sm-92 {
     margin-top: 92px; }
   .pt-sm-92 {
@@ -37637,6 +38278,8 @@ readers do not read off random characters that represent icons */
     margin: 93px; }
   .p-sm-93 {
     padding: 93px; }
+  .br-sm-93 {
+    border-radius: 93px; }
   .mt-sm-93 {
     margin-top: 93px; }
   .pt-sm-93 {
@@ -37669,6 +38312,8 @@ readers do not read off random characters that represent icons */
     margin: 94px; }
   .p-sm-94 {
     padding: 94px; }
+  .br-sm-94 {
+    border-radius: 94px; }
   .mt-sm-94 {
     margin-top: 94px; }
   .pt-sm-94 {
@@ -37701,6 +38346,8 @@ readers do not read off random characters that represent icons */
     margin: 95px; }
   .p-sm-95 {
     padding: 95px; }
+  .br-sm-95 {
+    border-radius: 95px; }
   .mt-sm-95 {
     margin-top: 95px; }
   .pt-sm-95 {
@@ -37733,6 +38380,8 @@ readers do not read off random characters that represent icons */
     margin: 96px; }
   .p-sm-96 {
     padding: 96px; }
+  .br-sm-96 {
+    border-radius: 96px; }
   .mt-sm-96 {
     margin-top: 96px; }
   .pt-sm-96 {
@@ -37765,6 +38414,8 @@ readers do not read off random characters that represent icons */
     margin: 97px; }
   .p-sm-97 {
     padding: 97px; }
+  .br-sm-97 {
+    border-radius: 97px; }
   .mt-sm-97 {
     margin-top: 97px; }
   .pt-sm-97 {
@@ -37797,6 +38448,8 @@ readers do not read off random characters that represent icons */
     margin: 98px; }
   .p-sm-98 {
     padding: 98px; }
+  .br-sm-98 {
+    border-radius: 98px; }
   .mt-sm-98 {
     margin-top: 98px; }
   .pt-sm-98 {
@@ -37829,6 +38482,8 @@ readers do not read off random characters that represent icons */
     margin: 99px; }
   .p-sm-99 {
     padding: 99px; }
+  .br-sm-99 {
+    border-radius: 99px; }
   .mt-sm-99 {
     margin-top: 99px; }
   .pt-sm-99 {
@@ -37861,6 +38516,8 @@ readers do not read off random characters that represent icons */
     margin: 100px; }
   .p-sm-100 {
     padding: 100px; }
+  .br-sm-100 {
+    border-radius: 100px; }
   .mt-sm-100 {
     margin-top: 100px; }
   .pt-sm-100 {
@@ -37893,6 +38550,8 @@ readers do not read off random characters that represent icons */
     margin: 101px; }
   .p-sm-101 {
     padding: 101px; }
+  .br-sm-101 {
+    border-radius: 101px; }
   .mt-sm-101 {
     margin-top: 101px; }
   .pt-sm-101 {
@@ -37925,6 +38584,8 @@ readers do not read off random characters that represent icons */
     margin: 102px; }
   .p-sm-102 {
     padding: 102px; }
+  .br-sm-102 {
+    border-radius: 102px; }
   .mt-sm-102 {
     margin-top: 102px; }
   .pt-sm-102 {
@@ -37957,6 +38618,8 @@ readers do not read off random characters that represent icons */
     margin: 103px; }
   .p-sm-103 {
     padding: 103px; }
+  .br-sm-103 {
+    border-radius: 103px; }
   .mt-sm-103 {
     margin-top: 103px; }
   .pt-sm-103 {
@@ -37989,6 +38652,8 @@ readers do not read off random characters that represent icons */
     margin: 104px; }
   .p-sm-104 {
     padding: 104px; }
+  .br-sm-104 {
+    border-radius: 104px; }
   .mt-sm-104 {
     margin-top: 104px; }
   .pt-sm-104 {
@@ -38021,6 +38686,8 @@ readers do not read off random characters that represent icons */
     margin: 105px; }
   .p-sm-105 {
     padding: 105px; }
+  .br-sm-105 {
+    border-radius: 105px; }
   .mt-sm-105 {
     margin-top: 105px; }
   .pt-sm-105 {
@@ -38053,6 +38720,8 @@ readers do not read off random characters that represent icons */
     margin: 106px; }
   .p-sm-106 {
     padding: 106px; }
+  .br-sm-106 {
+    border-radius: 106px; }
   .mt-sm-106 {
     margin-top: 106px; }
   .pt-sm-106 {
@@ -38085,6 +38754,8 @@ readers do not read off random characters that represent icons */
     margin: 107px; }
   .p-sm-107 {
     padding: 107px; }
+  .br-sm-107 {
+    border-radius: 107px; }
   .mt-sm-107 {
     margin-top: 107px; }
   .pt-sm-107 {
@@ -38117,6 +38788,8 @@ readers do not read off random characters that represent icons */
     margin: 108px; }
   .p-sm-108 {
     padding: 108px; }
+  .br-sm-108 {
+    border-radius: 108px; }
   .mt-sm-108 {
     margin-top: 108px; }
   .pt-sm-108 {
@@ -38149,6 +38822,8 @@ readers do not read off random characters that represent icons */
     margin: 109px; }
   .p-sm-109 {
     padding: 109px; }
+  .br-sm-109 {
+    border-radius: 109px; }
   .mt-sm-109 {
     margin-top: 109px; }
   .pt-sm-109 {
@@ -38181,6 +38856,8 @@ readers do not read off random characters that represent icons */
     margin: 110px; }
   .p-sm-110 {
     padding: 110px; }
+  .br-sm-110 {
+    border-radius: 110px; }
   .mt-sm-110 {
     margin-top: 110px; }
   .pt-sm-110 {
@@ -38213,6 +38890,8 @@ readers do not read off random characters that represent icons */
     margin: 111px; }
   .p-sm-111 {
     padding: 111px; }
+  .br-sm-111 {
+    border-radius: 111px; }
   .mt-sm-111 {
     margin-top: 111px; }
   .pt-sm-111 {
@@ -38245,6 +38924,8 @@ readers do not read off random characters that represent icons */
     margin: 112px; }
   .p-sm-112 {
     padding: 112px; }
+  .br-sm-112 {
+    border-radius: 112px; }
   .mt-sm-112 {
     margin-top: 112px; }
   .pt-sm-112 {
@@ -38277,6 +38958,8 @@ readers do not read off random characters that represent icons */
     margin: 113px; }
   .p-sm-113 {
     padding: 113px; }
+  .br-sm-113 {
+    border-radius: 113px; }
   .mt-sm-113 {
     margin-top: 113px; }
   .pt-sm-113 {
@@ -38309,6 +38992,8 @@ readers do not read off random characters that represent icons */
     margin: 114px; }
   .p-sm-114 {
     padding: 114px; }
+  .br-sm-114 {
+    border-radius: 114px; }
   .mt-sm-114 {
     margin-top: 114px; }
   .pt-sm-114 {
@@ -38341,6 +39026,8 @@ readers do not read off random characters that represent icons */
     margin: 115px; }
   .p-sm-115 {
     padding: 115px; }
+  .br-sm-115 {
+    border-radius: 115px; }
   .mt-sm-115 {
     margin-top: 115px; }
   .pt-sm-115 {
@@ -38373,6 +39060,8 @@ readers do not read off random characters that represent icons */
     margin: 116px; }
   .p-sm-116 {
     padding: 116px; }
+  .br-sm-116 {
+    border-radius: 116px; }
   .mt-sm-116 {
     margin-top: 116px; }
   .pt-sm-116 {
@@ -38405,6 +39094,8 @@ readers do not read off random characters that represent icons */
     margin: 117px; }
   .p-sm-117 {
     padding: 117px; }
+  .br-sm-117 {
+    border-radius: 117px; }
   .mt-sm-117 {
     margin-top: 117px; }
   .pt-sm-117 {
@@ -38437,6 +39128,8 @@ readers do not read off random characters that represent icons */
     margin: 118px; }
   .p-sm-118 {
     padding: 118px; }
+  .br-sm-118 {
+    border-radius: 118px; }
   .mt-sm-118 {
     margin-top: 118px; }
   .pt-sm-118 {
@@ -38469,6 +39162,8 @@ readers do not read off random characters that represent icons */
     margin: 119px; }
   .p-sm-119 {
     padding: 119px; }
+  .br-sm-119 {
+    border-radius: 119px; }
   .mt-sm-119 {
     margin-top: 119px; }
   .pt-sm-119 {
@@ -38501,6 +39196,8 @@ readers do not read off random characters that represent icons */
     margin: 120px; }
   .p-sm-120 {
     padding: 120px; }
+  .br-sm-120 {
+    border-radius: 120px; }
   .mt-sm-120 {
     margin-top: 120px; }
   .pt-sm-120 {
@@ -38533,6 +39230,8 @@ readers do not read off random characters that represent icons */
     margin: 121px; }
   .p-sm-121 {
     padding: 121px; }
+  .br-sm-121 {
+    border-radius: 121px; }
   .mt-sm-121 {
     margin-top: 121px; }
   .pt-sm-121 {
@@ -38565,6 +39264,8 @@ readers do not read off random characters that represent icons */
     margin: 122px; }
   .p-sm-122 {
     padding: 122px; }
+  .br-sm-122 {
+    border-radius: 122px; }
   .mt-sm-122 {
     margin-top: 122px; }
   .pt-sm-122 {
@@ -38597,6 +39298,8 @@ readers do not read off random characters that represent icons */
     margin: 123px; }
   .p-sm-123 {
     padding: 123px; }
+  .br-sm-123 {
+    border-radius: 123px; }
   .mt-sm-123 {
     margin-top: 123px; }
   .pt-sm-123 {
@@ -38629,6 +39332,8 @@ readers do not read off random characters that represent icons */
     margin: 124px; }
   .p-sm-124 {
     padding: 124px; }
+  .br-sm-124 {
+    border-radius: 124px; }
   .mt-sm-124 {
     margin-top: 124px; }
   .pt-sm-124 {
@@ -38661,6 +39366,8 @@ readers do not read off random characters that represent icons */
     margin: 125px; }
   .p-sm-125 {
     padding: 125px; }
+  .br-sm-125 {
+    border-radius: 125px; }
   .mt-sm-125 {
     margin-top: 125px; }
   .pt-sm-125 {
@@ -38693,6 +39400,8 @@ readers do not read off random characters that represent icons */
     margin: 126px; }
   .p-sm-126 {
     padding: 126px; }
+  .br-sm-126 {
+    border-radius: 126px; }
   .mt-sm-126 {
     margin-top: 126px; }
   .pt-sm-126 {
@@ -38725,6 +39434,8 @@ readers do not read off random characters that represent icons */
     margin: 127px; }
   .p-sm-127 {
     padding: 127px; }
+  .br-sm-127 {
+    border-radius: 127px; }
   .mt-sm-127 {
     margin-top: 127px; }
   .pt-sm-127 {
@@ -38757,6 +39468,8 @@ readers do not read off random characters that represent icons */
     margin: 128px; }
   .p-sm-128 {
     padding: 128px; }
+  .br-sm-128 {
+    border-radius: 128px; }
   .mt-sm-128 {
     margin-top: 128px; }
   .pt-sm-128 {
@@ -38789,6 +39502,8 @@ readers do not read off random characters that represent icons */
     margin: 129px; }
   .p-sm-129 {
     padding: 129px; }
+  .br-sm-129 {
+    border-radius: 129px; }
   .mt-sm-129 {
     margin-top: 129px; }
   .pt-sm-129 {
@@ -38821,6 +39536,8 @@ readers do not read off random characters that represent icons */
     margin: 130px; }
   .p-sm-130 {
     padding: 130px; }
+  .br-sm-130 {
+    border-radius: 130px; }
   .mt-sm-130 {
     margin-top: 130px; }
   .pt-sm-130 {
@@ -38853,6 +39570,8 @@ readers do not read off random characters that represent icons */
     margin: 131px; }
   .p-sm-131 {
     padding: 131px; }
+  .br-sm-131 {
+    border-radius: 131px; }
   .mt-sm-131 {
     margin-top: 131px; }
   .pt-sm-131 {
@@ -38885,6 +39604,8 @@ readers do not read off random characters that represent icons */
     margin: 132px; }
   .p-sm-132 {
     padding: 132px; }
+  .br-sm-132 {
+    border-radius: 132px; }
   .mt-sm-132 {
     margin-top: 132px; }
   .pt-sm-132 {
@@ -38917,6 +39638,8 @@ readers do not read off random characters that represent icons */
     margin: 133px; }
   .p-sm-133 {
     padding: 133px; }
+  .br-sm-133 {
+    border-radius: 133px; }
   .mt-sm-133 {
     margin-top: 133px; }
   .pt-sm-133 {
@@ -38949,6 +39672,8 @@ readers do not read off random characters that represent icons */
     margin: 134px; }
   .p-sm-134 {
     padding: 134px; }
+  .br-sm-134 {
+    border-radius: 134px; }
   .mt-sm-134 {
     margin-top: 134px; }
   .pt-sm-134 {
@@ -38981,6 +39706,8 @@ readers do not read off random characters that represent icons */
     margin: 135px; }
   .p-sm-135 {
     padding: 135px; }
+  .br-sm-135 {
+    border-radius: 135px; }
   .mt-sm-135 {
     margin-top: 135px; }
   .pt-sm-135 {
@@ -39013,6 +39740,8 @@ readers do not read off random characters that represent icons */
     margin: 136px; }
   .p-sm-136 {
     padding: 136px; }
+  .br-sm-136 {
+    border-radius: 136px; }
   .mt-sm-136 {
     margin-top: 136px; }
   .pt-sm-136 {
@@ -39045,6 +39774,8 @@ readers do not read off random characters that represent icons */
     margin: 137px; }
   .p-sm-137 {
     padding: 137px; }
+  .br-sm-137 {
+    border-radius: 137px; }
   .mt-sm-137 {
     margin-top: 137px; }
   .pt-sm-137 {
@@ -39077,6 +39808,8 @@ readers do not read off random characters that represent icons */
     margin: 138px; }
   .p-sm-138 {
     padding: 138px; }
+  .br-sm-138 {
+    border-radius: 138px; }
   .mt-sm-138 {
     margin-top: 138px; }
   .pt-sm-138 {
@@ -39109,6 +39842,8 @@ readers do not read off random characters that represent icons */
     margin: 139px; }
   .p-sm-139 {
     padding: 139px; }
+  .br-sm-139 {
+    border-radius: 139px; }
   .mt-sm-139 {
     margin-top: 139px; }
   .pt-sm-139 {
@@ -39141,6 +39876,8 @@ readers do not read off random characters that represent icons */
     margin: 140px; }
   .p-sm-140 {
     padding: 140px; }
+  .br-sm-140 {
+    border-radius: 140px; }
   .mt-sm-140 {
     margin-top: 140px; }
   .pt-sm-140 {
@@ -39173,6 +39910,8 @@ readers do not read off random characters that represent icons */
     margin: 141px; }
   .p-sm-141 {
     padding: 141px; }
+  .br-sm-141 {
+    border-radius: 141px; }
   .mt-sm-141 {
     margin-top: 141px; }
   .pt-sm-141 {
@@ -39205,6 +39944,8 @@ readers do not read off random characters that represent icons */
     margin: 142px; }
   .p-sm-142 {
     padding: 142px; }
+  .br-sm-142 {
+    border-radius: 142px; }
   .mt-sm-142 {
     margin-top: 142px; }
   .pt-sm-142 {
@@ -39237,6 +39978,8 @@ readers do not read off random characters that represent icons */
     margin: 143px; }
   .p-sm-143 {
     padding: 143px; }
+  .br-sm-143 {
+    border-radius: 143px; }
   .mt-sm-143 {
     margin-top: 143px; }
   .pt-sm-143 {
@@ -39269,6 +40012,8 @@ readers do not read off random characters that represent icons */
     margin: 144px; }
   .p-sm-144 {
     padding: 144px; }
+  .br-sm-144 {
+    border-radius: 144px; }
   .mt-sm-144 {
     margin-top: 144px; }
   .pt-sm-144 {
@@ -39301,6 +40046,8 @@ readers do not read off random characters that represent icons */
     margin: 145px; }
   .p-sm-145 {
     padding: 145px; }
+  .br-sm-145 {
+    border-radius: 145px; }
   .mt-sm-145 {
     margin-top: 145px; }
   .pt-sm-145 {
@@ -39333,6 +40080,8 @@ readers do not read off random characters that represent icons */
     margin: 146px; }
   .p-sm-146 {
     padding: 146px; }
+  .br-sm-146 {
+    border-radius: 146px; }
   .mt-sm-146 {
     margin-top: 146px; }
   .pt-sm-146 {
@@ -39365,6 +40114,8 @@ readers do not read off random characters that represent icons */
     margin: 147px; }
   .p-sm-147 {
     padding: 147px; }
+  .br-sm-147 {
+    border-radius: 147px; }
   .mt-sm-147 {
     margin-top: 147px; }
   .pt-sm-147 {
@@ -39397,6 +40148,8 @@ readers do not read off random characters that represent icons */
     margin: 148px; }
   .p-sm-148 {
     padding: 148px; }
+  .br-sm-148 {
+    border-radius: 148px; }
   .mt-sm-148 {
     margin-top: 148px; }
   .pt-sm-148 {
@@ -39429,6 +40182,8 @@ readers do not read off random characters that represent icons */
     margin: 149px; }
   .p-sm-149 {
     padding: 149px; }
+  .br-sm-149 {
+    border-radius: 149px; }
   .mt-sm-149 {
     margin-top: 149px; }
   .pt-sm-149 {
@@ -39461,6 +40216,8 @@ readers do not read off random characters that represent icons */
     margin: 150px; }
   .p-sm-150 {
     padding: 150px; }
+  .br-sm-150 {
+    border-radius: 150px; }
   .mt-sm-150 {
     margin-top: 150px; }
   .pt-sm-150 {
@@ -45295,6 +46052,8 @@ readers do not read off random characters that represent icons */
     margin: auto; }
   .p-md-auto {
     padding: auto; }
+  .br-md-auto {
+    border-radius: auto; }
   .mt-md-auto {
     margin-top: auto; }
   .pt-md-auto {
@@ -45327,6 +46086,8 @@ readers do not read off random characters that represent icons */
     margin: 0px; }
   .p-md-0 {
     padding: 0px; }
+  .br-md-0 {
+    border-radius: 0px; }
   .mt-md-0 {
     margin-top: 0px; }
   .pt-md-0 {
@@ -45359,6 +46120,8 @@ readers do not read off random characters that represent icons */
     margin: 1px; }
   .p-md-1 {
     padding: 1px; }
+  .br-md-1 {
+    border-radius: 1px; }
   .mt-md-1 {
     margin-top: 1px; }
   .pt-md-1 {
@@ -45391,6 +46154,8 @@ readers do not read off random characters that represent icons */
     margin: 2px; }
   .p-md-2 {
     padding: 2px; }
+  .br-md-2 {
+    border-radius: 2px; }
   .mt-md-2 {
     margin-top: 2px; }
   .pt-md-2 {
@@ -45423,6 +46188,8 @@ readers do not read off random characters that represent icons */
     margin: 3px; }
   .p-md-3 {
     padding: 3px; }
+  .br-md-3 {
+    border-radius: 3px; }
   .mt-md-3 {
     margin-top: 3px; }
   .pt-md-3 {
@@ -45455,6 +46222,8 @@ readers do not read off random characters that represent icons */
     margin: 4px; }
   .p-md-4 {
     padding: 4px; }
+  .br-md-4 {
+    border-radius: 4px; }
   .mt-md-4 {
     margin-top: 4px; }
   .pt-md-4 {
@@ -45487,6 +46256,8 @@ readers do not read off random characters that represent icons */
     margin: 5px; }
   .p-md-5 {
     padding: 5px; }
+  .br-md-5 {
+    border-radius: 5px; }
   .mt-md-5 {
     margin-top: 5px; }
   .pt-md-5 {
@@ -45519,6 +46290,8 @@ readers do not read off random characters that represent icons */
     margin: 6px; }
   .p-md-6 {
     padding: 6px; }
+  .br-md-6 {
+    border-radius: 6px; }
   .mt-md-6 {
     margin-top: 6px; }
   .pt-md-6 {
@@ -45551,6 +46324,8 @@ readers do not read off random characters that represent icons */
     margin: 7px; }
   .p-md-7 {
     padding: 7px; }
+  .br-md-7 {
+    border-radius: 7px; }
   .mt-md-7 {
     margin-top: 7px; }
   .pt-md-7 {
@@ -45583,6 +46358,8 @@ readers do not read off random characters that represent icons */
     margin: 8px; }
   .p-md-8 {
     padding: 8px; }
+  .br-md-8 {
+    border-radius: 8px; }
   .mt-md-8 {
     margin-top: 8px; }
   .pt-md-8 {
@@ -45615,6 +46392,8 @@ readers do not read off random characters that represent icons */
     margin: 9px; }
   .p-md-9 {
     padding: 9px; }
+  .br-md-9 {
+    border-radius: 9px; }
   .mt-md-9 {
     margin-top: 9px; }
   .pt-md-9 {
@@ -45647,6 +46426,8 @@ readers do not read off random characters that represent icons */
     margin: 10px; }
   .p-md-10 {
     padding: 10px; }
+  .br-md-10 {
+    border-radius: 10px; }
   .mt-md-10 {
     margin-top: 10px; }
   .pt-md-10 {
@@ -45679,6 +46460,8 @@ readers do not read off random characters that represent icons */
     margin: 11px; }
   .p-md-11 {
     padding: 11px; }
+  .br-md-11 {
+    border-radius: 11px; }
   .mt-md-11 {
     margin-top: 11px; }
   .pt-md-11 {
@@ -45711,6 +46494,8 @@ readers do not read off random characters that represent icons */
     margin: 12px; }
   .p-md-12 {
     padding: 12px; }
+  .br-md-12 {
+    border-radius: 12px; }
   .mt-md-12 {
     margin-top: 12px; }
   .pt-md-12 {
@@ -45743,6 +46528,8 @@ readers do not read off random characters that represent icons */
     margin: 13px; }
   .p-md-13 {
     padding: 13px; }
+  .br-md-13 {
+    border-radius: 13px; }
   .mt-md-13 {
     margin-top: 13px; }
   .pt-md-13 {
@@ -45775,6 +46562,8 @@ readers do not read off random characters that represent icons */
     margin: 14px; }
   .p-md-14 {
     padding: 14px; }
+  .br-md-14 {
+    border-radius: 14px; }
   .mt-md-14 {
     margin-top: 14px; }
   .pt-md-14 {
@@ -45807,6 +46596,8 @@ readers do not read off random characters that represent icons */
     margin: 15px; }
   .p-md-15 {
     padding: 15px; }
+  .br-md-15 {
+    border-radius: 15px; }
   .mt-md-15 {
     margin-top: 15px; }
   .pt-md-15 {
@@ -45839,6 +46630,8 @@ readers do not read off random characters that represent icons */
     margin: 16px; }
   .p-md-16 {
     padding: 16px; }
+  .br-md-16 {
+    border-radius: 16px; }
   .mt-md-16 {
     margin-top: 16px; }
   .pt-md-16 {
@@ -45871,6 +46664,8 @@ readers do not read off random characters that represent icons */
     margin: 17px; }
   .p-md-17 {
     padding: 17px; }
+  .br-md-17 {
+    border-radius: 17px; }
   .mt-md-17 {
     margin-top: 17px; }
   .pt-md-17 {
@@ -45903,6 +46698,8 @@ readers do not read off random characters that represent icons */
     margin: 18px; }
   .p-md-18 {
     padding: 18px; }
+  .br-md-18 {
+    border-radius: 18px; }
   .mt-md-18 {
     margin-top: 18px; }
   .pt-md-18 {
@@ -45935,6 +46732,8 @@ readers do not read off random characters that represent icons */
     margin: 19px; }
   .p-md-19 {
     padding: 19px; }
+  .br-md-19 {
+    border-radius: 19px; }
   .mt-md-19 {
     margin-top: 19px; }
   .pt-md-19 {
@@ -45967,6 +46766,8 @@ readers do not read off random characters that represent icons */
     margin: 20px; }
   .p-md-20 {
     padding: 20px; }
+  .br-md-20 {
+    border-radius: 20px; }
   .mt-md-20 {
     margin-top: 20px; }
   .pt-md-20 {
@@ -45999,6 +46800,8 @@ readers do not read off random characters that represent icons */
     margin: 21px; }
   .p-md-21 {
     padding: 21px; }
+  .br-md-21 {
+    border-radius: 21px; }
   .mt-md-21 {
     margin-top: 21px; }
   .pt-md-21 {
@@ -46031,6 +46834,8 @@ readers do not read off random characters that represent icons */
     margin: 22px; }
   .p-md-22 {
     padding: 22px; }
+  .br-md-22 {
+    border-radius: 22px; }
   .mt-md-22 {
     margin-top: 22px; }
   .pt-md-22 {
@@ -46063,6 +46868,8 @@ readers do not read off random characters that represent icons */
     margin: 23px; }
   .p-md-23 {
     padding: 23px; }
+  .br-md-23 {
+    border-radius: 23px; }
   .mt-md-23 {
     margin-top: 23px; }
   .pt-md-23 {
@@ -46095,6 +46902,8 @@ readers do not read off random characters that represent icons */
     margin: 24px; }
   .p-md-24 {
     padding: 24px; }
+  .br-md-24 {
+    border-radius: 24px; }
   .mt-md-24 {
     margin-top: 24px; }
   .pt-md-24 {
@@ -46127,6 +46936,8 @@ readers do not read off random characters that represent icons */
     margin: 25px; }
   .p-md-25 {
     padding: 25px; }
+  .br-md-25 {
+    border-radius: 25px; }
   .mt-md-25 {
     margin-top: 25px; }
   .pt-md-25 {
@@ -46159,6 +46970,8 @@ readers do not read off random characters that represent icons */
     margin: 26px; }
   .p-md-26 {
     padding: 26px; }
+  .br-md-26 {
+    border-radius: 26px; }
   .mt-md-26 {
     margin-top: 26px; }
   .pt-md-26 {
@@ -46191,6 +47004,8 @@ readers do not read off random characters that represent icons */
     margin: 27px; }
   .p-md-27 {
     padding: 27px; }
+  .br-md-27 {
+    border-radius: 27px; }
   .mt-md-27 {
     margin-top: 27px; }
   .pt-md-27 {
@@ -46223,6 +47038,8 @@ readers do not read off random characters that represent icons */
     margin: 28px; }
   .p-md-28 {
     padding: 28px; }
+  .br-md-28 {
+    border-radius: 28px; }
   .mt-md-28 {
     margin-top: 28px; }
   .pt-md-28 {
@@ -46255,6 +47072,8 @@ readers do not read off random characters that represent icons */
     margin: 29px; }
   .p-md-29 {
     padding: 29px; }
+  .br-md-29 {
+    border-radius: 29px; }
   .mt-md-29 {
     margin-top: 29px; }
   .pt-md-29 {
@@ -46287,6 +47106,8 @@ readers do not read off random characters that represent icons */
     margin: 30px; }
   .p-md-30 {
     padding: 30px; }
+  .br-md-30 {
+    border-radius: 30px; }
   .mt-md-30 {
     margin-top: 30px; }
   .pt-md-30 {
@@ -46319,6 +47140,8 @@ readers do not read off random characters that represent icons */
     margin: 31px; }
   .p-md-31 {
     padding: 31px; }
+  .br-md-31 {
+    border-radius: 31px; }
   .mt-md-31 {
     margin-top: 31px; }
   .pt-md-31 {
@@ -46351,6 +47174,8 @@ readers do not read off random characters that represent icons */
     margin: 32px; }
   .p-md-32 {
     padding: 32px; }
+  .br-md-32 {
+    border-radius: 32px; }
   .mt-md-32 {
     margin-top: 32px; }
   .pt-md-32 {
@@ -46383,6 +47208,8 @@ readers do not read off random characters that represent icons */
     margin: 33px; }
   .p-md-33 {
     padding: 33px; }
+  .br-md-33 {
+    border-radius: 33px; }
   .mt-md-33 {
     margin-top: 33px; }
   .pt-md-33 {
@@ -46415,6 +47242,8 @@ readers do not read off random characters that represent icons */
     margin: 34px; }
   .p-md-34 {
     padding: 34px; }
+  .br-md-34 {
+    border-radius: 34px; }
   .mt-md-34 {
     margin-top: 34px; }
   .pt-md-34 {
@@ -46447,6 +47276,8 @@ readers do not read off random characters that represent icons */
     margin: 35px; }
   .p-md-35 {
     padding: 35px; }
+  .br-md-35 {
+    border-radius: 35px; }
   .mt-md-35 {
     margin-top: 35px; }
   .pt-md-35 {
@@ -46479,6 +47310,8 @@ readers do not read off random characters that represent icons */
     margin: 36px; }
   .p-md-36 {
     padding: 36px; }
+  .br-md-36 {
+    border-radius: 36px; }
   .mt-md-36 {
     margin-top: 36px; }
   .pt-md-36 {
@@ -46511,6 +47344,8 @@ readers do not read off random characters that represent icons */
     margin: 37px; }
   .p-md-37 {
     padding: 37px; }
+  .br-md-37 {
+    border-radius: 37px; }
   .mt-md-37 {
     margin-top: 37px; }
   .pt-md-37 {
@@ -46543,6 +47378,8 @@ readers do not read off random characters that represent icons */
     margin: 38px; }
   .p-md-38 {
     padding: 38px; }
+  .br-md-38 {
+    border-radius: 38px; }
   .mt-md-38 {
     margin-top: 38px; }
   .pt-md-38 {
@@ -46575,6 +47412,8 @@ readers do not read off random characters that represent icons */
     margin: 39px; }
   .p-md-39 {
     padding: 39px; }
+  .br-md-39 {
+    border-radius: 39px; }
   .mt-md-39 {
     margin-top: 39px; }
   .pt-md-39 {
@@ -46607,6 +47446,8 @@ readers do not read off random characters that represent icons */
     margin: 40px; }
   .p-md-40 {
     padding: 40px; }
+  .br-md-40 {
+    border-radius: 40px; }
   .mt-md-40 {
     margin-top: 40px; }
   .pt-md-40 {
@@ -46639,6 +47480,8 @@ readers do not read off random characters that represent icons */
     margin: 41px; }
   .p-md-41 {
     padding: 41px; }
+  .br-md-41 {
+    border-radius: 41px; }
   .mt-md-41 {
     margin-top: 41px; }
   .pt-md-41 {
@@ -46671,6 +47514,8 @@ readers do not read off random characters that represent icons */
     margin: 42px; }
   .p-md-42 {
     padding: 42px; }
+  .br-md-42 {
+    border-radius: 42px; }
   .mt-md-42 {
     margin-top: 42px; }
   .pt-md-42 {
@@ -46703,6 +47548,8 @@ readers do not read off random characters that represent icons */
     margin: 43px; }
   .p-md-43 {
     padding: 43px; }
+  .br-md-43 {
+    border-radius: 43px; }
   .mt-md-43 {
     margin-top: 43px; }
   .pt-md-43 {
@@ -46735,6 +47582,8 @@ readers do not read off random characters that represent icons */
     margin: 44px; }
   .p-md-44 {
     padding: 44px; }
+  .br-md-44 {
+    border-radius: 44px; }
   .mt-md-44 {
     margin-top: 44px; }
   .pt-md-44 {
@@ -46767,6 +47616,8 @@ readers do not read off random characters that represent icons */
     margin: 45px; }
   .p-md-45 {
     padding: 45px; }
+  .br-md-45 {
+    border-radius: 45px; }
   .mt-md-45 {
     margin-top: 45px; }
   .pt-md-45 {
@@ -46799,6 +47650,8 @@ readers do not read off random characters that represent icons */
     margin: 46px; }
   .p-md-46 {
     padding: 46px; }
+  .br-md-46 {
+    border-radius: 46px; }
   .mt-md-46 {
     margin-top: 46px; }
   .pt-md-46 {
@@ -46831,6 +47684,8 @@ readers do not read off random characters that represent icons */
     margin: 47px; }
   .p-md-47 {
     padding: 47px; }
+  .br-md-47 {
+    border-radius: 47px; }
   .mt-md-47 {
     margin-top: 47px; }
   .pt-md-47 {
@@ -46863,6 +47718,8 @@ readers do not read off random characters that represent icons */
     margin: 48px; }
   .p-md-48 {
     padding: 48px; }
+  .br-md-48 {
+    border-radius: 48px; }
   .mt-md-48 {
     margin-top: 48px; }
   .pt-md-48 {
@@ -46895,6 +47752,8 @@ readers do not read off random characters that represent icons */
     margin: 49px; }
   .p-md-49 {
     padding: 49px; }
+  .br-md-49 {
+    border-radius: 49px; }
   .mt-md-49 {
     margin-top: 49px; }
   .pt-md-49 {
@@ -46927,6 +47786,8 @@ readers do not read off random characters that represent icons */
     margin: 50px; }
   .p-md-50 {
     padding: 50px; }
+  .br-md-50 {
+    border-radius: 50px; }
   .mt-md-50 {
     margin-top: 50px; }
   .pt-md-50 {
@@ -46959,6 +47820,8 @@ readers do not read off random characters that represent icons */
     margin: 51px; }
   .p-md-51 {
     padding: 51px; }
+  .br-md-51 {
+    border-radius: 51px; }
   .mt-md-51 {
     margin-top: 51px; }
   .pt-md-51 {
@@ -46991,6 +47854,8 @@ readers do not read off random characters that represent icons */
     margin: 52px; }
   .p-md-52 {
     padding: 52px; }
+  .br-md-52 {
+    border-radius: 52px; }
   .mt-md-52 {
     margin-top: 52px; }
   .pt-md-52 {
@@ -47023,6 +47888,8 @@ readers do not read off random characters that represent icons */
     margin: 53px; }
   .p-md-53 {
     padding: 53px; }
+  .br-md-53 {
+    border-radius: 53px; }
   .mt-md-53 {
     margin-top: 53px; }
   .pt-md-53 {
@@ -47055,6 +47922,8 @@ readers do not read off random characters that represent icons */
     margin: 54px; }
   .p-md-54 {
     padding: 54px; }
+  .br-md-54 {
+    border-radius: 54px; }
   .mt-md-54 {
     margin-top: 54px; }
   .pt-md-54 {
@@ -47087,6 +47956,8 @@ readers do not read off random characters that represent icons */
     margin: 55px; }
   .p-md-55 {
     padding: 55px; }
+  .br-md-55 {
+    border-radius: 55px; }
   .mt-md-55 {
     margin-top: 55px; }
   .pt-md-55 {
@@ -47119,6 +47990,8 @@ readers do not read off random characters that represent icons */
     margin: 56px; }
   .p-md-56 {
     padding: 56px; }
+  .br-md-56 {
+    border-radius: 56px; }
   .mt-md-56 {
     margin-top: 56px; }
   .pt-md-56 {
@@ -47151,6 +48024,8 @@ readers do not read off random characters that represent icons */
     margin: 57px; }
   .p-md-57 {
     padding: 57px; }
+  .br-md-57 {
+    border-radius: 57px; }
   .mt-md-57 {
     margin-top: 57px; }
   .pt-md-57 {
@@ -47183,6 +48058,8 @@ readers do not read off random characters that represent icons */
     margin: 58px; }
   .p-md-58 {
     padding: 58px; }
+  .br-md-58 {
+    border-radius: 58px; }
   .mt-md-58 {
     margin-top: 58px; }
   .pt-md-58 {
@@ -47215,6 +48092,8 @@ readers do not read off random characters that represent icons */
     margin: 59px; }
   .p-md-59 {
     padding: 59px; }
+  .br-md-59 {
+    border-radius: 59px; }
   .mt-md-59 {
     margin-top: 59px; }
   .pt-md-59 {
@@ -47247,6 +48126,8 @@ readers do not read off random characters that represent icons */
     margin: 60px; }
   .p-md-60 {
     padding: 60px; }
+  .br-md-60 {
+    border-radius: 60px; }
   .mt-md-60 {
     margin-top: 60px; }
   .pt-md-60 {
@@ -47279,6 +48160,8 @@ readers do not read off random characters that represent icons */
     margin: 61px; }
   .p-md-61 {
     padding: 61px; }
+  .br-md-61 {
+    border-radius: 61px; }
   .mt-md-61 {
     margin-top: 61px; }
   .pt-md-61 {
@@ -47311,6 +48194,8 @@ readers do not read off random characters that represent icons */
     margin: 62px; }
   .p-md-62 {
     padding: 62px; }
+  .br-md-62 {
+    border-radius: 62px; }
   .mt-md-62 {
     margin-top: 62px; }
   .pt-md-62 {
@@ -47343,6 +48228,8 @@ readers do not read off random characters that represent icons */
     margin: 63px; }
   .p-md-63 {
     padding: 63px; }
+  .br-md-63 {
+    border-radius: 63px; }
   .mt-md-63 {
     margin-top: 63px; }
   .pt-md-63 {
@@ -47375,6 +48262,8 @@ readers do not read off random characters that represent icons */
     margin: 64px; }
   .p-md-64 {
     padding: 64px; }
+  .br-md-64 {
+    border-radius: 64px; }
   .mt-md-64 {
     margin-top: 64px; }
   .pt-md-64 {
@@ -47407,6 +48296,8 @@ readers do not read off random characters that represent icons */
     margin: 65px; }
   .p-md-65 {
     padding: 65px; }
+  .br-md-65 {
+    border-radius: 65px; }
   .mt-md-65 {
     margin-top: 65px; }
   .pt-md-65 {
@@ -47439,6 +48330,8 @@ readers do not read off random characters that represent icons */
     margin: 66px; }
   .p-md-66 {
     padding: 66px; }
+  .br-md-66 {
+    border-radius: 66px; }
   .mt-md-66 {
     margin-top: 66px; }
   .pt-md-66 {
@@ -47471,6 +48364,8 @@ readers do not read off random characters that represent icons */
     margin: 67px; }
   .p-md-67 {
     padding: 67px; }
+  .br-md-67 {
+    border-radius: 67px; }
   .mt-md-67 {
     margin-top: 67px; }
   .pt-md-67 {
@@ -47503,6 +48398,8 @@ readers do not read off random characters that represent icons */
     margin: 68px; }
   .p-md-68 {
     padding: 68px; }
+  .br-md-68 {
+    border-radius: 68px; }
   .mt-md-68 {
     margin-top: 68px; }
   .pt-md-68 {
@@ -47535,6 +48432,8 @@ readers do not read off random characters that represent icons */
     margin: 69px; }
   .p-md-69 {
     padding: 69px; }
+  .br-md-69 {
+    border-radius: 69px; }
   .mt-md-69 {
     margin-top: 69px; }
   .pt-md-69 {
@@ -47567,6 +48466,8 @@ readers do not read off random characters that represent icons */
     margin: 70px; }
   .p-md-70 {
     padding: 70px; }
+  .br-md-70 {
+    border-radius: 70px; }
   .mt-md-70 {
     margin-top: 70px; }
   .pt-md-70 {
@@ -47599,6 +48500,8 @@ readers do not read off random characters that represent icons */
     margin: 71px; }
   .p-md-71 {
     padding: 71px; }
+  .br-md-71 {
+    border-radius: 71px; }
   .mt-md-71 {
     margin-top: 71px; }
   .pt-md-71 {
@@ -47631,6 +48534,8 @@ readers do not read off random characters that represent icons */
     margin: 72px; }
   .p-md-72 {
     padding: 72px; }
+  .br-md-72 {
+    border-radius: 72px; }
   .mt-md-72 {
     margin-top: 72px; }
   .pt-md-72 {
@@ -47663,6 +48568,8 @@ readers do not read off random characters that represent icons */
     margin: 73px; }
   .p-md-73 {
     padding: 73px; }
+  .br-md-73 {
+    border-radius: 73px; }
   .mt-md-73 {
     margin-top: 73px; }
   .pt-md-73 {
@@ -47695,6 +48602,8 @@ readers do not read off random characters that represent icons */
     margin: 74px; }
   .p-md-74 {
     padding: 74px; }
+  .br-md-74 {
+    border-radius: 74px; }
   .mt-md-74 {
     margin-top: 74px; }
   .pt-md-74 {
@@ -47727,6 +48636,8 @@ readers do not read off random characters that represent icons */
     margin: 75px; }
   .p-md-75 {
     padding: 75px; }
+  .br-md-75 {
+    border-radius: 75px; }
   .mt-md-75 {
     margin-top: 75px; }
   .pt-md-75 {
@@ -47759,6 +48670,8 @@ readers do not read off random characters that represent icons */
     margin: 76px; }
   .p-md-76 {
     padding: 76px; }
+  .br-md-76 {
+    border-radius: 76px; }
   .mt-md-76 {
     margin-top: 76px; }
   .pt-md-76 {
@@ -47791,6 +48704,8 @@ readers do not read off random characters that represent icons */
     margin: 77px; }
   .p-md-77 {
     padding: 77px; }
+  .br-md-77 {
+    border-radius: 77px; }
   .mt-md-77 {
     margin-top: 77px; }
   .pt-md-77 {
@@ -47823,6 +48738,8 @@ readers do not read off random characters that represent icons */
     margin: 78px; }
   .p-md-78 {
     padding: 78px; }
+  .br-md-78 {
+    border-radius: 78px; }
   .mt-md-78 {
     margin-top: 78px; }
   .pt-md-78 {
@@ -47855,6 +48772,8 @@ readers do not read off random characters that represent icons */
     margin: 79px; }
   .p-md-79 {
     padding: 79px; }
+  .br-md-79 {
+    border-radius: 79px; }
   .mt-md-79 {
     margin-top: 79px; }
   .pt-md-79 {
@@ -47887,6 +48806,8 @@ readers do not read off random characters that represent icons */
     margin: 80px; }
   .p-md-80 {
     padding: 80px; }
+  .br-md-80 {
+    border-radius: 80px; }
   .mt-md-80 {
     margin-top: 80px; }
   .pt-md-80 {
@@ -47919,6 +48840,8 @@ readers do not read off random characters that represent icons */
     margin: 81px; }
   .p-md-81 {
     padding: 81px; }
+  .br-md-81 {
+    border-radius: 81px; }
   .mt-md-81 {
     margin-top: 81px; }
   .pt-md-81 {
@@ -47951,6 +48874,8 @@ readers do not read off random characters that represent icons */
     margin: 82px; }
   .p-md-82 {
     padding: 82px; }
+  .br-md-82 {
+    border-radius: 82px; }
   .mt-md-82 {
     margin-top: 82px; }
   .pt-md-82 {
@@ -47983,6 +48908,8 @@ readers do not read off random characters that represent icons */
     margin: 83px; }
   .p-md-83 {
     padding: 83px; }
+  .br-md-83 {
+    border-radius: 83px; }
   .mt-md-83 {
     margin-top: 83px; }
   .pt-md-83 {
@@ -48015,6 +48942,8 @@ readers do not read off random characters that represent icons */
     margin: 84px; }
   .p-md-84 {
     padding: 84px; }
+  .br-md-84 {
+    border-radius: 84px; }
   .mt-md-84 {
     margin-top: 84px; }
   .pt-md-84 {
@@ -48047,6 +48976,8 @@ readers do not read off random characters that represent icons */
     margin: 85px; }
   .p-md-85 {
     padding: 85px; }
+  .br-md-85 {
+    border-radius: 85px; }
   .mt-md-85 {
     margin-top: 85px; }
   .pt-md-85 {
@@ -48079,6 +49010,8 @@ readers do not read off random characters that represent icons */
     margin: 86px; }
   .p-md-86 {
     padding: 86px; }
+  .br-md-86 {
+    border-radius: 86px; }
   .mt-md-86 {
     margin-top: 86px; }
   .pt-md-86 {
@@ -48111,6 +49044,8 @@ readers do not read off random characters that represent icons */
     margin: 87px; }
   .p-md-87 {
     padding: 87px; }
+  .br-md-87 {
+    border-radius: 87px; }
   .mt-md-87 {
     margin-top: 87px; }
   .pt-md-87 {
@@ -48143,6 +49078,8 @@ readers do not read off random characters that represent icons */
     margin: 88px; }
   .p-md-88 {
     padding: 88px; }
+  .br-md-88 {
+    border-radius: 88px; }
   .mt-md-88 {
     margin-top: 88px; }
   .pt-md-88 {
@@ -48175,6 +49112,8 @@ readers do not read off random characters that represent icons */
     margin: 89px; }
   .p-md-89 {
     padding: 89px; }
+  .br-md-89 {
+    border-radius: 89px; }
   .mt-md-89 {
     margin-top: 89px; }
   .pt-md-89 {
@@ -48207,6 +49146,8 @@ readers do not read off random characters that represent icons */
     margin: 90px; }
   .p-md-90 {
     padding: 90px; }
+  .br-md-90 {
+    border-radius: 90px; }
   .mt-md-90 {
     margin-top: 90px; }
   .pt-md-90 {
@@ -48239,6 +49180,8 @@ readers do not read off random characters that represent icons */
     margin: 91px; }
   .p-md-91 {
     padding: 91px; }
+  .br-md-91 {
+    border-radius: 91px; }
   .mt-md-91 {
     margin-top: 91px; }
   .pt-md-91 {
@@ -48271,6 +49214,8 @@ readers do not read off random characters that represent icons */
     margin: 92px; }
   .p-md-92 {
     padding: 92px; }
+  .br-md-92 {
+    border-radius: 92px; }
   .mt-md-92 {
     margin-top: 92px; }
   .pt-md-92 {
@@ -48303,6 +49248,8 @@ readers do not read off random characters that represent icons */
     margin: 93px; }
   .p-md-93 {
     padding: 93px; }
+  .br-md-93 {
+    border-radius: 93px; }
   .mt-md-93 {
     margin-top: 93px; }
   .pt-md-93 {
@@ -48335,6 +49282,8 @@ readers do not read off random characters that represent icons */
     margin: 94px; }
   .p-md-94 {
     padding: 94px; }
+  .br-md-94 {
+    border-radius: 94px; }
   .mt-md-94 {
     margin-top: 94px; }
   .pt-md-94 {
@@ -48367,6 +49316,8 @@ readers do not read off random characters that represent icons */
     margin: 95px; }
   .p-md-95 {
     padding: 95px; }
+  .br-md-95 {
+    border-radius: 95px; }
   .mt-md-95 {
     margin-top: 95px; }
   .pt-md-95 {
@@ -48399,6 +49350,8 @@ readers do not read off random characters that represent icons */
     margin: 96px; }
   .p-md-96 {
     padding: 96px; }
+  .br-md-96 {
+    border-radius: 96px; }
   .mt-md-96 {
     margin-top: 96px; }
   .pt-md-96 {
@@ -48431,6 +49384,8 @@ readers do not read off random characters that represent icons */
     margin: 97px; }
   .p-md-97 {
     padding: 97px; }
+  .br-md-97 {
+    border-radius: 97px; }
   .mt-md-97 {
     margin-top: 97px; }
   .pt-md-97 {
@@ -48463,6 +49418,8 @@ readers do not read off random characters that represent icons */
     margin: 98px; }
   .p-md-98 {
     padding: 98px; }
+  .br-md-98 {
+    border-radius: 98px; }
   .mt-md-98 {
     margin-top: 98px; }
   .pt-md-98 {
@@ -48495,6 +49452,8 @@ readers do not read off random characters that represent icons */
     margin: 99px; }
   .p-md-99 {
     padding: 99px; }
+  .br-md-99 {
+    border-radius: 99px; }
   .mt-md-99 {
     margin-top: 99px; }
   .pt-md-99 {
@@ -48527,6 +49486,8 @@ readers do not read off random characters that represent icons */
     margin: 100px; }
   .p-md-100 {
     padding: 100px; }
+  .br-md-100 {
+    border-radius: 100px; }
   .mt-md-100 {
     margin-top: 100px; }
   .pt-md-100 {
@@ -48559,6 +49520,8 @@ readers do not read off random characters that represent icons */
     margin: 101px; }
   .p-md-101 {
     padding: 101px; }
+  .br-md-101 {
+    border-radius: 101px; }
   .mt-md-101 {
     margin-top: 101px; }
   .pt-md-101 {
@@ -48591,6 +49554,8 @@ readers do not read off random characters that represent icons */
     margin: 102px; }
   .p-md-102 {
     padding: 102px; }
+  .br-md-102 {
+    border-radius: 102px; }
   .mt-md-102 {
     margin-top: 102px; }
   .pt-md-102 {
@@ -48623,6 +49588,8 @@ readers do not read off random characters that represent icons */
     margin: 103px; }
   .p-md-103 {
     padding: 103px; }
+  .br-md-103 {
+    border-radius: 103px; }
   .mt-md-103 {
     margin-top: 103px; }
   .pt-md-103 {
@@ -48655,6 +49622,8 @@ readers do not read off random characters that represent icons */
     margin: 104px; }
   .p-md-104 {
     padding: 104px; }
+  .br-md-104 {
+    border-radius: 104px; }
   .mt-md-104 {
     margin-top: 104px; }
   .pt-md-104 {
@@ -48687,6 +49656,8 @@ readers do not read off random characters that represent icons */
     margin: 105px; }
   .p-md-105 {
     padding: 105px; }
+  .br-md-105 {
+    border-radius: 105px; }
   .mt-md-105 {
     margin-top: 105px; }
   .pt-md-105 {
@@ -48719,6 +49690,8 @@ readers do not read off random characters that represent icons */
     margin: 106px; }
   .p-md-106 {
     padding: 106px; }
+  .br-md-106 {
+    border-radius: 106px; }
   .mt-md-106 {
     margin-top: 106px; }
   .pt-md-106 {
@@ -48751,6 +49724,8 @@ readers do not read off random characters that represent icons */
     margin: 107px; }
   .p-md-107 {
     padding: 107px; }
+  .br-md-107 {
+    border-radius: 107px; }
   .mt-md-107 {
     margin-top: 107px; }
   .pt-md-107 {
@@ -48783,6 +49758,8 @@ readers do not read off random characters that represent icons */
     margin: 108px; }
   .p-md-108 {
     padding: 108px; }
+  .br-md-108 {
+    border-radius: 108px; }
   .mt-md-108 {
     margin-top: 108px; }
   .pt-md-108 {
@@ -48815,6 +49792,8 @@ readers do not read off random characters that represent icons */
     margin: 109px; }
   .p-md-109 {
     padding: 109px; }
+  .br-md-109 {
+    border-radius: 109px; }
   .mt-md-109 {
     margin-top: 109px; }
   .pt-md-109 {
@@ -48847,6 +49826,8 @@ readers do not read off random characters that represent icons */
     margin: 110px; }
   .p-md-110 {
     padding: 110px; }
+  .br-md-110 {
+    border-radius: 110px; }
   .mt-md-110 {
     margin-top: 110px; }
   .pt-md-110 {
@@ -48879,6 +49860,8 @@ readers do not read off random characters that represent icons */
     margin: 111px; }
   .p-md-111 {
     padding: 111px; }
+  .br-md-111 {
+    border-radius: 111px; }
   .mt-md-111 {
     margin-top: 111px; }
   .pt-md-111 {
@@ -48911,6 +49894,8 @@ readers do not read off random characters that represent icons */
     margin: 112px; }
   .p-md-112 {
     padding: 112px; }
+  .br-md-112 {
+    border-radius: 112px; }
   .mt-md-112 {
     margin-top: 112px; }
   .pt-md-112 {
@@ -48943,6 +49928,8 @@ readers do not read off random characters that represent icons */
     margin: 113px; }
   .p-md-113 {
     padding: 113px; }
+  .br-md-113 {
+    border-radius: 113px; }
   .mt-md-113 {
     margin-top: 113px; }
   .pt-md-113 {
@@ -48975,6 +49962,8 @@ readers do not read off random characters that represent icons */
     margin: 114px; }
   .p-md-114 {
     padding: 114px; }
+  .br-md-114 {
+    border-radius: 114px; }
   .mt-md-114 {
     margin-top: 114px; }
   .pt-md-114 {
@@ -49007,6 +49996,8 @@ readers do not read off random characters that represent icons */
     margin: 115px; }
   .p-md-115 {
     padding: 115px; }
+  .br-md-115 {
+    border-radius: 115px; }
   .mt-md-115 {
     margin-top: 115px; }
   .pt-md-115 {
@@ -49039,6 +50030,8 @@ readers do not read off random characters that represent icons */
     margin: 116px; }
   .p-md-116 {
     padding: 116px; }
+  .br-md-116 {
+    border-radius: 116px; }
   .mt-md-116 {
     margin-top: 116px; }
   .pt-md-116 {
@@ -49071,6 +50064,8 @@ readers do not read off random characters that represent icons */
     margin: 117px; }
   .p-md-117 {
     padding: 117px; }
+  .br-md-117 {
+    border-radius: 117px; }
   .mt-md-117 {
     margin-top: 117px; }
   .pt-md-117 {
@@ -49103,6 +50098,8 @@ readers do not read off random characters that represent icons */
     margin: 118px; }
   .p-md-118 {
     padding: 118px; }
+  .br-md-118 {
+    border-radius: 118px; }
   .mt-md-118 {
     margin-top: 118px; }
   .pt-md-118 {
@@ -49135,6 +50132,8 @@ readers do not read off random characters that represent icons */
     margin: 119px; }
   .p-md-119 {
     padding: 119px; }
+  .br-md-119 {
+    border-radius: 119px; }
   .mt-md-119 {
     margin-top: 119px; }
   .pt-md-119 {
@@ -49167,6 +50166,8 @@ readers do not read off random characters that represent icons */
     margin: 120px; }
   .p-md-120 {
     padding: 120px; }
+  .br-md-120 {
+    border-radius: 120px; }
   .mt-md-120 {
     margin-top: 120px; }
   .pt-md-120 {
@@ -49199,6 +50200,8 @@ readers do not read off random characters that represent icons */
     margin: 121px; }
   .p-md-121 {
     padding: 121px; }
+  .br-md-121 {
+    border-radius: 121px; }
   .mt-md-121 {
     margin-top: 121px; }
   .pt-md-121 {
@@ -49231,6 +50234,8 @@ readers do not read off random characters that represent icons */
     margin: 122px; }
   .p-md-122 {
     padding: 122px; }
+  .br-md-122 {
+    border-radius: 122px; }
   .mt-md-122 {
     margin-top: 122px; }
   .pt-md-122 {
@@ -49263,6 +50268,8 @@ readers do not read off random characters that represent icons */
     margin: 123px; }
   .p-md-123 {
     padding: 123px; }
+  .br-md-123 {
+    border-radius: 123px; }
   .mt-md-123 {
     margin-top: 123px; }
   .pt-md-123 {
@@ -49295,6 +50302,8 @@ readers do not read off random characters that represent icons */
     margin: 124px; }
   .p-md-124 {
     padding: 124px; }
+  .br-md-124 {
+    border-radius: 124px; }
   .mt-md-124 {
     margin-top: 124px; }
   .pt-md-124 {
@@ -49327,6 +50336,8 @@ readers do not read off random characters that represent icons */
     margin: 125px; }
   .p-md-125 {
     padding: 125px; }
+  .br-md-125 {
+    border-radius: 125px; }
   .mt-md-125 {
     margin-top: 125px; }
   .pt-md-125 {
@@ -49359,6 +50370,8 @@ readers do not read off random characters that represent icons */
     margin: 126px; }
   .p-md-126 {
     padding: 126px; }
+  .br-md-126 {
+    border-radius: 126px; }
   .mt-md-126 {
     margin-top: 126px; }
   .pt-md-126 {
@@ -49391,6 +50404,8 @@ readers do not read off random characters that represent icons */
     margin: 127px; }
   .p-md-127 {
     padding: 127px; }
+  .br-md-127 {
+    border-radius: 127px; }
   .mt-md-127 {
     margin-top: 127px; }
   .pt-md-127 {
@@ -49423,6 +50438,8 @@ readers do not read off random characters that represent icons */
     margin: 128px; }
   .p-md-128 {
     padding: 128px; }
+  .br-md-128 {
+    border-radius: 128px; }
   .mt-md-128 {
     margin-top: 128px; }
   .pt-md-128 {
@@ -49455,6 +50472,8 @@ readers do not read off random characters that represent icons */
     margin: 129px; }
   .p-md-129 {
     padding: 129px; }
+  .br-md-129 {
+    border-radius: 129px; }
   .mt-md-129 {
     margin-top: 129px; }
   .pt-md-129 {
@@ -49487,6 +50506,8 @@ readers do not read off random characters that represent icons */
     margin: 130px; }
   .p-md-130 {
     padding: 130px; }
+  .br-md-130 {
+    border-radius: 130px; }
   .mt-md-130 {
     margin-top: 130px; }
   .pt-md-130 {
@@ -49519,6 +50540,8 @@ readers do not read off random characters that represent icons */
     margin: 131px; }
   .p-md-131 {
     padding: 131px; }
+  .br-md-131 {
+    border-radius: 131px; }
   .mt-md-131 {
     margin-top: 131px; }
   .pt-md-131 {
@@ -49551,6 +50574,8 @@ readers do not read off random characters that represent icons */
     margin: 132px; }
   .p-md-132 {
     padding: 132px; }
+  .br-md-132 {
+    border-radius: 132px; }
   .mt-md-132 {
     margin-top: 132px; }
   .pt-md-132 {
@@ -49583,6 +50608,8 @@ readers do not read off random characters that represent icons */
     margin: 133px; }
   .p-md-133 {
     padding: 133px; }
+  .br-md-133 {
+    border-radius: 133px; }
   .mt-md-133 {
     margin-top: 133px; }
   .pt-md-133 {
@@ -49615,6 +50642,8 @@ readers do not read off random characters that represent icons */
     margin: 134px; }
   .p-md-134 {
     padding: 134px; }
+  .br-md-134 {
+    border-radius: 134px; }
   .mt-md-134 {
     margin-top: 134px; }
   .pt-md-134 {
@@ -49647,6 +50676,8 @@ readers do not read off random characters that represent icons */
     margin: 135px; }
   .p-md-135 {
     padding: 135px; }
+  .br-md-135 {
+    border-radius: 135px; }
   .mt-md-135 {
     margin-top: 135px; }
   .pt-md-135 {
@@ -49679,6 +50710,8 @@ readers do not read off random characters that represent icons */
     margin: 136px; }
   .p-md-136 {
     padding: 136px; }
+  .br-md-136 {
+    border-radius: 136px; }
   .mt-md-136 {
     margin-top: 136px; }
   .pt-md-136 {
@@ -49711,6 +50744,8 @@ readers do not read off random characters that represent icons */
     margin: 137px; }
   .p-md-137 {
     padding: 137px; }
+  .br-md-137 {
+    border-radius: 137px; }
   .mt-md-137 {
     margin-top: 137px; }
   .pt-md-137 {
@@ -49743,6 +50778,8 @@ readers do not read off random characters that represent icons */
     margin: 138px; }
   .p-md-138 {
     padding: 138px; }
+  .br-md-138 {
+    border-radius: 138px; }
   .mt-md-138 {
     margin-top: 138px; }
   .pt-md-138 {
@@ -49775,6 +50812,8 @@ readers do not read off random characters that represent icons */
     margin: 139px; }
   .p-md-139 {
     padding: 139px; }
+  .br-md-139 {
+    border-radius: 139px; }
   .mt-md-139 {
     margin-top: 139px; }
   .pt-md-139 {
@@ -49807,6 +50846,8 @@ readers do not read off random characters that represent icons */
     margin: 140px; }
   .p-md-140 {
     padding: 140px; }
+  .br-md-140 {
+    border-radius: 140px; }
   .mt-md-140 {
     margin-top: 140px; }
   .pt-md-140 {
@@ -49839,6 +50880,8 @@ readers do not read off random characters that represent icons */
     margin: 141px; }
   .p-md-141 {
     padding: 141px; }
+  .br-md-141 {
+    border-radius: 141px; }
   .mt-md-141 {
     margin-top: 141px; }
   .pt-md-141 {
@@ -49871,6 +50914,8 @@ readers do not read off random characters that represent icons */
     margin: 142px; }
   .p-md-142 {
     padding: 142px; }
+  .br-md-142 {
+    border-radius: 142px; }
   .mt-md-142 {
     margin-top: 142px; }
   .pt-md-142 {
@@ -49903,6 +50948,8 @@ readers do not read off random characters that represent icons */
     margin: 143px; }
   .p-md-143 {
     padding: 143px; }
+  .br-md-143 {
+    border-radius: 143px; }
   .mt-md-143 {
     margin-top: 143px; }
   .pt-md-143 {
@@ -49935,6 +50982,8 @@ readers do not read off random characters that represent icons */
     margin: 144px; }
   .p-md-144 {
     padding: 144px; }
+  .br-md-144 {
+    border-radius: 144px; }
   .mt-md-144 {
     margin-top: 144px; }
   .pt-md-144 {
@@ -49967,6 +51016,8 @@ readers do not read off random characters that represent icons */
     margin: 145px; }
   .p-md-145 {
     padding: 145px; }
+  .br-md-145 {
+    border-radius: 145px; }
   .mt-md-145 {
     margin-top: 145px; }
   .pt-md-145 {
@@ -49999,6 +51050,8 @@ readers do not read off random characters that represent icons */
     margin: 146px; }
   .p-md-146 {
     padding: 146px; }
+  .br-md-146 {
+    border-radius: 146px; }
   .mt-md-146 {
     margin-top: 146px; }
   .pt-md-146 {
@@ -50031,6 +51084,8 @@ readers do not read off random characters that represent icons */
     margin: 147px; }
   .p-md-147 {
     padding: 147px; }
+  .br-md-147 {
+    border-radius: 147px; }
   .mt-md-147 {
     margin-top: 147px; }
   .pt-md-147 {
@@ -50063,6 +51118,8 @@ readers do not read off random characters that represent icons */
     margin: 148px; }
   .p-md-148 {
     padding: 148px; }
+  .br-md-148 {
+    border-radius: 148px; }
   .mt-md-148 {
     margin-top: 148px; }
   .pt-md-148 {
@@ -50095,6 +51152,8 @@ readers do not read off random characters that represent icons */
     margin: 149px; }
   .p-md-149 {
     padding: 149px; }
+  .br-md-149 {
+    border-radius: 149px; }
   .mt-md-149 {
     margin-top: 149px; }
   .pt-md-149 {
@@ -50127,6 +51186,8 @@ readers do not read off random characters that represent icons */
     margin: 150px; }
   .p-md-150 {
     padding: 150px; }
+  .br-md-150 {
+    border-radius: 150px; }
   .mt-md-150 {
     margin-top: 150px; }
   .pt-md-150 {
@@ -55961,6 +57022,8 @@ readers do not read off random characters that represent icons */
     margin: auto; }
   .p-lg-auto {
     padding: auto; }
+  .br-lg-auto {
+    border-radius: auto; }
   .mt-lg-auto {
     margin-top: auto; }
   .pt-lg-auto {
@@ -55993,6 +57056,8 @@ readers do not read off random characters that represent icons */
     margin: 0px; }
   .p-lg-0 {
     padding: 0px; }
+  .br-lg-0 {
+    border-radius: 0px; }
   .mt-lg-0 {
     margin-top: 0px; }
   .pt-lg-0 {
@@ -56025,6 +57090,8 @@ readers do not read off random characters that represent icons */
     margin: 1px; }
   .p-lg-1 {
     padding: 1px; }
+  .br-lg-1 {
+    border-radius: 1px; }
   .mt-lg-1 {
     margin-top: 1px; }
   .pt-lg-1 {
@@ -56057,6 +57124,8 @@ readers do not read off random characters that represent icons */
     margin: 2px; }
   .p-lg-2 {
     padding: 2px; }
+  .br-lg-2 {
+    border-radius: 2px; }
   .mt-lg-2 {
     margin-top: 2px; }
   .pt-lg-2 {
@@ -56089,6 +57158,8 @@ readers do not read off random characters that represent icons */
     margin: 3px; }
   .p-lg-3 {
     padding: 3px; }
+  .br-lg-3 {
+    border-radius: 3px; }
   .mt-lg-3 {
     margin-top: 3px; }
   .pt-lg-3 {
@@ -56121,6 +57192,8 @@ readers do not read off random characters that represent icons */
     margin: 4px; }
   .p-lg-4 {
     padding: 4px; }
+  .br-lg-4 {
+    border-radius: 4px; }
   .mt-lg-4 {
     margin-top: 4px; }
   .pt-lg-4 {
@@ -56153,6 +57226,8 @@ readers do not read off random characters that represent icons */
     margin: 5px; }
   .p-lg-5 {
     padding: 5px; }
+  .br-lg-5 {
+    border-radius: 5px; }
   .mt-lg-5 {
     margin-top: 5px; }
   .pt-lg-5 {
@@ -56185,6 +57260,8 @@ readers do not read off random characters that represent icons */
     margin: 6px; }
   .p-lg-6 {
     padding: 6px; }
+  .br-lg-6 {
+    border-radius: 6px; }
   .mt-lg-6 {
     margin-top: 6px; }
   .pt-lg-6 {
@@ -56217,6 +57294,8 @@ readers do not read off random characters that represent icons */
     margin: 7px; }
   .p-lg-7 {
     padding: 7px; }
+  .br-lg-7 {
+    border-radius: 7px; }
   .mt-lg-7 {
     margin-top: 7px; }
   .pt-lg-7 {
@@ -56249,6 +57328,8 @@ readers do not read off random characters that represent icons */
     margin: 8px; }
   .p-lg-8 {
     padding: 8px; }
+  .br-lg-8 {
+    border-radius: 8px; }
   .mt-lg-8 {
     margin-top: 8px; }
   .pt-lg-8 {
@@ -56281,6 +57362,8 @@ readers do not read off random characters that represent icons */
     margin: 9px; }
   .p-lg-9 {
     padding: 9px; }
+  .br-lg-9 {
+    border-radius: 9px; }
   .mt-lg-9 {
     margin-top: 9px; }
   .pt-lg-9 {
@@ -56313,6 +57396,8 @@ readers do not read off random characters that represent icons */
     margin: 10px; }
   .p-lg-10 {
     padding: 10px; }
+  .br-lg-10 {
+    border-radius: 10px; }
   .mt-lg-10 {
     margin-top: 10px; }
   .pt-lg-10 {
@@ -56345,6 +57430,8 @@ readers do not read off random characters that represent icons */
     margin: 11px; }
   .p-lg-11 {
     padding: 11px; }
+  .br-lg-11 {
+    border-radius: 11px; }
   .mt-lg-11 {
     margin-top: 11px; }
   .pt-lg-11 {
@@ -56377,6 +57464,8 @@ readers do not read off random characters that represent icons */
     margin: 12px; }
   .p-lg-12 {
     padding: 12px; }
+  .br-lg-12 {
+    border-radius: 12px; }
   .mt-lg-12 {
     margin-top: 12px; }
   .pt-lg-12 {
@@ -56409,6 +57498,8 @@ readers do not read off random characters that represent icons */
     margin: 13px; }
   .p-lg-13 {
     padding: 13px; }
+  .br-lg-13 {
+    border-radius: 13px; }
   .mt-lg-13 {
     margin-top: 13px; }
   .pt-lg-13 {
@@ -56441,6 +57532,8 @@ readers do not read off random characters that represent icons */
     margin: 14px; }
   .p-lg-14 {
     padding: 14px; }
+  .br-lg-14 {
+    border-radius: 14px; }
   .mt-lg-14 {
     margin-top: 14px; }
   .pt-lg-14 {
@@ -56473,6 +57566,8 @@ readers do not read off random characters that represent icons */
     margin: 15px; }
   .p-lg-15 {
     padding: 15px; }
+  .br-lg-15 {
+    border-radius: 15px; }
   .mt-lg-15 {
     margin-top: 15px; }
   .pt-lg-15 {
@@ -56505,6 +57600,8 @@ readers do not read off random characters that represent icons */
     margin: 16px; }
   .p-lg-16 {
     padding: 16px; }
+  .br-lg-16 {
+    border-radius: 16px; }
   .mt-lg-16 {
     margin-top: 16px; }
   .pt-lg-16 {
@@ -56537,6 +57634,8 @@ readers do not read off random characters that represent icons */
     margin: 17px; }
   .p-lg-17 {
     padding: 17px; }
+  .br-lg-17 {
+    border-radius: 17px; }
   .mt-lg-17 {
     margin-top: 17px; }
   .pt-lg-17 {
@@ -56569,6 +57668,8 @@ readers do not read off random characters that represent icons */
     margin: 18px; }
   .p-lg-18 {
     padding: 18px; }
+  .br-lg-18 {
+    border-radius: 18px; }
   .mt-lg-18 {
     margin-top: 18px; }
   .pt-lg-18 {
@@ -56601,6 +57702,8 @@ readers do not read off random characters that represent icons */
     margin: 19px; }
   .p-lg-19 {
     padding: 19px; }
+  .br-lg-19 {
+    border-radius: 19px; }
   .mt-lg-19 {
     margin-top: 19px; }
   .pt-lg-19 {
@@ -56633,6 +57736,8 @@ readers do not read off random characters that represent icons */
     margin: 20px; }
   .p-lg-20 {
     padding: 20px; }
+  .br-lg-20 {
+    border-radius: 20px; }
   .mt-lg-20 {
     margin-top: 20px; }
   .pt-lg-20 {
@@ -56665,6 +57770,8 @@ readers do not read off random characters that represent icons */
     margin: 21px; }
   .p-lg-21 {
     padding: 21px; }
+  .br-lg-21 {
+    border-radius: 21px; }
   .mt-lg-21 {
     margin-top: 21px; }
   .pt-lg-21 {
@@ -56697,6 +57804,8 @@ readers do not read off random characters that represent icons */
     margin: 22px; }
   .p-lg-22 {
     padding: 22px; }
+  .br-lg-22 {
+    border-radius: 22px; }
   .mt-lg-22 {
     margin-top: 22px; }
   .pt-lg-22 {
@@ -56729,6 +57838,8 @@ readers do not read off random characters that represent icons */
     margin: 23px; }
   .p-lg-23 {
     padding: 23px; }
+  .br-lg-23 {
+    border-radius: 23px; }
   .mt-lg-23 {
     margin-top: 23px; }
   .pt-lg-23 {
@@ -56761,6 +57872,8 @@ readers do not read off random characters that represent icons */
     margin: 24px; }
   .p-lg-24 {
     padding: 24px; }
+  .br-lg-24 {
+    border-radius: 24px; }
   .mt-lg-24 {
     margin-top: 24px; }
   .pt-lg-24 {
@@ -56793,6 +57906,8 @@ readers do not read off random characters that represent icons */
     margin: 25px; }
   .p-lg-25 {
     padding: 25px; }
+  .br-lg-25 {
+    border-radius: 25px; }
   .mt-lg-25 {
     margin-top: 25px; }
   .pt-lg-25 {
@@ -56825,6 +57940,8 @@ readers do not read off random characters that represent icons */
     margin: 26px; }
   .p-lg-26 {
     padding: 26px; }
+  .br-lg-26 {
+    border-radius: 26px; }
   .mt-lg-26 {
     margin-top: 26px; }
   .pt-lg-26 {
@@ -56857,6 +57974,8 @@ readers do not read off random characters that represent icons */
     margin: 27px; }
   .p-lg-27 {
     padding: 27px; }
+  .br-lg-27 {
+    border-radius: 27px; }
   .mt-lg-27 {
     margin-top: 27px; }
   .pt-lg-27 {
@@ -56889,6 +58008,8 @@ readers do not read off random characters that represent icons */
     margin: 28px; }
   .p-lg-28 {
     padding: 28px; }
+  .br-lg-28 {
+    border-radius: 28px; }
   .mt-lg-28 {
     margin-top: 28px; }
   .pt-lg-28 {
@@ -56921,6 +58042,8 @@ readers do not read off random characters that represent icons */
     margin: 29px; }
   .p-lg-29 {
     padding: 29px; }
+  .br-lg-29 {
+    border-radius: 29px; }
   .mt-lg-29 {
     margin-top: 29px; }
   .pt-lg-29 {
@@ -56953,6 +58076,8 @@ readers do not read off random characters that represent icons */
     margin: 30px; }
   .p-lg-30 {
     padding: 30px; }
+  .br-lg-30 {
+    border-radius: 30px; }
   .mt-lg-30 {
     margin-top: 30px; }
   .pt-lg-30 {
@@ -56985,6 +58110,8 @@ readers do not read off random characters that represent icons */
     margin: 31px; }
   .p-lg-31 {
     padding: 31px; }
+  .br-lg-31 {
+    border-radius: 31px; }
   .mt-lg-31 {
     margin-top: 31px; }
   .pt-lg-31 {
@@ -57017,6 +58144,8 @@ readers do not read off random characters that represent icons */
     margin: 32px; }
   .p-lg-32 {
     padding: 32px; }
+  .br-lg-32 {
+    border-radius: 32px; }
   .mt-lg-32 {
     margin-top: 32px; }
   .pt-lg-32 {
@@ -57049,6 +58178,8 @@ readers do not read off random characters that represent icons */
     margin: 33px; }
   .p-lg-33 {
     padding: 33px; }
+  .br-lg-33 {
+    border-radius: 33px; }
   .mt-lg-33 {
     margin-top: 33px; }
   .pt-lg-33 {
@@ -57081,6 +58212,8 @@ readers do not read off random characters that represent icons */
     margin: 34px; }
   .p-lg-34 {
     padding: 34px; }
+  .br-lg-34 {
+    border-radius: 34px; }
   .mt-lg-34 {
     margin-top: 34px; }
   .pt-lg-34 {
@@ -57113,6 +58246,8 @@ readers do not read off random characters that represent icons */
     margin: 35px; }
   .p-lg-35 {
     padding: 35px; }
+  .br-lg-35 {
+    border-radius: 35px; }
   .mt-lg-35 {
     margin-top: 35px; }
   .pt-lg-35 {
@@ -57145,6 +58280,8 @@ readers do not read off random characters that represent icons */
     margin: 36px; }
   .p-lg-36 {
     padding: 36px; }
+  .br-lg-36 {
+    border-radius: 36px; }
   .mt-lg-36 {
     margin-top: 36px; }
   .pt-lg-36 {
@@ -57177,6 +58314,8 @@ readers do not read off random characters that represent icons */
     margin: 37px; }
   .p-lg-37 {
     padding: 37px; }
+  .br-lg-37 {
+    border-radius: 37px; }
   .mt-lg-37 {
     margin-top: 37px; }
   .pt-lg-37 {
@@ -57209,6 +58348,8 @@ readers do not read off random characters that represent icons */
     margin: 38px; }
   .p-lg-38 {
     padding: 38px; }
+  .br-lg-38 {
+    border-radius: 38px; }
   .mt-lg-38 {
     margin-top: 38px; }
   .pt-lg-38 {
@@ -57241,6 +58382,8 @@ readers do not read off random characters that represent icons */
     margin: 39px; }
   .p-lg-39 {
     padding: 39px; }
+  .br-lg-39 {
+    border-radius: 39px; }
   .mt-lg-39 {
     margin-top: 39px; }
   .pt-lg-39 {
@@ -57273,6 +58416,8 @@ readers do not read off random characters that represent icons */
     margin: 40px; }
   .p-lg-40 {
     padding: 40px; }
+  .br-lg-40 {
+    border-radius: 40px; }
   .mt-lg-40 {
     margin-top: 40px; }
   .pt-lg-40 {
@@ -57305,6 +58450,8 @@ readers do not read off random characters that represent icons */
     margin: 41px; }
   .p-lg-41 {
     padding: 41px; }
+  .br-lg-41 {
+    border-radius: 41px; }
   .mt-lg-41 {
     margin-top: 41px; }
   .pt-lg-41 {
@@ -57337,6 +58484,8 @@ readers do not read off random characters that represent icons */
     margin: 42px; }
   .p-lg-42 {
     padding: 42px; }
+  .br-lg-42 {
+    border-radius: 42px; }
   .mt-lg-42 {
     margin-top: 42px; }
   .pt-lg-42 {
@@ -57369,6 +58518,8 @@ readers do not read off random characters that represent icons */
     margin: 43px; }
   .p-lg-43 {
     padding: 43px; }
+  .br-lg-43 {
+    border-radius: 43px; }
   .mt-lg-43 {
     margin-top: 43px; }
   .pt-lg-43 {
@@ -57401,6 +58552,8 @@ readers do not read off random characters that represent icons */
     margin: 44px; }
   .p-lg-44 {
     padding: 44px; }
+  .br-lg-44 {
+    border-radius: 44px; }
   .mt-lg-44 {
     margin-top: 44px; }
   .pt-lg-44 {
@@ -57433,6 +58586,8 @@ readers do not read off random characters that represent icons */
     margin: 45px; }
   .p-lg-45 {
     padding: 45px; }
+  .br-lg-45 {
+    border-radius: 45px; }
   .mt-lg-45 {
     margin-top: 45px; }
   .pt-lg-45 {
@@ -57465,6 +58620,8 @@ readers do not read off random characters that represent icons */
     margin: 46px; }
   .p-lg-46 {
     padding: 46px; }
+  .br-lg-46 {
+    border-radius: 46px; }
   .mt-lg-46 {
     margin-top: 46px; }
   .pt-lg-46 {
@@ -57497,6 +58654,8 @@ readers do not read off random characters that represent icons */
     margin: 47px; }
   .p-lg-47 {
     padding: 47px; }
+  .br-lg-47 {
+    border-radius: 47px; }
   .mt-lg-47 {
     margin-top: 47px; }
   .pt-lg-47 {
@@ -57529,6 +58688,8 @@ readers do not read off random characters that represent icons */
     margin: 48px; }
   .p-lg-48 {
     padding: 48px; }
+  .br-lg-48 {
+    border-radius: 48px; }
   .mt-lg-48 {
     margin-top: 48px; }
   .pt-lg-48 {
@@ -57561,6 +58722,8 @@ readers do not read off random characters that represent icons */
     margin: 49px; }
   .p-lg-49 {
     padding: 49px; }
+  .br-lg-49 {
+    border-radius: 49px; }
   .mt-lg-49 {
     margin-top: 49px; }
   .pt-lg-49 {
@@ -57593,6 +58756,8 @@ readers do not read off random characters that represent icons */
     margin: 50px; }
   .p-lg-50 {
     padding: 50px; }
+  .br-lg-50 {
+    border-radius: 50px; }
   .mt-lg-50 {
     margin-top: 50px; }
   .pt-lg-50 {
@@ -57625,6 +58790,8 @@ readers do not read off random characters that represent icons */
     margin: 51px; }
   .p-lg-51 {
     padding: 51px; }
+  .br-lg-51 {
+    border-radius: 51px; }
   .mt-lg-51 {
     margin-top: 51px; }
   .pt-lg-51 {
@@ -57657,6 +58824,8 @@ readers do not read off random characters that represent icons */
     margin: 52px; }
   .p-lg-52 {
     padding: 52px; }
+  .br-lg-52 {
+    border-radius: 52px; }
   .mt-lg-52 {
     margin-top: 52px; }
   .pt-lg-52 {
@@ -57689,6 +58858,8 @@ readers do not read off random characters that represent icons */
     margin: 53px; }
   .p-lg-53 {
     padding: 53px; }
+  .br-lg-53 {
+    border-radius: 53px; }
   .mt-lg-53 {
     margin-top: 53px; }
   .pt-lg-53 {
@@ -57721,6 +58892,8 @@ readers do not read off random characters that represent icons */
     margin: 54px; }
   .p-lg-54 {
     padding: 54px; }
+  .br-lg-54 {
+    border-radius: 54px; }
   .mt-lg-54 {
     margin-top: 54px; }
   .pt-lg-54 {
@@ -57753,6 +58926,8 @@ readers do not read off random characters that represent icons */
     margin: 55px; }
   .p-lg-55 {
     padding: 55px; }
+  .br-lg-55 {
+    border-radius: 55px; }
   .mt-lg-55 {
     margin-top: 55px; }
   .pt-lg-55 {
@@ -57785,6 +58960,8 @@ readers do not read off random characters that represent icons */
     margin: 56px; }
   .p-lg-56 {
     padding: 56px; }
+  .br-lg-56 {
+    border-radius: 56px; }
   .mt-lg-56 {
     margin-top: 56px; }
   .pt-lg-56 {
@@ -57817,6 +58994,8 @@ readers do not read off random characters that represent icons */
     margin: 57px; }
   .p-lg-57 {
     padding: 57px; }
+  .br-lg-57 {
+    border-radius: 57px; }
   .mt-lg-57 {
     margin-top: 57px; }
   .pt-lg-57 {
@@ -57849,6 +59028,8 @@ readers do not read off random characters that represent icons */
     margin: 58px; }
   .p-lg-58 {
     padding: 58px; }
+  .br-lg-58 {
+    border-radius: 58px; }
   .mt-lg-58 {
     margin-top: 58px; }
   .pt-lg-58 {
@@ -57881,6 +59062,8 @@ readers do not read off random characters that represent icons */
     margin: 59px; }
   .p-lg-59 {
     padding: 59px; }
+  .br-lg-59 {
+    border-radius: 59px; }
   .mt-lg-59 {
     margin-top: 59px; }
   .pt-lg-59 {
@@ -57913,6 +59096,8 @@ readers do not read off random characters that represent icons */
     margin: 60px; }
   .p-lg-60 {
     padding: 60px; }
+  .br-lg-60 {
+    border-radius: 60px; }
   .mt-lg-60 {
     margin-top: 60px; }
   .pt-lg-60 {
@@ -57945,6 +59130,8 @@ readers do not read off random characters that represent icons */
     margin: 61px; }
   .p-lg-61 {
     padding: 61px; }
+  .br-lg-61 {
+    border-radius: 61px; }
   .mt-lg-61 {
     margin-top: 61px; }
   .pt-lg-61 {
@@ -57977,6 +59164,8 @@ readers do not read off random characters that represent icons */
     margin: 62px; }
   .p-lg-62 {
     padding: 62px; }
+  .br-lg-62 {
+    border-radius: 62px; }
   .mt-lg-62 {
     margin-top: 62px; }
   .pt-lg-62 {
@@ -58009,6 +59198,8 @@ readers do not read off random characters that represent icons */
     margin: 63px; }
   .p-lg-63 {
     padding: 63px; }
+  .br-lg-63 {
+    border-radius: 63px; }
   .mt-lg-63 {
     margin-top: 63px; }
   .pt-lg-63 {
@@ -58041,6 +59232,8 @@ readers do not read off random characters that represent icons */
     margin: 64px; }
   .p-lg-64 {
     padding: 64px; }
+  .br-lg-64 {
+    border-radius: 64px; }
   .mt-lg-64 {
     margin-top: 64px; }
   .pt-lg-64 {
@@ -58073,6 +59266,8 @@ readers do not read off random characters that represent icons */
     margin: 65px; }
   .p-lg-65 {
     padding: 65px; }
+  .br-lg-65 {
+    border-radius: 65px; }
   .mt-lg-65 {
     margin-top: 65px; }
   .pt-lg-65 {
@@ -58105,6 +59300,8 @@ readers do not read off random characters that represent icons */
     margin: 66px; }
   .p-lg-66 {
     padding: 66px; }
+  .br-lg-66 {
+    border-radius: 66px; }
   .mt-lg-66 {
     margin-top: 66px; }
   .pt-lg-66 {
@@ -58137,6 +59334,8 @@ readers do not read off random characters that represent icons */
     margin: 67px; }
   .p-lg-67 {
     padding: 67px; }
+  .br-lg-67 {
+    border-radius: 67px; }
   .mt-lg-67 {
     margin-top: 67px; }
   .pt-lg-67 {
@@ -58169,6 +59368,8 @@ readers do not read off random characters that represent icons */
     margin: 68px; }
   .p-lg-68 {
     padding: 68px; }
+  .br-lg-68 {
+    border-radius: 68px; }
   .mt-lg-68 {
     margin-top: 68px; }
   .pt-lg-68 {
@@ -58201,6 +59402,8 @@ readers do not read off random characters that represent icons */
     margin: 69px; }
   .p-lg-69 {
     padding: 69px; }
+  .br-lg-69 {
+    border-radius: 69px; }
   .mt-lg-69 {
     margin-top: 69px; }
   .pt-lg-69 {
@@ -58233,6 +59436,8 @@ readers do not read off random characters that represent icons */
     margin: 70px; }
   .p-lg-70 {
     padding: 70px; }
+  .br-lg-70 {
+    border-radius: 70px; }
   .mt-lg-70 {
     margin-top: 70px; }
   .pt-lg-70 {
@@ -58265,6 +59470,8 @@ readers do not read off random characters that represent icons */
     margin: 71px; }
   .p-lg-71 {
     padding: 71px; }
+  .br-lg-71 {
+    border-radius: 71px; }
   .mt-lg-71 {
     margin-top: 71px; }
   .pt-lg-71 {
@@ -58297,6 +59504,8 @@ readers do not read off random characters that represent icons */
     margin: 72px; }
   .p-lg-72 {
     padding: 72px; }
+  .br-lg-72 {
+    border-radius: 72px; }
   .mt-lg-72 {
     margin-top: 72px; }
   .pt-lg-72 {
@@ -58329,6 +59538,8 @@ readers do not read off random characters that represent icons */
     margin: 73px; }
   .p-lg-73 {
     padding: 73px; }
+  .br-lg-73 {
+    border-radius: 73px; }
   .mt-lg-73 {
     margin-top: 73px; }
   .pt-lg-73 {
@@ -58361,6 +59572,8 @@ readers do not read off random characters that represent icons */
     margin: 74px; }
   .p-lg-74 {
     padding: 74px; }
+  .br-lg-74 {
+    border-radius: 74px; }
   .mt-lg-74 {
     margin-top: 74px; }
   .pt-lg-74 {
@@ -58393,6 +59606,8 @@ readers do not read off random characters that represent icons */
     margin: 75px; }
   .p-lg-75 {
     padding: 75px; }
+  .br-lg-75 {
+    border-radius: 75px; }
   .mt-lg-75 {
     margin-top: 75px; }
   .pt-lg-75 {
@@ -58425,6 +59640,8 @@ readers do not read off random characters that represent icons */
     margin: 76px; }
   .p-lg-76 {
     padding: 76px; }
+  .br-lg-76 {
+    border-radius: 76px; }
   .mt-lg-76 {
     margin-top: 76px; }
   .pt-lg-76 {
@@ -58457,6 +59674,8 @@ readers do not read off random characters that represent icons */
     margin: 77px; }
   .p-lg-77 {
     padding: 77px; }
+  .br-lg-77 {
+    border-radius: 77px; }
   .mt-lg-77 {
     margin-top: 77px; }
   .pt-lg-77 {
@@ -58489,6 +59708,8 @@ readers do not read off random characters that represent icons */
     margin: 78px; }
   .p-lg-78 {
     padding: 78px; }
+  .br-lg-78 {
+    border-radius: 78px; }
   .mt-lg-78 {
     margin-top: 78px; }
   .pt-lg-78 {
@@ -58521,6 +59742,8 @@ readers do not read off random characters that represent icons */
     margin: 79px; }
   .p-lg-79 {
     padding: 79px; }
+  .br-lg-79 {
+    border-radius: 79px; }
   .mt-lg-79 {
     margin-top: 79px; }
   .pt-lg-79 {
@@ -58553,6 +59776,8 @@ readers do not read off random characters that represent icons */
     margin: 80px; }
   .p-lg-80 {
     padding: 80px; }
+  .br-lg-80 {
+    border-radius: 80px; }
   .mt-lg-80 {
     margin-top: 80px; }
   .pt-lg-80 {
@@ -58585,6 +59810,8 @@ readers do not read off random characters that represent icons */
     margin: 81px; }
   .p-lg-81 {
     padding: 81px; }
+  .br-lg-81 {
+    border-radius: 81px; }
   .mt-lg-81 {
     margin-top: 81px; }
   .pt-lg-81 {
@@ -58617,6 +59844,8 @@ readers do not read off random characters that represent icons */
     margin: 82px; }
   .p-lg-82 {
     padding: 82px; }
+  .br-lg-82 {
+    border-radius: 82px; }
   .mt-lg-82 {
     margin-top: 82px; }
   .pt-lg-82 {
@@ -58649,6 +59878,8 @@ readers do not read off random characters that represent icons */
     margin: 83px; }
   .p-lg-83 {
     padding: 83px; }
+  .br-lg-83 {
+    border-radius: 83px; }
   .mt-lg-83 {
     margin-top: 83px; }
   .pt-lg-83 {
@@ -58681,6 +59912,8 @@ readers do not read off random characters that represent icons */
     margin: 84px; }
   .p-lg-84 {
     padding: 84px; }
+  .br-lg-84 {
+    border-radius: 84px; }
   .mt-lg-84 {
     margin-top: 84px; }
   .pt-lg-84 {
@@ -58713,6 +59946,8 @@ readers do not read off random characters that represent icons */
     margin: 85px; }
   .p-lg-85 {
     padding: 85px; }
+  .br-lg-85 {
+    border-radius: 85px; }
   .mt-lg-85 {
     margin-top: 85px; }
   .pt-lg-85 {
@@ -58745,6 +59980,8 @@ readers do not read off random characters that represent icons */
     margin: 86px; }
   .p-lg-86 {
     padding: 86px; }
+  .br-lg-86 {
+    border-radius: 86px; }
   .mt-lg-86 {
     margin-top: 86px; }
   .pt-lg-86 {
@@ -58777,6 +60014,8 @@ readers do not read off random characters that represent icons */
     margin: 87px; }
   .p-lg-87 {
     padding: 87px; }
+  .br-lg-87 {
+    border-radius: 87px; }
   .mt-lg-87 {
     margin-top: 87px; }
   .pt-lg-87 {
@@ -58809,6 +60048,8 @@ readers do not read off random characters that represent icons */
     margin: 88px; }
   .p-lg-88 {
     padding: 88px; }
+  .br-lg-88 {
+    border-radius: 88px; }
   .mt-lg-88 {
     margin-top: 88px; }
   .pt-lg-88 {
@@ -58841,6 +60082,8 @@ readers do not read off random characters that represent icons */
     margin: 89px; }
   .p-lg-89 {
     padding: 89px; }
+  .br-lg-89 {
+    border-radius: 89px; }
   .mt-lg-89 {
     margin-top: 89px; }
   .pt-lg-89 {
@@ -58873,6 +60116,8 @@ readers do not read off random characters that represent icons */
     margin: 90px; }
   .p-lg-90 {
     padding: 90px; }
+  .br-lg-90 {
+    border-radius: 90px; }
   .mt-lg-90 {
     margin-top: 90px; }
   .pt-lg-90 {
@@ -58905,6 +60150,8 @@ readers do not read off random characters that represent icons */
     margin: 91px; }
   .p-lg-91 {
     padding: 91px; }
+  .br-lg-91 {
+    border-radius: 91px; }
   .mt-lg-91 {
     margin-top: 91px; }
   .pt-lg-91 {
@@ -58937,6 +60184,8 @@ readers do not read off random characters that represent icons */
     margin: 92px; }
   .p-lg-92 {
     padding: 92px; }
+  .br-lg-92 {
+    border-radius: 92px; }
   .mt-lg-92 {
     margin-top: 92px; }
   .pt-lg-92 {
@@ -58969,6 +60218,8 @@ readers do not read off random characters that represent icons */
     margin: 93px; }
   .p-lg-93 {
     padding: 93px; }
+  .br-lg-93 {
+    border-radius: 93px; }
   .mt-lg-93 {
     margin-top: 93px; }
   .pt-lg-93 {
@@ -59001,6 +60252,8 @@ readers do not read off random characters that represent icons */
     margin: 94px; }
   .p-lg-94 {
     padding: 94px; }
+  .br-lg-94 {
+    border-radius: 94px; }
   .mt-lg-94 {
     margin-top: 94px; }
   .pt-lg-94 {
@@ -59033,6 +60286,8 @@ readers do not read off random characters that represent icons */
     margin: 95px; }
   .p-lg-95 {
     padding: 95px; }
+  .br-lg-95 {
+    border-radius: 95px; }
   .mt-lg-95 {
     margin-top: 95px; }
   .pt-lg-95 {
@@ -59065,6 +60320,8 @@ readers do not read off random characters that represent icons */
     margin: 96px; }
   .p-lg-96 {
     padding: 96px; }
+  .br-lg-96 {
+    border-radius: 96px; }
   .mt-lg-96 {
     margin-top: 96px; }
   .pt-lg-96 {
@@ -59097,6 +60354,8 @@ readers do not read off random characters that represent icons */
     margin: 97px; }
   .p-lg-97 {
     padding: 97px; }
+  .br-lg-97 {
+    border-radius: 97px; }
   .mt-lg-97 {
     margin-top: 97px; }
   .pt-lg-97 {
@@ -59129,6 +60388,8 @@ readers do not read off random characters that represent icons */
     margin: 98px; }
   .p-lg-98 {
     padding: 98px; }
+  .br-lg-98 {
+    border-radius: 98px; }
   .mt-lg-98 {
     margin-top: 98px; }
   .pt-lg-98 {
@@ -59161,6 +60422,8 @@ readers do not read off random characters that represent icons */
     margin: 99px; }
   .p-lg-99 {
     padding: 99px; }
+  .br-lg-99 {
+    border-radius: 99px; }
   .mt-lg-99 {
     margin-top: 99px; }
   .pt-lg-99 {
@@ -59193,6 +60456,8 @@ readers do not read off random characters that represent icons */
     margin: 100px; }
   .p-lg-100 {
     padding: 100px; }
+  .br-lg-100 {
+    border-radius: 100px; }
   .mt-lg-100 {
     margin-top: 100px; }
   .pt-lg-100 {
@@ -59225,6 +60490,8 @@ readers do not read off random characters that represent icons */
     margin: 101px; }
   .p-lg-101 {
     padding: 101px; }
+  .br-lg-101 {
+    border-radius: 101px; }
   .mt-lg-101 {
     margin-top: 101px; }
   .pt-lg-101 {
@@ -59257,6 +60524,8 @@ readers do not read off random characters that represent icons */
     margin: 102px; }
   .p-lg-102 {
     padding: 102px; }
+  .br-lg-102 {
+    border-radius: 102px; }
   .mt-lg-102 {
     margin-top: 102px; }
   .pt-lg-102 {
@@ -59289,6 +60558,8 @@ readers do not read off random characters that represent icons */
     margin: 103px; }
   .p-lg-103 {
     padding: 103px; }
+  .br-lg-103 {
+    border-radius: 103px; }
   .mt-lg-103 {
     margin-top: 103px; }
   .pt-lg-103 {
@@ -59321,6 +60592,8 @@ readers do not read off random characters that represent icons */
     margin: 104px; }
   .p-lg-104 {
     padding: 104px; }
+  .br-lg-104 {
+    border-radius: 104px; }
   .mt-lg-104 {
     margin-top: 104px; }
   .pt-lg-104 {
@@ -59353,6 +60626,8 @@ readers do not read off random characters that represent icons */
     margin: 105px; }
   .p-lg-105 {
     padding: 105px; }
+  .br-lg-105 {
+    border-radius: 105px; }
   .mt-lg-105 {
     margin-top: 105px; }
   .pt-lg-105 {
@@ -59385,6 +60660,8 @@ readers do not read off random characters that represent icons */
     margin: 106px; }
   .p-lg-106 {
     padding: 106px; }
+  .br-lg-106 {
+    border-radius: 106px; }
   .mt-lg-106 {
     margin-top: 106px; }
   .pt-lg-106 {
@@ -59417,6 +60694,8 @@ readers do not read off random characters that represent icons */
     margin: 107px; }
   .p-lg-107 {
     padding: 107px; }
+  .br-lg-107 {
+    border-radius: 107px; }
   .mt-lg-107 {
     margin-top: 107px; }
   .pt-lg-107 {
@@ -59449,6 +60728,8 @@ readers do not read off random characters that represent icons */
     margin: 108px; }
   .p-lg-108 {
     padding: 108px; }
+  .br-lg-108 {
+    border-radius: 108px; }
   .mt-lg-108 {
     margin-top: 108px; }
   .pt-lg-108 {
@@ -59481,6 +60762,8 @@ readers do not read off random characters that represent icons */
     margin: 109px; }
   .p-lg-109 {
     padding: 109px; }
+  .br-lg-109 {
+    border-radius: 109px; }
   .mt-lg-109 {
     margin-top: 109px; }
   .pt-lg-109 {
@@ -59513,6 +60796,8 @@ readers do not read off random characters that represent icons */
     margin: 110px; }
   .p-lg-110 {
     padding: 110px; }
+  .br-lg-110 {
+    border-radius: 110px; }
   .mt-lg-110 {
     margin-top: 110px; }
   .pt-lg-110 {
@@ -59545,6 +60830,8 @@ readers do not read off random characters that represent icons */
     margin: 111px; }
   .p-lg-111 {
     padding: 111px; }
+  .br-lg-111 {
+    border-radius: 111px; }
   .mt-lg-111 {
     margin-top: 111px; }
   .pt-lg-111 {
@@ -59577,6 +60864,8 @@ readers do not read off random characters that represent icons */
     margin: 112px; }
   .p-lg-112 {
     padding: 112px; }
+  .br-lg-112 {
+    border-radius: 112px; }
   .mt-lg-112 {
     margin-top: 112px; }
   .pt-lg-112 {
@@ -59609,6 +60898,8 @@ readers do not read off random characters that represent icons */
     margin: 113px; }
   .p-lg-113 {
     padding: 113px; }
+  .br-lg-113 {
+    border-radius: 113px; }
   .mt-lg-113 {
     margin-top: 113px; }
   .pt-lg-113 {
@@ -59641,6 +60932,8 @@ readers do not read off random characters that represent icons */
     margin: 114px; }
   .p-lg-114 {
     padding: 114px; }
+  .br-lg-114 {
+    border-radius: 114px; }
   .mt-lg-114 {
     margin-top: 114px; }
   .pt-lg-114 {
@@ -59673,6 +60966,8 @@ readers do not read off random characters that represent icons */
     margin: 115px; }
   .p-lg-115 {
     padding: 115px; }
+  .br-lg-115 {
+    border-radius: 115px; }
   .mt-lg-115 {
     margin-top: 115px; }
   .pt-lg-115 {
@@ -59705,6 +61000,8 @@ readers do not read off random characters that represent icons */
     margin: 116px; }
   .p-lg-116 {
     padding: 116px; }
+  .br-lg-116 {
+    border-radius: 116px; }
   .mt-lg-116 {
     margin-top: 116px; }
   .pt-lg-116 {
@@ -59737,6 +61034,8 @@ readers do not read off random characters that represent icons */
     margin: 117px; }
   .p-lg-117 {
     padding: 117px; }
+  .br-lg-117 {
+    border-radius: 117px; }
   .mt-lg-117 {
     margin-top: 117px; }
   .pt-lg-117 {
@@ -59769,6 +61068,8 @@ readers do not read off random characters that represent icons */
     margin: 118px; }
   .p-lg-118 {
     padding: 118px; }
+  .br-lg-118 {
+    border-radius: 118px; }
   .mt-lg-118 {
     margin-top: 118px; }
   .pt-lg-118 {
@@ -59801,6 +61102,8 @@ readers do not read off random characters that represent icons */
     margin: 119px; }
   .p-lg-119 {
     padding: 119px; }
+  .br-lg-119 {
+    border-radius: 119px; }
   .mt-lg-119 {
     margin-top: 119px; }
   .pt-lg-119 {
@@ -59833,6 +61136,8 @@ readers do not read off random characters that represent icons */
     margin: 120px; }
   .p-lg-120 {
     padding: 120px; }
+  .br-lg-120 {
+    border-radius: 120px; }
   .mt-lg-120 {
     margin-top: 120px; }
   .pt-lg-120 {
@@ -59865,6 +61170,8 @@ readers do not read off random characters that represent icons */
     margin: 121px; }
   .p-lg-121 {
     padding: 121px; }
+  .br-lg-121 {
+    border-radius: 121px; }
   .mt-lg-121 {
     margin-top: 121px; }
   .pt-lg-121 {
@@ -59897,6 +61204,8 @@ readers do not read off random characters that represent icons */
     margin: 122px; }
   .p-lg-122 {
     padding: 122px; }
+  .br-lg-122 {
+    border-radius: 122px; }
   .mt-lg-122 {
     margin-top: 122px; }
   .pt-lg-122 {
@@ -59929,6 +61238,8 @@ readers do not read off random characters that represent icons */
     margin: 123px; }
   .p-lg-123 {
     padding: 123px; }
+  .br-lg-123 {
+    border-radius: 123px; }
   .mt-lg-123 {
     margin-top: 123px; }
   .pt-lg-123 {
@@ -59961,6 +61272,8 @@ readers do not read off random characters that represent icons */
     margin: 124px; }
   .p-lg-124 {
     padding: 124px; }
+  .br-lg-124 {
+    border-radius: 124px; }
   .mt-lg-124 {
     margin-top: 124px; }
   .pt-lg-124 {
@@ -59993,6 +61306,8 @@ readers do not read off random characters that represent icons */
     margin: 125px; }
   .p-lg-125 {
     padding: 125px; }
+  .br-lg-125 {
+    border-radius: 125px; }
   .mt-lg-125 {
     margin-top: 125px; }
   .pt-lg-125 {
@@ -60025,6 +61340,8 @@ readers do not read off random characters that represent icons */
     margin: 126px; }
   .p-lg-126 {
     padding: 126px; }
+  .br-lg-126 {
+    border-radius: 126px; }
   .mt-lg-126 {
     margin-top: 126px; }
   .pt-lg-126 {
@@ -60057,6 +61374,8 @@ readers do not read off random characters that represent icons */
     margin: 127px; }
   .p-lg-127 {
     padding: 127px; }
+  .br-lg-127 {
+    border-radius: 127px; }
   .mt-lg-127 {
     margin-top: 127px; }
   .pt-lg-127 {
@@ -60089,6 +61408,8 @@ readers do not read off random characters that represent icons */
     margin: 128px; }
   .p-lg-128 {
     padding: 128px; }
+  .br-lg-128 {
+    border-radius: 128px; }
   .mt-lg-128 {
     margin-top: 128px; }
   .pt-lg-128 {
@@ -60121,6 +61442,8 @@ readers do not read off random characters that represent icons */
     margin: 129px; }
   .p-lg-129 {
     padding: 129px; }
+  .br-lg-129 {
+    border-radius: 129px; }
   .mt-lg-129 {
     margin-top: 129px; }
   .pt-lg-129 {
@@ -60153,6 +61476,8 @@ readers do not read off random characters that represent icons */
     margin: 130px; }
   .p-lg-130 {
     padding: 130px; }
+  .br-lg-130 {
+    border-radius: 130px; }
   .mt-lg-130 {
     margin-top: 130px; }
   .pt-lg-130 {
@@ -60185,6 +61510,8 @@ readers do not read off random characters that represent icons */
     margin: 131px; }
   .p-lg-131 {
     padding: 131px; }
+  .br-lg-131 {
+    border-radius: 131px; }
   .mt-lg-131 {
     margin-top: 131px; }
   .pt-lg-131 {
@@ -60217,6 +61544,8 @@ readers do not read off random characters that represent icons */
     margin: 132px; }
   .p-lg-132 {
     padding: 132px; }
+  .br-lg-132 {
+    border-radius: 132px; }
   .mt-lg-132 {
     margin-top: 132px; }
   .pt-lg-132 {
@@ -60249,6 +61578,8 @@ readers do not read off random characters that represent icons */
     margin: 133px; }
   .p-lg-133 {
     padding: 133px; }
+  .br-lg-133 {
+    border-radius: 133px; }
   .mt-lg-133 {
     margin-top: 133px; }
   .pt-lg-133 {
@@ -60281,6 +61612,8 @@ readers do not read off random characters that represent icons */
     margin: 134px; }
   .p-lg-134 {
     padding: 134px; }
+  .br-lg-134 {
+    border-radius: 134px; }
   .mt-lg-134 {
     margin-top: 134px; }
   .pt-lg-134 {
@@ -60313,6 +61646,8 @@ readers do not read off random characters that represent icons */
     margin: 135px; }
   .p-lg-135 {
     padding: 135px; }
+  .br-lg-135 {
+    border-radius: 135px; }
   .mt-lg-135 {
     margin-top: 135px; }
   .pt-lg-135 {
@@ -60345,6 +61680,8 @@ readers do not read off random characters that represent icons */
     margin: 136px; }
   .p-lg-136 {
     padding: 136px; }
+  .br-lg-136 {
+    border-radius: 136px; }
   .mt-lg-136 {
     margin-top: 136px; }
   .pt-lg-136 {
@@ -60377,6 +61714,8 @@ readers do not read off random characters that represent icons */
     margin: 137px; }
   .p-lg-137 {
     padding: 137px; }
+  .br-lg-137 {
+    border-radius: 137px; }
   .mt-lg-137 {
     margin-top: 137px; }
   .pt-lg-137 {
@@ -60409,6 +61748,8 @@ readers do not read off random characters that represent icons */
     margin: 138px; }
   .p-lg-138 {
     padding: 138px; }
+  .br-lg-138 {
+    border-radius: 138px; }
   .mt-lg-138 {
     margin-top: 138px; }
   .pt-lg-138 {
@@ -60441,6 +61782,8 @@ readers do not read off random characters that represent icons */
     margin: 139px; }
   .p-lg-139 {
     padding: 139px; }
+  .br-lg-139 {
+    border-radius: 139px; }
   .mt-lg-139 {
     margin-top: 139px; }
   .pt-lg-139 {
@@ -60473,6 +61816,8 @@ readers do not read off random characters that represent icons */
     margin: 140px; }
   .p-lg-140 {
     padding: 140px; }
+  .br-lg-140 {
+    border-radius: 140px; }
   .mt-lg-140 {
     margin-top: 140px; }
   .pt-lg-140 {
@@ -60505,6 +61850,8 @@ readers do not read off random characters that represent icons */
     margin: 141px; }
   .p-lg-141 {
     padding: 141px; }
+  .br-lg-141 {
+    border-radius: 141px; }
   .mt-lg-141 {
     margin-top: 141px; }
   .pt-lg-141 {
@@ -60537,6 +61884,8 @@ readers do not read off random characters that represent icons */
     margin: 142px; }
   .p-lg-142 {
     padding: 142px; }
+  .br-lg-142 {
+    border-radius: 142px; }
   .mt-lg-142 {
     margin-top: 142px; }
   .pt-lg-142 {
@@ -60569,6 +61918,8 @@ readers do not read off random characters that represent icons */
     margin: 143px; }
   .p-lg-143 {
     padding: 143px; }
+  .br-lg-143 {
+    border-radius: 143px; }
   .mt-lg-143 {
     margin-top: 143px; }
   .pt-lg-143 {
@@ -60601,6 +61952,8 @@ readers do not read off random characters that represent icons */
     margin: 144px; }
   .p-lg-144 {
     padding: 144px; }
+  .br-lg-144 {
+    border-radius: 144px; }
   .mt-lg-144 {
     margin-top: 144px; }
   .pt-lg-144 {
@@ -60633,6 +61986,8 @@ readers do not read off random characters that represent icons */
     margin: 145px; }
   .p-lg-145 {
     padding: 145px; }
+  .br-lg-145 {
+    border-radius: 145px; }
   .mt-lg-145 {
     margin-top: 145px; }
   .pt-lg-145 {
@@ -60665,6 +62020,8 @@ readers do not read off random characters that represent icons */
     margin: 146px; }
   .p-lg-146 {
     padding: 146px; }
+  .br-lg-146 {
+    border-radius: 146px; }
   .mt-lg-146 {
     margin-top: 146px; }
   .pt-lg-146 {
@@ -60697,6 +62054,8 @@ readers do not read off random characters that represent icons */
     margin: 147px; }
   .p-lg-147 {
     padding: 147px; }
+  .br-lg-147 {
+    border-radius: 147px; }
   .mt-lg-147 {
     margin-top: 147px; }
   .pt-lg-147 {
@@ -60729,6 +62088,8 @@ readers do not read off random characters that represent icons */
     margin: 148px; }
   .p-lg-148 {
     padding: 148px; }
+  .br-lg-148 {
+    border-radius: 148px; }
   .mt-lg-148 {
     margin-top: 148px; }
   .pt-lg-148 {
@@ -60761,6 +62122,8 @@ readers do not read off random characters that represent icons */
     margin: 149px; }
   .p-lg-149 {
     padding: 149px; }
+  .br-lg-149 {
+    border-radius: 149px; }
   .mt-lg-149 {
     margin-top: 149px; }
   .pt-lg-149 {
@@ -60793,6 +62156,8 @@ readers do not read off random characters that represent icons */
     margin: 150px; }
   .p-lg-150 {
     padding: 150px; }
+  .br-lg-150 {
+    border-radius: 150px; }
   .mt-lg-150 {
     margin-top: 150px; }
   .pt-lg-150 {
@@ -66627,6 +67992,8 @@ readers do not read off random characters that represent icons */
     margin: auto; }
   .p-xl-auto {
     padding: auto; }
+  .br-xl-auto {
+    border-radius: auto; }
   .mt-xl-auto {
     margin-top: auto; }
   .pt-xl-auto {
@@ -66659,6 +68026,8 @@ readers do not read off random characters that represent icons */
     margin: 0px; }
   .p-xl-0 {
     padding: 0px; }
+  .br-xl-0 {
+    border-radius: 0px; }
   .mt-xl-0 {
     margin-top: 0px; }
   .pt-xl-0 {
@@ -66691,6 +68060,8 @@ readers do not read off random characters that represent icons */
     margin: 1px; }
   .p-xl-1 {
     padding: 1px; }
+  .br-xl-1 {
+    border-radius: 1px; }
   .mt-xl-1 {
     margin-top: 1px; }
   .pt-xl-1 {
@@ -66723,6 +68094,8 @@ readers do not read off random characters that represent icons */
     margin: 2px; }
   .p-xl-2 {
     padding: 2px; }
+  .br-xl-2 {
+    border-radius: 2px; }
   .mt-xl-2 {
     margin-top: 2px; }
   .pt-xl-2 {
@@ -66755,6 +68128,8 @@ readers do not read off random characters that represent icons */
     margin: 3px; }
   .p-xl-3 {
     padding: 3px; }
+  .br-xl-3 {
+    border-radius: 3px; }
   .mt-xl-3 {
     margin-top: 3px; }
   .pt-xl-3 {
@@ -66787,6 +68162,8 @@ readers do not read off random characters that represent icons */
     margin: 4px; }
   .p-xl-4 {
     padding: 4px; }
+  .br-xl-4 {
+    border-radius: 4px; }
   .mt-xl-4 {
     margin-top: 4px; }
   .pt-xl-4 {
@@ -66819,6 +68196,8 @@ readers do not read off random characters that represent icons */
     margin: 5px; }
   .p-xl-5 {
     padding: 5px; }
+  .br-xl-5 {
+    border-radius: 5px; }
   .mt-xl-5 {
     margin-top: 5px; }
   .pt-xl-5 {
@@ -66851,6 +68230,8 @@ readers do not read off random characters that represent icons */
     margin: 6px; }
   .p-xl-6 {
     padding: 6px; }
+  .br-xl-6 {
+    border-radius: 6px; }
   .mt-xl-6 {
     margin-top: 6px; }
   .pt-xl-6 {
@@ -66883,6 +68264,8 @@ readers do not read off random characters that represent icons */
     margin: 7px; }
   .p-xl-7 {
     padding: 7px; }
+  .br-xl-7 {
+    border-radius: 7px; }
   .mt-xl-7 {
     margin-top: 7px; }
   .pt-xl-7 {
@@ -66915,6 +68298,8 @@ readers do not read off random characters that represent icons */
     margin: 8px; }
   .p-xl-8 {
     padding: 8px; }
+  .br-xl-8 {
+    border-radius: 8px; }
   .mt-xl-8 {
     margin-top: 8px; }
   .pt-xl-8 {
@@ -66947,6 +68332,8 @@ readers do not read off random characters that represent icons */
     margin: 9px; }
   .p-xl-9 {
     padding: 9px; }
+  .br-xl-9 {
+    border-radius: 9px; }
   .mt-xl-9 {
     margin-top: 9px; }
   .pt-xl-9 {
@@ -66979,6 +68366,8 @@ readers do not read off random characters that represent icons */
     margin: 10px; }
   .p-xl-10 {
     padding: 10px; }
+  .br-xl-10 {
+    border-radius: 10px; }
   .mt-xl-10 {
     margin-top: 10px; }
   .pt-xl-10 {
@@ -67011,6 +68400,8 @@ readers do not read off random characters that represent icons */
     margin: 11px; }
   .p-xl-11 {
     padding: 11px; }
+  .br-xl-11 {
+    border-radius: 11px; }
   .mt-xl-11 {
     margin-top: 11px; }
   .pt-xl-11 {
@@ -67043,6 +68434,8 @@ readers do not read off random characters that represent icons */
     margin: 12px; }
   .p-xl-12 {
     padding: 12px; }
+  .br-xl-12 {
+    border-radius: 12px; }
   .mt-xl-12 {
     margin-top: 12px; }
   .pt-xl-12 {
@@ -67075,6 +68468,8 @@ readers do not read off random characters that represent icons */
     margin: 13px; }
   .p-xl-13 {
     padding: 13px; }
+  .br-xl-13 {
+    border-radius: 13px; }
   .mt-xl-13 {
     margin-top: 13px; }
   .pt-xl-13 {
@@ -67107,6 +68502,8 @@ readers do not read off random characters that represent icons */
     margin: 14px; }
   .p-xl-14 {
     padding: 14px; }
+  .br-xl-14 {
+    border-radius: 14px; }
   .mt-xl-14 {
     margin-top: 14px; }
   .pt-xl-14 {
@@ -67139,6 +68536,8 @@ readers do not read off random characters that represent icons */
     margin: 15px; }
   .p-xl-15 {
     padding: 15px; }
+  .br-xl-15 {
+    border-radius: 15px; }
   .mt-xl-15 {
     margin-top: 15px; }
   .pt-xl-15 {
@@ -67171,6 +68570,8 @@ readers do not read off random characters that represent icons */
     margin: 16px; }
   .p-xl-16 {
     padding: 16px; }
+  .br-xl-16 {
+    border-radius: 16px; }
   .mt-xl-16 {
     margin-top: 16px; }
   .pt-xl-16 {
@@ -67203,6 +68604,8 @@ readers do not read off random characters that represent icons */
     margin: 17px; }
   .p-xl-17 {
     padding: 17px; }
+  .br-xl-17 {
+    border-radius: 17px; }
   .mt-xl-17 {
     margin-top: 17px; }
   .pt-xl-17 {
@@ -67235,6 +68638,8 @@ readers do not read off random characters that represent icons */
     margin: 18px; }
   .p-xl-18 {
     padding: 18px; }
+  .br-xl-18 {
+    border-radius: 18px; }
   .mt-xl-18 {
     margin-top: 18px; }
   .pt-xl-18 {
@@ -67267,6 +68672,8 @@ readers do not read off random characters that represent icons */
     margin: 19px; }
   .p-xl-19 {
     padding: 19px; }
+  .br-xl-19 {
+    border-radius: 19px; }
   .mt-xl-19 {
     margin-top: 19px; }
   .pt-xl-19 {
@@ -67299,6 +68706,8 @@ readers do not read off random characters that represent icons */
     margin: 20px; }
   .p-xl-20 {
     padding: 20px; }
+  .br-xl-20 {
+    border-radius: 20px; }
   .mt-xl-20 {
     margin-top: 20px; }
   .pt-xl-20 {
@@ -67331,6 +68740,8 @@ readers do not read off random characters that represent icons */
     margin: 21px; }
   .p-xl-21 {
     padding: 21px; }
+  .br-xl-21 {
+    border-radius: 21px; }
   .mt-xl-21 {
     margin-top: 21px; }
   .pt-xl-21 {
@@ -67363,6 +68774,8 @@ readers do not read off random characters that represent icons */
     margin: 22px; }
   .p-xl-22 {
     padding: 22px; }
+  .br-xl-22 {
+    border-radius: 22px; }
   .mt-xl-22 {
     margin-top: 22px; }
   .pt-xl-22 {
@@ -67395,6 +68808,8 @@ readers do not read off random characters that represent icons */
     margin: 23px; }
   .p-xl-23 {
     padding: 23px; }
+  .br-xl-23 {
+    border-radius: 23px; }
   .mt-xl-23 {
     margin-top: 23px; }
   .pt-xl-23 {
@@ -67427,6 +68842,8 @@ readers do not read off random characters that represent icons */
     margin: 24px; }
   .p-xl-24 {
     padding: 24px; }
+  .br-xl-24 {
+    border-radius: 24px; }
   .mt-xl-24 {
     margin-top: 24px; }
   .pt-xl-24 {
@@ -67459,6 +68876,8 @@ readers do not read off random characters that represent icons */
     margin: 25px; }
   .p-xl-25 {
     padding: 25px; }
+  .br-xl-25 {
+    border-radius: 25px; }
   .mt-xl-25 {
     margin-top: 25px; }
   .pt-xl-25 {
@@ -67491,6 +68910,8 @@ readers do not read off random characters that represent icons */
     margin: 26px; }
   .p-xl-26 {
     padding: 26px; }
+  .br-xl-26 {
+    border-radius: 26px; }
   .mt-xl-26 {
     margin-top: 26px; }
   .pt-xl-26 {
@@ -67523,6 +68944,8 @@ readers do not read off random characters that represent icons */
     margin: 27px; }
   .p-xl-27 {
     padding: 27px; }
+  .br-xl-27 {
+    border-radius: 27px; }
   .mt-xl-27 {
     margin-top: 27px; }
   .pt-xl-27 {
@@ -67555,6 +68978,8 @@ readers do not read off random characters that represent icons */
     margin: 28px; }
   .p-xl-28 {
     padding: 28px; }
+  .br-xl-28 {
+    border-radius: 28px; }
   .mt-xl-28 {
     margin-top: 28px; }
   .pt-xl-28 {
@@ -67587,6 +69012,8 @@ readers do not read off random characters that represent icons */
     margin: 29px; }
   .p-xl-29 {
     padding: 29px; }
+  .br-xl-29 {
+    border-radius: 29px; }
   .mt-xl-29 {
     margin-top: 29px; }
   .pt-xl-29 {
@@ -67619,6 +69046,8 @@ readers do not read off random characters that represent icons */
     margin: 30px; }
   .p-xl-30 {
     padding: 30px; }
+  .br-xl-30 {
+    border-radius: 30px; }
   .mt-xl-30 {
     margin-top: 30px; }
   .pt-xl-30 {
@@ -67651,6 +69080,8 @@ readers do not read off random characters that represent icons */
     margin: 31px; }
   .p-xl-31 {
     padding: 31px; }
+  .br-xl-31 {
+    border-radius: 31px; }
   .mt-xl-31 {
     margin-top: 31px; }
   .pt-xl-31 {
@@ -67683,6 +69114,8 @@ readers do not read off random characters that represent icons */
     margin: 32px; }
   .p-xl-32 {
     padding: 32px; }
+  .br-xl-32 {
+    border-radius: 32px; }
   .mt-xl-32 {
     margin-top: 32px; }
   .pt-xl-32 {
@@ -67715,6 +69148,8 @@ readers do not read off random characters that represent icons */
     margin: 33px; }
   .p-xl-33 {
     padding: 33px; }
+  .br-xl-33 {
+    border-radius: 33px; }
   .mt-xl-33 {
     margin-top: 33px; }
   .pt-xl-33 {
@@ -67747,6 +69182,8 @@ readers do not read off random characters that represent icons */
     margin: 34px; }
   .p-xl-34 {
     padding: 34px; }
+  .br-xl-34 {
+    border-radius: 34px; }
   .mt-xl-34 {
     margin-top: 34px; }
   .pt-xl-34 {
@@ -67779,6 +69216,8 @@ readers do not read off random characters that represent icons */
     margin: 35px; }
   .p-xl-35 {
     padding: 35px; }
+  .br-xl-35 {
+    border-radius: 35px; }
   .mt-xl-35 {
     margin-top: 35px; }
   .pt-xl-35 {
@@ -67811,6 +69250,8 @@ readers do not read off random characters that represent icons */
     margin: 36px; }
   .p-xl-36 {
     padding: 36px; }
+  .br-xl-36 {
+    border-radius: 36px; }
   .mt-xl-36 {
     margin-top: 36px; }
   .pt-xl-36 {
@@ -67843,6 +69284,8 @@ readers do not read off random characters that represent icons */
     margin: 37px; }
   .p-xl-37 {
     padding: 37px; }
+  .br-xl-37 {
+    border-radius: 37px; }
   .mt-xl-37 {
     margin-top: 37px; }
   .pt-xl-37 {
@@ -67875,6 +69318,8 @@ readers do not read off random characters that represent icons */
     margin: 38px; }
   .p-xl-38 {
     padding: 38px; }
+  .br-xl-38 {
+    border-radius: 38px; }
   .mt-xl-38 {
     margin-top: 38px; }
   .pt-xl-38 {
@@ -67907,6 +69352,8 @@ readers do not read off random characters that represent icons */
     margin: 39px; }
   .p-xl-39 {
     padding: 39px; }
+  .br-xl-39 {
+    border-radius: 39px; }
   .mt-xl-39 {
     margin-top: 39px; }
   .pt-xl-39 {
@@ -67939,6 +69386,8 @@ readers do not read off random characters that represent icons */
     margin: 40px; }
   .p-xl-40 {
     padding: 40px; }
+  .br-xl-40 {
+    border-radius: 40px; }
   .mt-xl-40 {
     margin-top: 40px; }
   .pt-xl-40 {
@@ -67971,6 +69420,8 @@ readers do not read off random characters that represent icons */
     margin: 41px; }
   .p-xl-41 {
     padding: 41px; }
+  .br-xl-41 {
+    border-radius: 41px; }
   .mt-xl-41 {
     margin-top: 41px; }
   .pt-xl-41 {
@@ -68003,6 +69454,8 @@ readers do not read off random characters that represent icons */
     margin: 42px; }
   .p-xl-42 {
     padding: 42px; }
+  .br-xl-42 {
+    border-radius: 42px; }
   .mt-xl-42 {
     margin-top: 42px; }
   .pt-xl-42 {
@@ -68035,6 +69488,8 @@ readers do not read off random characters that represent icons */
     margin: 43px; }
   .p-xl-43 {
     padding: 43px; }
+  .br-xl-43 {
+    border-radius: 43px; }
   .mt-xl-43 {
     margin-top: 43px; }
   .pt-xl-43 {
@@ -68067,6 +69522,8 @@ readers do not read off random characters that represent icons */
     margin: 44px; }
   .p-xl-44 {
     padding: 44px; }
+  .br-xl-44 {
+    border-radius: 44px; }
   .mt-xl-44 {
     margin-top: 44px; }
   .pt-xl-44 {
@@ -68099,6 +69556,8 @@ readers do not read off random characters that represent icons */
     margin: 45px; }
   .p-xl-45 {
     padding: 45px; }
+  .br-xl-45 {
+    border-radius: 45px; }
   .mt-xl-45 {
     margin-top: 45px; }
   .pt-xl-45 {
@@ -68131,6 +69590,8 @@ readers do not read off random characters that represent icons */
     margin: 46px; }
   .p-xl-46 {
     padding: 46px; }
+  .br-xl-46 {
+    border-radius: 46px; }
   .mt-xl-46 {
     margin-top: 46px; }
   .pt-xl-46 {
@@ -68163,6 +69624,8 @@ readers do not read off random characters that represent icons */
     margin: 47px; }
   .p-xl-47 {
     padding: 47px; }
+  .br-xl-47 {
+    border-radius: 47px; }
   .mt-xl-47 {
     margin-top: 47px; }
   .pt-xl-47 {
@@ -68195,6 +69658,8 @@ readers do not read off random characters that represent icons */
     margin: 48px; }
   .p-xl-48 {
     padding: 48px; }
+  .br-xl-48 {
+    border-radius: 48px; }
   .mt-xl-48 {
     margin-top: 48px; }
   .pt-xl-48 {
@@ -68227,6 +69692,8 @@ readers do not read off random characters that represent icons */
     margin: 49px; }
   .p-xl-49 {
     padding: 49px; }
+  .br-xl-49 {
+    border-radius: 49px; }
   .mt-xl-49 {
     margin-top: 49px; }
   .pt-xl-49 {
@@ -68259,6 +69726,8 @@ readers do not read off random characters that represent icons */
     margin: 50px; }
   .p-xl-50 {
     padding: 50px; }
+  .br-xl-50 {
+    border-radius: 50px; }
   .mt-xl-50 {
     margin-top: 50px; }
   .pt-xl-50 {
@@ -68291,6 +69760,8 @@ readers do not read off random characters that represent icons */
     margin: 51px; }
   .p-xl-51 {
     padding: 51px; }
+  .br-xl-51 {
+    border-radius: 51px; }
   .mt-xl-51 {
     margin-top: 51px; }
   .pt-xl-51 {
@@ -68323,6 +69794,8 @@ readers do not read off random characters that represent icons */
     margin: 52px; }
   .p-xl-52 {
     padding: 52px; }
+  .br-xl-52 {
+    border-radius: 52px; }
   .mt-xl-52 {
     margin-top: 52px; }
   .pt-xl-52 {
@@ -68355,6 +69828,8 @@ readers do not read off random characters that represent icons */
     margin: 53px; }
   .p-xl-53 {
     padding: 53px; }
+  .br-xl-53 {
+    border-radius: 53px; }
   .mt-xl-53 {
     margin-top: 53px; }
   .pt-xl-53 {
@@ -68387,6 +69862,8 @@ readers do not read off random characters that represent icons */
     margin: 54px; }
   .p-xl-54 {
     padding: 54px; }
+  .br-xl-54 {
+    border-radius: 54px; }
   .mt-xl-54 {
     margin-top: 54px; }
   .pt-xl-54 {
@@ -68419,6 +69896,8 @@ readers do not read off random characters that represent icons */
     margin: 55px; }
   .p-xl-55 {
     padding: 55px; }
+  .br-xl-55 {
+    border-radius: 55px; }
   .mt-xl-55 {
     margin-top: 55px; }
   .pt-xl-55 {
@@ -68451,6 +69930,8 @@ readers do not read off random characters that represent icons */
     margin: 56px; }
   .p-xl-56 {
     padding: 56px; }
+  .br-xl-56 {
+    border-radius: 56px; }
   .mt-xl-56 {
     margin-top: 56px; }
   .pt-xl-56 {
@@ -68483,6 +69964,8 @@ readers do not read off random characters that represent icons */
     margin: 57px; }
   .p-xl-57 {
     padding: 57px; }
+  .br-xl-57 {
+    border-radius: 57px; }
   .mt-xl-57 {
     margin-top: 57px; }
   .pt-xl-57 {
@@ -68515,6 +69998,8 @@ readers do not read off random characters that represent icons */
     margin: 58px; }
   .p-xl-58 {
     padding: 58px; }
+  .br-xl-58 {
+    border-radius: 58px; }
   .mt-xl-58 {
     margin-top: 58px; }
   .pt-xl-58 {
@@ -68547,6 +70032,8 @@ readers do not read off random characters that represent icons */
     margin: 59px; }
   .p-xl-59 {
     padding: 59px; }
+  .br-xl-59 {
+    border-radius: 59px; }
   .mt-xl-59 {
     margin-top: 59px; }
   .pt-xl-59 {
@@ -68579,6 +70066,8 @@ readers do not read off random characters that represent icons */
     margin: 60px; }
   .p-xl-60 {
     padding: 60px; }
+  .br-xl-60 {
+    border-radius: 60px; }
   .mt-xl-60 {
     margin-top: 60px; }
   .pt-xl-60 {
@@ -68611,6 +70100,8 @@ readers do not read off random characters that represent icons */
     margin: 61px; }
   .p-xl-61 {
     padding: 61px; }
+  .br-xl-61 {
+    border-radius: 61px; }
   .mt-xl-61 {
     margin-top: 61px; }
   .pt-xl-61 {
@@ -68643,6 +70134,8 @@ readers do not read off random characters that represent icons */
     margin: 62px; }
   .p-xl-62 {
     padding: 62px; }
+  .br-xl-62 {
+    border-radius: 62px; }
   .mt-xl-62 {
     margin-top: 62px; }
   .pt-xl-62 {
@@ -68675,6 +70168,8 @@ readers do not read off random characters that represent icons */
     margin: 63px; }
   .p-xl-63 {
     padding: 63px; }
+  .br-xl-63 {
+    border-radius: 63px; }
   .mt-xl-63 {
     margin-top: 63px; }
   .pt-xl-63 {
@@ -68707,6 +70202,8 @@ readers do not read off random characters that represent icons */
     margin: 64px; }
   .p-xl-64 {
     padding: 64px; }
+  .br-xl-64 {
+    border-radius: 64px; }
   .mt-xl-64 {
     margin-top: 64px; }
   .pt-xl-64 {
@@ -68739,6 +70236,8 @@ readers do not read off random characters that represent icons */
     margin: 65px; }
   .p-xl-65 {
     padding: 65px; }
+  .br-xl-65 {
+    border-radius: 65px; }
   .mt-xl-65 {
     margin-top: 65px; }
   .pt-xl-65 {
@@ -68771,6 +70270,8 @@ readers do not read off random characters that represent icons */
     margin: 66px; }
   .p-xl-66 {
     padding: 66px; }
+  .br-xl-66 {
+    border-radius: 66px; }
   .mt-xl-66 {
     margin-top: 66px; }
   .pt-xl-66 {
@@ -68803,6 +70304,8 @@ readers do not read off random characters that represent icons */
     margin: 67px; }
   .p-xl-67 {
     padding: 67px; }
+  .br-xl-67 {
+    border-radius: 67px; }
   .mt-xl-67 {
     margin-top: 67px; }
   .pt-xl-67 {
@@ -68835,6 +70338,8 @@ readers do not read off random characters that represent icons */
     margin: 68px; }
   .p-xl-68 {
     padding: 68px; }
+  .br-xl-68 {
+    border-radius: 68px; }
   .mt-xl-68 {
     margin-top: 68px; }
   .pt-xl-68 {
@@ -68867,6 +70372,8 @@ readers do not read off random characters that represent icons */
     margin: 69px; }
   .p-xl-69 {
     padding: 69px; }
+  .br-xl-69 {
+    border-radius: 69px; }
   .mt-xl-69 {
     margin-top: 69px; }
   .pt-xl-69 {
@@ -68899,6 +70406,8 @@ readers do not read off random characters that represent icons */
     margin: 70px; }
   .p-xl-70 {
     padding: 70px; }
+  .br-xl-70 {
+    border-radius: 70px; }
   .mt-xl-70 {
     margin-top: 70px; }
   .pt-xl-70 {
@@ -68931,6 +70440,8 @@ readers do not read off random characters that represent icons */
     margin: 71px; }
   .p-xl-71 {
     padding: 71px; }
+  .br-xl-71 {
+    border-radius: 71px; }
   .mt-xl-71 {
     margin-top: 71px; }
   .pt-xl-71 {
@@ -68963,6 +70474,8 @@ readers do not read off random characters that represent icons */
     margin: 72px; }
   .p-xl-72 {
     padding: 72px; }
+  .br-xl-72 {
+    border-radius: 72px; }
   .mt-xl-72 {
     margin-top: 72px; }
   .pt-xl-72 {
@@ -68995,6 +70508,8 @@ readers do not read off random characters that represent icons */
     margin: 73px; }
   .p-xl-73 {
     padding: 73px; }
+  .br-xl-73 {
+    border-radius: 73px; }
   .mt-xl-73 {
     margin-top: 73px; }
   .pt-xl-73 {
@@ -69027,6 +70542,8 @@ readers do not read off random characters that represent icons */
     margin: 74px; }
   .p-xl-74 {
     padding: 74px; }
+  .br-xl-74 {
+    border-radius: 74px; }
   .mt-xl-74 {
     margin-top: 74px; }
   .pt-xl-74 {
@@ -69059,6 +70576,8 @@ readers do not read off random characters that represent icons */
     margin: 75px; }
   .p-xl-75 {
     padding: 75px; }
+  .br-xl-75 {
+    border-radius: 75px; }
   .mt-xl-75 {
     margin-top: 75px; }
   .pt-xl-75 {
@@ -69091,6 +70610,8 @@ readers do not read off random characters that represent icons */
     margin: 76px; }
   .p-xl-76 {
     padding: 76px; }
+  .br-xl-76 {
+    border-radius: 76px; }
   .mt-xl-76 {
     margin-top: 76px; }
   .pt-xl-76 {
@@ -69123,6 +70644,8 @@ readers do not read off random characters that represent icons */
     margin: 77px; }
   .p-xl-77 {
     padding: 77px; }
+  .br-xl-77 {
+    border-radius: 77px; }
   .mt-xl-77 {
     margin-top: 77px; }
   .pt-xl-77 {
@@ -69155,6 +70678,8 @@ readers do not read off random characters that represent icons */
     margin: 78px; }
   .p-xl-78 {
     padding: 78px; }
+  .br-xl-78 {
+    border-radius: 78px; }
   .mt-xl-78 {
     margin-top: 78px; }
   .pt-xl-78 {
@@ -69187,6 +70712,8 @@ readers do not read off random characters that represent icons */
     margin: 79px; }
   .p-xl-79 {
     padding: 79px; }
+  .br-xl-79 {
+    border-radius: 79px; }
   .mt-xl-79 {
     margin-top: 79px; }
   .pt-xl-79 {
@@ -69219,6 +70746,8 @@ readers do not read off random characters that represent icons */
     margin: 80px; }
   .p-xl-80 {
     padding: 80px; }
+  .br-xl-80 {
+    border-radius: 80px; }
   .mt-xl-80 {
     margin-top: 80px; }
   .pt-xl-80 {
@@ -69251,6 +70780,8 @@ readers do not read off random characters that represent icons */
     margin: 81px; }
   .p-xl-81 {
     padding: 81px; }
+  .br-xl-81 {
+    border-radius: 81px; }
   .mt-xl-81 {
     margin-top: 81px; }
   .pt-xl-81 {
@@ -69283,6 +70814,8 @@ readers do not read off random characters that represent icons */
     margin: 82px; }
   .p-xl-82 {
     padding: 82px; }
+  .br-xl-82 {
+    border-radius: 82px; }
   .mt-xl-82 {
     margin-top: 82px; }
   .pt-xl-82 {
@@ -69315,6 +70848,8 @@ readers do not read off random characters that represent icons */
     margin: 83px; }
   .p-xl-83 {
     padding: 83px; }
+  .br-xl-83 {
+    border-radius: 83px; }
   .mt-xl-83 {
     margin-top: 83px; }
   .pt-xl-83 {
@@ -69347,6 +70882,8 @@ readers do not read off random characters that represent icons */
     margin: 84px; }
   .p-xl-84 {
     padding: 84px; }
+  .br-xl-84 {
+    border-radius: 84px; }
   .mt-xl-84 {
     margin-top: 84px; }
   .pt-xl-84 {
@@ -69379,6 +70916,8 @@ readers do not read off random characters that represent icons */
     margin: 85px; }
   .p-xl-85 {
     padding: 85px; }
+  .br-xl-85 {
+    border-radius: 85px; }
   .mt-xl-85 {
     margin-top: 85px; }
   .pt-xl-85 {
@@ -69411,6 +70950,8 @@ readers do not read off random characters that represent icons */
     margin: 86px; }
   .p-xl-86 {
     padding: 86px; }
+  .br-xl-86 {
+    border-radius: 86px; }
   .mt-xl-86 {
     margin-top: 86px; }
   .pt-xl-86 {
@@ -69443,6 +70984,8 @@ readers do not read off random characters that represent icons */
     margin: 87px; }
   .p-xl-87 {
     padding: 87px; }
+  .br-xl-87 {
+    border-radius: 87px; }
   .mt-xl-87 {
     margin-top: 87px; }
   .pt-xl-87 {
@@ -69475,6 +71018,8 @@ readers do not read off random characters that represent icons */
     margin: 88px; }
   .p-xl-88 {
     padding: 88px; }
+  .br-xl-88 {
+    border-radius: 88px; }
   .mt-xl-88 {
     margin-top: 88px; }
   .pt-xl-88 {
@@ -69507,6 +71052,8 @@ readers do not read off random characters that represent icons */
     margin: 89px; }
   .p-xl-89 {
     padding: 89px; }
+  .br-xl-89 {
+    border-radius: 89px; }
   .mt-xl-89 {
     margin-top: 89px; }
   .pt-xl-89 {
@@ -69539,6 +71086,8 @@ readers do not read off random characters that represent icons */
     margin: 90px; }
   .p-xl-90 {
     padding: 90px; }
+  .br-xl-90 {
+    border-radius: 90px; }
   .mt-xl-90 {
     margin-top: 90px; }
   .pt-xl-90 {
@@ -69571,6 +71120,8 @@ readers do not read off random characters that represent icons */
     margin: 91px; }
   .p-xl-91 {
     padding: 91px; }
+  .br-xl-91 {
+    border-radius: 91px; }
   .mt-xl-91 {
     margin-top: 91px; }
   .pt-xl-91 {
@@ -69603,6 +71154,8 @@ readers do not read off random characters that represent icons */
     margin: 92px; }
   .p-xl-92 {
     padding: 92px; }
+  .br-xl-92 {
+    border-radius: 92px; }
   .mt-xl-92 {
     margin-top: 92px; }
   .pt-xl-92 {
@@ -69635,6 +71188,8 @@ readers do not read off random characters that represent icons */
     margin: 93px; }
   .p-xl-93 {
     padding: 93px; }
+  .br-xl-93 {
+    border-radius: 93px; }
   .mt-xl-93 {
     margin-top: 93px; }
   .pt-xl-93 {
@@ -69667,6 +71222,8 @@ readers do not read off random characters that represent icons */
     margin: 94px; }
   .p-xl-94 {
     padding: 94px; }
+  .br-xl-94 {
+    border-radius: 94px; }
   .mt-xl-94 {
     margin-top: 94px; }
   .pt-xl-94 {
@@ -69699,6 +71256,8 @@ readers do not read off random characters that represent icons */
     margin: 95px; }
   .p-xl-95 {
     padding: 95px; }
+  .br-xl-95 {
+    border-radius: 95px; }
   .mt-xl-95 {
     margin-top: 95px; }
   .pt-xl-95 {
@@ -69731,6 +71290,8 @@ readers do not read off random characters that represent icons */
     margin: 96px; }
   .p-xl-96 {
     padding: 96px; }
+  .br-xl-96 {
+    border-radius: 96px; }
   .mt-xl-96 {
     margin-top: 96px; }
   .pt-xl-96 {
@@ -69763,6 +71324,8 @@ readers do not read off random characters that represent icons */
     margin: 97px; }
   .p-xl-97 {
     padding: 97px; }
+  .br-xl-97 {
+    border-radius: 97px; }
   .mt-xl-97 {
     margin-top: 97px; }
   .pt-xl-97 {
@@ -69795,6 +71358,8 @@ readers do not read off random characters that represent icons */
     margin: 98px; }
   .p-xl-98 {
     padding: 98px; }
+  .br-xl-98 {
+    border-radius: 98px; }
   .mt-xl-98 {
     margin-top: 98px; }
   .pt-xl-98 {
@@ -69827,6 +71392,8 @@ readers do not read off random characters that represent icons */
     margin: 99px; }
   .p-xl-99 {
     padding: 99px; }
+  .br-xl-99 {
+    border-radius: 99px; }
   .mt-xl-99 {
     margin-top: 99px; }
   .pt-xl-99 {
@@ -69859,6 +71426,8 @@ readers do not read off random characters that represent icons */
     margin: 100px; }
   .p-xl-100 {
     padding: 100px; }
+  .br-xl-100 {
+    border-radius: 100px; }
   .mt-xl-100 {
     margin-top: 100px; }
   .pt-xl-100 {
@@ -69891,6 +71460,8 @@ readers do not read off random characters that represent icons */
     margin: 101px; }
   .p-xl-101 {
     padding: 101px; }
+  .br-xl-101 {
+    border-radius: 101px; }
   .mt-xl-101 {
     margin-top: 101px; }
   .pt-xl-101 {
@@ -69923,6 +71494,8 @@ readers do not read off random characters that represent icons */
     margin: 102px; }
   .p-xl-102 {
     padding: 102px; }
+  .br-xl-102 {
+    border-radius: 102px; }
   .mt-xl-102 {
     margin-top: 102px; }
   .pt-xl-102 {
@@ -69955,6 +71528,8 @@ readers do not read off random characters that represent icons */
     margin: 103px; }
   .p-xl-103 {
     padding: 103px; }
+  .br-xl-103 {
+    border-radius: 103px; }
   .mt-xl-103 {
     margin-top: 103px; }
   .pt-xl-103 {
@@ -69987,6 +71562,8 @@ readers do not read off random characters that represent icons */
     margin: 104px; }
   .p-xl-104 {
     padding: 104px; }
+  .br-xl-104 {
+    border-radius: 104px; }
   .mt-xl-104 {
     margin-top: 104px; }
   .pt-xl-104 {
@@ -70019,6 +71596,8 @@ readers do not read off random characters that represent icons */
     margin: 105px; }
   .p-xl-105 {
     padding: 105px; }
+  .br-xl-105 {
+    border-radius: 105px; }
   .mt-xl-105 {
     margin-top: 105px; }
   .pt-xl-105 {
@@ -70051,6 +71630,8 @@ readers do not read off random characters that represent icons */
     margin: 106px; }
   .p-xl-106 {
     padding: 106px; }
+  .br-xl-106 {
+    border-radius: 106px; }
   .mt-xl-106 {
     margin-top: 106px; }
   .pt-xl-106 {
@@ -70083,6 +71664,8 @@ readers do not read off random characters that represent icons */
     margin: 107px; }
   .p-xl-107 {
     padding: 107px; }
+  .br-xl-107 {
+    border-radius: 107px; }
   .mt-xl-107 {
     margin-top: 107px; }
   .pt-xl-107 {
@@ -70115,6 +71698,8 @@ readers do not read off random characters that represent icons */
     margin: 108px; }
   .p-xl-108 {
     padding: 108px; }
+  .br-xl-108 {
+    border-radius: 108px; }
   .mt-xl-108 {
     margin-top: 108px; }
   .pt-xl-108 {
@@ -70147,6 +71732,8 @@ readers do not read off random characters that represent icons */
     margin: 109px; }
   .p-xl-109 {
     padding: 109px; }
+  .br-xl-109 {
+    border-radius: 109px; }
   .mt-xl-109 {
     margin-top: 109px; }
   .pt-xl-109 {
@@ -70179,6 +71766,8 @@ readers do not read off random characters that represent icons */
     margin: 110px; }
   .p-xl-110 {
     padding: 110px; }
+  .br-xl-110 {
+    border-radius: 110px; }
   .mt-xl-110 {
     margin-top: 110px; }
   .pt-xl-110 {
@@ -70211,6 +71800,8 @@ readers do not read off random characters that represent icons */
     margin: 111px; }
   .p-xl-111 {
     padding: 111px; }
+  .br-xl-111 {
+    border-radius: 111px; }
   .mt-xl-111 {
     margin-top: 111px; }
   .pt-xl-111 {
@@ -70243,6 +71834,8 @@ readers do not read off random characters that represent icons */
     margin: 112px; }
   .p-xl-112 {
     padding: 112px; }
+  .br-xl-112 {
+    border-radius: 112px; }
   .mt-xl-112 {
     margin-top: 112px; }
   .pt-xl-112 {
@@ -70275,6 +71868,8 @@ readers do not read off random characters that represent icons */
     margin: 113px; }
   .p-xl-113 {
     padding: 113px; }
+  .br-xl-113 {
+    border-radius: 113px; }
   .mt-xl-113 {
     margin-top: 113px; }
   .pt-xl-113 {
@@ -70307,6 +71902,8 @@ readers do not read off random characters that represent icons */
     margin: 114px; }
   .p-xl-114 {
     padding: 114px; }
+  .br-xl-114 {
+    border-radius: 114px; }
   .mt-xl-114 {
     margin-top: 114px; }
   .pt-xl-114 {
@@ -70339,6 +71936,8 @@ readers do not read off random characters that represent icons */
     margin: 115px; }
   .p-xl-115 {
     padding: 115px; }
+  .br-xl-115 {
+    border-radius: 115px; }
   .mt-xl-115 {
     margin-top: 115px; }
   .pt-xl-115 {
@@ -70371,6 +71970,8 @@ readers do not read off random characters that represent icons */
     margin: 116px; }
   .p-xl-116 {
     padding: 116px; }
+  .br-xl-116 {
+    border-radius: 116px; }
   .mt-xl-116 {
     margin-top: 116px; }
   .pt-xl-116 {
@@ -70403,6 +72004,8 @@ readers do not read off random characters that represent icons */
     margin: 117px; }
   .p-xl-117 {
     padding: 117px; }
+  .br-xl-117 {
+    border-radius: 117px; }
   .mt-xl-117 {
     margin-top: 117px; }
   .pt-xl-117 {
@@ -70435,6 +72038,8 @@ readers do not read off random characters that represent icons */
     margin: 118px; }
   .p-xl-118 {
     padding: 118px; }
+  .br-xl-118 {
+    border-radius: 118px; }
   .mt-xl-118 {
     margin-top: 118px; }
   .pt-xl-118 {
@@ -70467,6 +72072,8 @@ readers do not read off random characters that represent icons */
     margin: 119px; }
   .p-xl-119 {
     padding: 119px; }
+  .br-xl-119 {
+    border-radius: 119px; }
   .mt-xl-119 {
     margin-top: 119px; }
   .pt-xl-119 {
@@ -70499,6 +72106,8 @@ readers do not read off random characters that represent icons */
     margin: 120px; }
   .p-xl-120 {
     padding: 120px; }
+  .br-xl-120 {
+    border-radius: 120px; }
   .mt-xl-120 {
     margin-top: 120px; }
   .pt-xl-120 {
@@ -70531,6 +72140,8 @@ readers do not read off random characters that represent icons */
     margin: 121px; }
   .p-xl-121 {
     padding: 121px; }
+  .br-xl-121 {
+    border-radius: 121px; }
   .mt-xl-121 {
     margin-top: 121px; }
   .pt-xl-121 {
@@ -70563,6 +72174,8 @@ readers do not read off random characters that represent icons */
     margin: 122px; }
   .p-xl-122 {
     padding: 122px; }
+  .br-xl-122 {
+    border-radius: 122px; }
   .mt-xl-122 {
     margin-top: 122px; }
   .pt-xl-122 {
@@ -70595,6 +72208,8 @@ readers do not read off random characters that represent icons */
     margin: 123px; }
   .p-xl-123 {
     padding: 123px; }
+  .br-xl-123 {
+    border-radius: 123px; }
   .mt-xl-123 {
     margin-top: 123px; }
   .pt-xl-123 {
@@ -70627,6 +72242,8 @@ readers do not read off random characters that represent icons */
     margin: 124px; }
   .p-xl-124 {
     padding: 124px; }
+  .br-xl-124 {
+    border-radius: 124px; }
   .mt-xl-124 {
     margin-top: 124px; }
   .pt-xl-124 {
@@ -70659,6 +72276,8 @@ readers do not read off random characters that represent icons */
     margin: 125px; }
   .p-xl-125 {
     padding: 125px; }
+  .br-xl-125 {
+    border-radius: 125px; }
   .mt-xl-125 {
     margin-top: 125px; }
   .pt-xl-125 {
@@ -70691,6 +72310,8 @@ readers do not read off random characters that represent icons */
     margin: 126px; }
   .p-xl-126 {
     padding: 126px; }
+  .br-xl-126 {
+    border-radius: 126px; }
   .mt-xl-126 {
     margin-top: 126px; }
   .pt-xl-126 {
@@ -70723,6 +72344,8 @@ readers do not read off random characters that represent icons */
     margin: 127px; }
   .p-xl-127 {
     padding: 127px; }
+  .br-xl-127 {
+    border-radius: 127px; }
   .mt-xl-127 {
     margin-top: 127px; }
   .pt-xl-127 {
@@ -70755,6 +72378,8 @@ readers do not read off random characters that represent icons */
     margin: 128px; }
   .p-xl-128 {
     padding: 128px; }
+  .br-xl-128 {
+    border-radius: 128px; }
   .mt-xl-128 {
     margin-top: 128px; }
   .pt-xl-128 {
@@ -70787,6 +72412,8 @@ readers do not read off random characters that represent icons */
     margin: 129px; }
   .p-xl-129 {
     padding: 129px; }
+  .br-xl-129 {
+    border-radius: 129px; }
   .mt-xl-129 {
     margin-top: 129px; }
   .pt-xl-129 {
@@ -70819,6 +72446,8 @@ readers do not read off random characters that represent icons */
     margin: 130px; }
   .p-xl-130 {
     padding: 130px; }
+  .br-xl-130 {
+    border-radius: 130px; }
   .mt-xl-130 {
     margin-top: 130px; }
   .pt-xl-130 {
@@ -70851,6 +72480,8 @@ readers do not read off random characters that represent icons */
     margin: 131px; }
   .p-xl-131 {
     padding: 131px; }
+  .br-xl-131 {
+    border-radius: 131px; }
   .mt-xl-131 {
     margin-top: 131px; }
   .pt-xl-131 {
@@ -70883,6 +72514,8 @@ readers do not read off random characters that represent icons */
     margin: 132px; }
   .p-xl-132 {
     padding: 132px; }
+  .br-xl-132 {
+    border-radius: 132px; }
   .mt-xl-132 {
     margin-top: 132px; }
   .pt-xl-132 {
@@ -70915,6 +72548,8 @@ readers do not read off random characters that represent icons */
     margin: 133px; }
   .p-xl-133 {
     padding: 133px; }
+  .br-xl-133 {
+    border-radius: 133px; }
   .mt-xl-133 {
     margin-top: 133px; }
   .pt-xl-133 {
@@ -70947,6 +72582,8 @@ readers do not read off random characters that represent icons */
     margin: 134px; }
   .p-xl-134 {
     padding: 134px; }
+  .br-xl-134 {
+    border-radius: 134px; }
   .mt-xl-134 {
     margin-top: 134px; }
   .pt-xl-134 {
@@ -70979,6 +72616,8 @@ readers do not read off random characters that represent icons */
     margin: 135px; }
   .p-xl-135 {
     padding: 135px; }
+  .br-xl-135 {
+    border-radius: 135px; }
   .mt-xl-135 {
     margin-top: 135px; }
   .pt-xl-135 {
@@ -71011,6 +72650,8 @@ readers do not read off random characters that represent icons */
     margin: 136px; }
   .p-xl-136 {
     padding: 136px; }
+  .br-xl-136 {
+    border-radius: 136px; }
   .mt-xl-136 {
     margin-top: 136px; }
   .pt-xl-136 {
@@ -71043,6 +72684,8 @@ readers do not read off random characters that represent icons */
     margin: 137px; }
   .p-xl-137 {
     padding: 137px; }
+  .br-xl-137 {
+    border-radius: 137px; }
   .mt-xl-137 {
     margin-top: 137px; }
   .pt-xl-137 {
@@ -71075,6 +72718,8 @@ readers do not read off random characters that represent icons */
     margin: 138px; }
   .p-xl-138 {
     padding: 138px; }
+  .br-xl-138 {
+    border-radius: 138px; }
   .mt-xl-138 {
     margin-top: 138px; }
   .pt-xl-138 {
@@ -71107,6 +72752,8 @@ readers do not read off random characters that represent icons */
     margin: 139px; }
   .p-xl-139 {
     padding: 139px; }
+  .br-xl-139 {
+    border-radius: 139px; }
   .mt-xl-139 {
     margin-top: 139px; }
   .pt-xl-139 {
@@ -71139,6 +72786,8 @@ readers do not read off random characters that represent icons */
     margin: 140px; }
   .p-xl-140 {
     padding: 140px; }
+  .br-xl-140 {
+    border-radius: 140px; }
   .mt-xl-140 {
     margin-top: 140px; }
   .pt-xl-140 {
@@ -71171,6 +72820,8 @@ readers do not read off random characters that represent icons */
     margin: 141px; }
   .p-xl-141 {
     padding: 141px; }
+  .br-xl-141 {
+    border-radius: 141px; }
   .mt-xl-141 {
     margin-top: 141px; }
   .pt-xl-141 {
@@ -71203,6 +72854,8 @@ readers do not read off random characters that represent icons */
     margin: 142px; }
   .p-xl-142 {
     padding: 142px; }
+  .br-xl-142 {
+    border-radius: 142px; }
   .mt-xl-142 {
     margin-top: 142px; }
   .pt-xl-142 {
@@ -71235,6 +72888,8 @@ readers do not read off random characters that represent icons */
     margin: 143px; }
   .p-xl-143 {
     padding: 143px; }
+  .br-xl-143 {
+    border-radius: 143px; }
   .mt-xl-143 {
     margin-top: 143px; }
   .pt-xl-143 {
@@ -71267,6 +72922,8 @@ readers do not read off random characters that represent icons */
     margin: 144px; }
   .p-xl-144 {
     padding: 144px; }
+  .br-xl-144 {
+    border-radius: 144px; }
   .mt-xl-144 {
     margin-top: 144px; }
   .pt-xl-144 {
@@ -71299,6 +72956,8 @@ readers do not read off random characters that represent icons */
     margin: 145px; }
   .p-xl-145 {
     padding: 145px; }
+  .br-xl-145 {
+    border-radius: 145px; }
   .mt-xl-145 {
     margin-top: 145px; }
   .pt-xl-145 {
@@ -71331,6 +72990,8 @@ readers do not read off random characters that represent icons */
     margin: 146px; }
   .p-xl-146 {
     padding: 146px; }
+  .br-xl-146 {
+    border-radius: 146px; }
   .mt-xl-146 {
     margin-top: 146px; }
   .pt-xl-146 {
@@ -71363,6 +73024,8 @@ readers do not read off random characters that represent icons */
     margin: 147px; }
   .p-xl-147 {
     padding: 147px; }
+  .br-xl-147 {
+    border-radius: 147px; }
   .mt-xl-147 {
     margin-top: 147px; }
   .pt-xl-147 {
@@ -71395,6 +73058,8 @@ readers do not read off random characters that represent icons */
     margin: 148px; }
   .p-xl-148 {
     padding: 148px; }
+  .br-xl-148 {
+    border-radius: 148px; }
   .mt-xl-148 {
     margin-top: 148px; }
   .pt-xl-148 {
@@ -71427,6 +73092,8 @@ readers do not read off random characters that represent icons */
     margin: 149px; }
   .p-xl-149 {
     padding: 149px; }
+  .br-xl-149 {
+    border-radius: 149px; }
   .mt-xl-149 {
     margin-top: 149px; }
   .pt-xl-149 {
@@ -71459,6 +73126,8 @@ readers do not read off random characters that represent icons */
     margin: 150px; }
   .p-xl-150 {
     padding: 150px; }
+  .br-xl-150 {
+    border-radius: 150px; }
   .mt-xl-150 {
     margin-top: 150px; }
   .pt-xl-150 {
