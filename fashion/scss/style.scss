@@ -12,25 +12,75 @@ $breakValue in $breakpoints {
         @media (min-width: $breakValue) {
 
             @for $i from 1 through 100 {
-                .w-#{$i}vw {
+                @each $sideName,
+                $sideValue in $sides {
+                    @if $sideName != "" {
+                        .m#{$sideName}-#{$breakName}-#{$i}vw {
+                            margin-#{$sideValue}: #{$i}vw;
+                        }
+                        .p#{$sideName}-#{$breakName}-#{$i}vw {
+                            padding-#{$sideValue}: #{$i}vw;
+                        }
+                    }
+                }
+                .w-#{$breakName}-#{$i}vw {
                     width: #{$i}vw;
                 }
-                .h-#{$i}vw {
+                .h-#{$breakName}-#{$i}vw {
                     height: #{$i}vw;
                 }
-                .wh-#{$i}vw {
+                .wh-#{$breakName}-#{$i}vw {
                     width: #{$i}vw;
                     height: #{$i}vw;
                 }
-                .w-#{$i}vh {
+                .w-#{$breakName}-#{$i}vh {
                     width: #{$i}vh;
                 }
-                .h-#{$i}vh {
+                .h-#{$breakName}-#{$i}vh {
                     height: #{$i}vh;
                 }
-                .wh-#{$i}vh {
+                .wh-#{$breakName}-#{$i}vh {
                     width: #{$i}vh;
                     height: #{$i}vh;
+                }
+
+                $space: $i + 'vw';
+                $spaceValue: $i + 'vw';
+
+                .my-#{$breakName}-#{$space} {
+                    margin-top: #{$spaceValue};
+                    margin-bottom: #{$spaceValue};
+                }
+                .py-#{$breakName}-#{$space} {
+                    padding-top: #{$spaceValue};
+                    padding-bottom: #{$spaceValue};
+                }
+                .mx-#{$breakName}-#{$space} {
+                    margin-left: #{$spaceValue};
+                    margin-right: #{$spaceValue};
+                }
+                .px-#{$breakName}-#{$space} {
+                    padding-left: #{$spaceValue};
+                    padding-right: #{$spaceValue};
+                }
+                $space: $i + 'vh';
+                $spaceValue: $i + 'vh';
+
+                .my-#{$breakName}-#{$space} {
+                    margin-top: #{$spaceValue};
+                    margin-bottom: #{$spaceValue};
+                }
+                .py-#{$breakName}-#{$space} {
+                    padding-top: #{$spaceValue};
+                    padding-bottom: #{$spaceValue};
+                }
+                .mx-#{$breakName}-#{$space} {
+                    margin-left: #{$spaceValue};
+                    margin-right: #{$spaceValue};
+                }
+                .px-#{$breakName}-#{$space} {
+                    padding-left: #{$spaceValue};
+                    padding-right: #{$spaceValue};
                 }
             }
 
@@ -71,6 +121,82 @@ $breakValue in $breakpoints {
         }
     }
     @else {
+
+        @for $i from 1 through 100 {
+
+            @each $sideName,
+            $sideValue in $sides {
+                @if $sideName != "" {
+                    .m#{$sideName}-#{$i}vw {
+                        margin-#{$sideValue}: #{$i}vw;
+                    }
+                    .p#{$sideName}-#{$i}vw {
+                        padding-#{$sideValue}: #{$i}vw;
+                    }
+                }
+            }
+
+            .w-#{$i}vw {
+                width: #{$i}vw;
+            }
+            .h-#{$i}vw {
+                height: #{$i}vw;
+            }
+            .wh-#{$i}vw {
+                width: #{$i}vw;
+                height: #{$i}vw;
+            }
+            .w-#{$i}vh {
+                width: #{$i}vh;
+            }
+            .h-#{$i}vh {
+                height: #{$i}vh;
+            }
+            .wh-#{$i}vh {
+                width: #{$i}vh;
+                height: #{$i}vh;
+            }
+
+            $space: $i + 'vw';
+            $spaceValue: $i + 'vw';
+
+            .my-#{$space} {
+                margin-top: #{$spaceValue};
+                margin-bottom: #{$spaceValue};
+            }
+            .py-#{$space} {
+                padding-top: #{$spaceValue};
+                padding-bottom: #{$spaceValue};
+            }
+            .mx-#{$space} {
+                margin-left: #{$spaceValue};
+                margin-right: #{$spaceValue};
+            }
+            .px-#{$space} {
+                padding-left: #{$spaceValue};
+                padding-right: #{$spaceValue};
+            }
+            $space: $i + 'vh';
+            $spaceValue: $i + 'vh';
+
+            .my-#{$space} {
+                margin-top: #{$spaceValue};
+                margin-bottom: #{$spaceValue};
+            }
+            .py-#{$space} {
+                padding-top: #{$spaceValue};
+                padding-bottom: #{$spaceValue};
+            }
+            .mx-#{$space} {
+                margin-left: #{$spaceValue};
+                margin-right: #{$spaceValue};
+            }
+            .px-#{$space} {
+                padding-left: #{$spaceValue};
+                padding-right: #{$spaceValue};
+            }
+        }
+
         @for $i from 0 through 150 {
             $space: $i;
             $spaceValue: $i + 'px';
