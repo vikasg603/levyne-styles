@@ -21,6 +21,13 @@ $breakValue in $breakpoints {
                         .p#{$sideName}-#{$breakName}-#{$i}vw {
                             padding-#{$sideValue}: #{$i}vw;
                         }
+                    } @else {
+                        .m-#{$breakName}-#{$i}vw {
+                            margin: #{$i}vw;
+                        }
+                        .p-#{$breakName}-#{$i}vw {
+                            padding: #{$i}vw;
+                        }
                     }
                 }
                 .w-#{$breakName}-#{$i}vw {
@@ -132,6 +139,13 @@ $breakValue in $breakpoints {
                     }
                     .p#{$sideName}-#{$i}vw {
                         padding-#{$sideValue}: #{$i}vw;
+                    }
+                } @else {
+                    .m-#{$i}vw {
+                        margin: #{$i}vw;
+                    }
+                    .p-#{$i}vw {
+                        padding: #{$i}vw;
                     }
                 }
             }
