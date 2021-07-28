@@ -107,6 +107,11 @@ $breakValue in $breakpoints {
                     .p#{$selector} {
                         padding#{$property}: #{$spaceValue};
                     }
+                    @if($sideName=='') {
+                        .br-#{$breakName}-#{$space} {
+                            border-radius: #{$spaceValue};
+                        }
+                    }
                 }
                 .my-#{$breakName}-#{$space} {
                     margin-top: #{$spaceValue};
@@ -228,6 +233,11 @@ $breakValue in $breakpoints {
                 }
                 .p#{$selector} {
                     padding#{$property}: #{$spaceValue};
+                }
+                @if($sideName=='') {
+                    .br-#{$space} {
+                        border-radius: #{$spaceValue};
+                    }
                 }
             }
             .my-#{$space} {
