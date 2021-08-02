@@ -7,8 +7,8 @@
   max-width: 85%;
   color: white;
   visibility: hidden;
-  background-color: var(--offcanvas-bg-color);
-  backdrop-filter: blur(4px);
+  background-color: var(--navbar-bg-color);
+  backdrop-filter: blur(8px);
   background-clip: padding-box;
   outline: 0;
   @include box-shadow($offcanvas-box-shadow);
