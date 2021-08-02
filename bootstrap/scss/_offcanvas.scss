@@ -4,10 +4,11 @@
   z-index: $zindex-offcanvas;
   display: flex;
   flex-direction: column;
-  max-width: 100%;
-  color: $offcanvas-color;
+  max-width: 85%;
+  color: white;
   visibility: hidden;
-  background-color: $offcanvas-bg-color;
+  background-color: var(--offcanvas-bg-color);
+  backdrop-filter: blur(4px);
   background-clip: padding-box;
   outline: 0;
   @include box-shadow($offcanvas-box-shadow);
@@ -25,6 +26,7 @@
     margin-top: $offcanvas-padding-y * -.5;
     margin-right: $offcanvas-padding-x * -.5;
     margin-bottom: $offcanvas-padding-y * -.5;
+    
   }
 }
 
@@ -76,4 +78,5 @@
 
 .offcanvas.show {
   transform: none;
+  visibility: visible;
 }
