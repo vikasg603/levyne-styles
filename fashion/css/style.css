@@ -4621,9 +4621,11 @@ textarea.form-control-lg {
   z-index: 1050;
   display: flex;
   flex-direction: column;
-  max-width: 100%;
+  max-width: 85%;
+  color: white;
   visibility: hidden;
-  background-color: #fff;
+  background-color: var(--offcanvas-bg-color);
+  backdrop-filter: blur(4px);
   background-clip: padding-box;
   outline: 0;
   transition: transform 0.3s ease-in-out; }
@@ -4683,7 +4685,8 @@ textarea.form-control-lg {
   transform: translateY(100%); }
 
 .offcanvas.show {
-  transform: none; }
+  transform: none;
+  visibility: visible; }
 
 .clearfix::after {
   display: block;
