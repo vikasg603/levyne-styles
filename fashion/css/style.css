@@ -73254,6 +73254,66 @@ readers do not read off random characters that represent icons */
 .fs-30 {
   font-size: 30px; }
 
+.fs-31 {
+  font-size: 31px; }
+
+.fs-32 {
+  font-size: 32px; }
+
+.fs-33 {
+  font-size: 33px; }
+
+.fs-34 {
+  font-size: 34px; }
+
+.fs-35 {
+  font-size: 35px; }
+
+.fs-36 {
+  font-size: 36px; }
+
+.fs-37 {
+  font-size: 37px; }
+
+.fs-38 {
+  font-size: 38px; }
+
+.fs-39 {
+  font-size: 39px; }
+
+.fs-40 {
+  font-size: 40px; }
+
+.fs-41 {
+  font-size: 41px; }
+
+.fs-42 {
+  font-size: 42px; }
+
+.fs-43 {
+  font-size: 43px; }
+
+.fs-44 {
+  font-size: 44px; }
+
+.fs-45 {
+  font-size: 45px; }
+
+.fs-46 {
+  font-size: 46px; }
+
+.fs-47 {
+  font-size: 47px; }
+
+.fs-48 {
+  font-size: 48px; }
+
+.fs-49 {
+  font-size: 49px; }
+
+.fs-50 {
+  font-size: 50px; }
+
 .border-none {
   border: none; }
 
@@ -73381,6 +73441,46 @@ readers do not read off random characters that represent icons */
     font-size: 29px; }
   .fs-sm-30 {
     font-size: 30px; }
+  .fs-sm-31 {
+    font-size: 31px; }
+  .fs-sm-32 {
+    font-size: 32px; }
+  .fs-sm-33 {
+    font-size: 33px; }
+  .fs-sm-34 {
+    font-size: 34px; }
+  .fs-sm-35 {
+    font-size: 35px; }
+  .fs-sm-36 {
+    font-size: 36px; }
+  .fs-sm-37 {
+    font-size: 37px; }
+  .fs-sm-38 {
+    font-size: 38px; }
+  .fs-sm-39 {
+    font-size: 39px; }
+  .fs-sm-40 {
+    font-size: 40px; }
+  .fs-sm-41 {
+    font-size: 41px; }
+  .fs-sm-42 {
+    font-size: 42px; }
+  .fs-sm-43 {
+    font-size: 43px; }
+  .fs-sm-44 {
+    font-size: 44px; }
+  .fs-sm-45 {
+    font-size: 45px; }
+  .fs-sm-46 {
+    font-size: 46px; }
+  .fs-sm-47 {
+    font-size: 47px; }
+  .fs-sm-48 {
+    font-size: 48px; }
+  .fs-sm-49 {
+    font-size: 49px; }
+  .fs-sm-50 {
+    font-size: 50px; }
   .border-sm-none {
     border: none; }
   .border-sm {
@@ -73495,6 +73595,46 @@ readers do not read off random characters that represent icons */
     font-size: 29px; }
   .fs-md-30 {
     font-size: 30px; }
+  .fs-md-31 {
+    font-size: 31px; }
+  .fs-md-32 {
+    font-size: 32px; }
+  .fs-md-33 {
+    font-size: 33px; }
+  .fs-md-34 {
+    font-size: 34px; }
+  .fs-md-35 {
+    font-size: 35px; }
+  .fs-md-36 {
+    font-size: 36px; }
+  .fs-md-37 {
+    font-size: 37px; }
+  .fs-md-38 {
+    font-size: 38px; }
+  .fs-md-39 {
+    font-size: 39px; }
+  .fs-md-40 {
+    font-size: 40px; }
+  .fs-md-41 {
+    font-size: 41px; }
+  .fs-md-42 {
+    font-size: 42px; }
+  .fs-md-43 {
+    font-size: 43px; }
+  .fs-md-44 {
+    font-size: 44px; }
+  .fs-md-45 {
+    font-size: 45px; }
+  .fs-md-46 {
+    font-size: 46px; }
+  .fs-md-47 {
+    font-size: 47px; }
+  .fs-md-48 {
+    font-size: 48px; }
+  .fs-md-49 {
+    font-size: 49px; }
+  .fs-md-50 {
+    font-size: 50px; }
   .border-md-none {
     border: none; }
   .border-md {
@@ -73609,6 +73749,46 @@ readers do not read off random characters that represent icons */
     font-size: 29px; }
   .fs-lg-30 {
     font-size: 30px; }
+  .fs-lg-31 {
+    font-size: 31px; }
+  .fs-lg-32 {
+    font-size: 32px; }
+  .fs-lg-33 {
+    font-size: 33px; }
+  .fs-lg-34 {
+    font-size: 34px; }
+  .fs-lg-35 {
+    font-size: 35px; }
+  .fs-lg-36 {
+    font-size: 36px; }
+  .fs-lg-37 {
+    font-size: 37px; }
+  .fs-lg-38 {
+    font-size: 38px; }
+  .fs-lg-39 {
+    font-size: 39px; }
+  .fs-lg-40 {
+    font-size: 40px; }
+  .fs-lg-41 {
+    font-size: 41px; }
+  .fs-lg-42 {
+    font-size: 42px; }
+  .fs-lg-43 {
+    font-size: 43px; }
+  .fs-lg-44 {
+    font-size: 44px; }
+  .fs-lg-45 {
+    font-size: 45px; }
+  .fs-lg-46 {
+    font-size: 46px; }
+  .fs-lg-47 {
+    font-size: 47px; }
+  .fs-lg-48 {
+    font-size: 48px; }
+  .fs-lg-49 {
+    font-size: 49px; }
+  .fs-lg-50 {
+    font-size: 50px; }
   .border-lg-none {
     border: none; }
   .border-lg {
@@ -73723,6 +73903,46 @@ readers do not read off random characters that represent icons */
     font-size: 29px; }
   .fs-xl-30 {
     font-size: 30px; }
+  .fs-xl-31 {
+    font-size: 31px; }
+  .fs-xl-32 {
+    font-size: 32px; }
+  .fs-xl-33 {
+    font-size: 33px; }
+  .fs-xl-34 {
+    font-size: 34px; }
+  .fs-xl-35 {
+    font-size: 35px; }
+  .fs-xl-36 {
+    font-size: 36px; }
+  .fs-xl-37 {
+    font-size: 37px; }
+  .fs-xl-38 {
+    font-size: 38px; }
+  .fs-xl-39 {
+    font-size: 39px; }
+  .fs-xl-40 {
+    font-size: 40px; }
+  .fs-xl-41 {
+    font-size: 41px; }
+  .fs-xl-42 {
+    font-size: 42px; }
+  .fs-xl-43 {
+    font-size: 43px; }
+  .fs-xl-44 {
+    font-size: 44px; }
+  .fs-xl-45 {
+    font-size: 45px; }
+  .fs-xl-46 {
+    font-size: 46px; }
+  .fs-xl-47 {
+    font-size: 47px; }
+  .fs-xl-48 {
+    font-size: 48px; }
+  .fs-xl-49 {
+    font-size: 49px; }
+  .fs-xl-50 {
+    font-size: 50px; }
   .border-xl-none {
     border: none; }
   .border-xl {
