@@ -16,78 +16,78 @@ $breakValue in $breakpoints {
                 $sideValue in $sides {
                     @if $sideName != "" {
                         .m#{$sideName}-#{$breakName}-#{$i}vw {
-                            margin-#{$sideValue}: #{$i}vw;
+                            margin-#{$sideValue}: #{$i}vw !important;
                         }
                         .p#{$sideName}-#{$breakName}-#{$i}vw {
-                            padding-#{$sideValue}: #{$i}vw;
+                            padding-#{$sideValue}: #{$i}vw !important;
                         }
                     } @else {
                         .m-#{$breakName}-#{$i}vw {
-                            margin: #{$i}vw;
+                            margin: #{$i}vw !important;
                         }
                         .p-#{$breakName}-#{$i}vw {
-                            padding: #{$i}vw;
+                            padding: #{$i}vw !important;
                         }
                     }
                 }
                 .w-#{$breakName}-#{$i}vw {
-                    width: #{$i}vw;
+                    width: #{$i}vw !important;
                 }
                 .h-#{$breakName}-#{$i}vw {
-                    height: #{$i}vw;
+                    height: #{$i}vw !important;
                 }
                 .wh-#{$breakName}-#{$i}vw {
-                    width: #{$i}vw;
-                    height: #{$i}vw;
+                    width: #{$i}vw !important;
+                    height: #{$i}vw !important;
                 }
                 .w-#{$breakName}-#{$i}vh {
-                    width: #{$i}vh;
+                    width: #{$i}vh !important;
                 }
                 .h-#{$breakName}-#{$i}vh {
-                    height: #{$i}vh;
+                    height: #{$i}vh !important;
                 }
                 .wh-#{$breakName}-#{$i}vh {
-                    width: #{$i}vh;
-                    height: #{$i}vh;
+                    width: #{$i}vh !important;
+                    height: #{$i}vh !important;
                 }
 
                 $space: $i + 'vw';
                 $spaceValue: $i + 'vw';
 
                 .my-#{$breakName}-#{$space} {
-                    margin-top: #{$spaceValue};
-                    margin-bottom: #{$spaceValue};
+                    margin-top: #{$spaceValue} !important;
+                    margin-bottom: #{$spaceValue} !important;
                 }
                 .py-#{$breakName}-#{$space} {
-                    padding-top: #{$spaceValue};
-                    padding-bottom: #{$spaceValue};
+                    padding-top: #{$spaceValue} !important;
+                    padding-bottom: #{$spaceValue} !important;
                 }
                 .mx-#{$breakName}-#{$space} {
-                    margin-left: #{$spaceValue};
-                    margin-right: #{$spaceValue};
+                    margin-left: #{$spaceValue} !important;
+                    margin-right: #{$spaceValue} !important;
                 }
                 .px-#{$breakName}-#{$space} {
-                    padding-left: #{$spaceValue};
-                    padding-right: #{$spaceValue};
+                    padding-left: #{$spaceValue} !important;
+                    padding-right: #{$spaceValue} !important;
                 }
                 $space: $i + 'vh';
                 $spaceValue: $i + 'vh';
 
                 .my-#{$breakName}-#{$space} {
-                    margin-top: #{$spaceValue};
-                    margin-bottom: #{$spaceValue};
+                    margin-top: #{$spaceValue} !important;
+                    margin-bottom: #{$spaceValue} !important;
                 }
                 .py-#{$breakName}-#{$space} {
-                    padding-top: #{$spaceValue};
-                    padding-bottom: #{$spaceValue};
+                    padding-top: #{$spaceValue} !important;
+                    padding-bottom: #{$spaceValue} !important;
                 }
                 .mx-#{$breakName}-#{$space} {
-                    margin-left: #{$spaceValue};
-                    margin-right: #{$spaceValue};
+                    margin-left: #{$spaceValue} !important;
+                    margin-right: #{$spaceValue} !important;
                 }
                 .px-#{$breakName}-#{$space} {
-                    padding-left: #{$spaceValue};
-                    padding-right: #{$spaceValue};
+                    padding-left: #{$spaceValue} !important;
+                    padding-right: #{$spaceValue} !important;
                 }
             }
 
@@ -102,32 +102,32 @@ $breakValue in $breakpoints {
                     $property: if($sideName=='', '', -#{$sideValue});
                     $selector: #{$sideName}-#{$breakName}-#{$space};
                     .m#{$selector} {
-                        margin#{$property}: #{$spaceValue};
+                        margin#{$property}: #{$spaceValue} !important;
                     }
                     .p#{$selector} {
-                        padding#{$property}: #{$spaceValue};
+                        padding#{$property}: #{$spaceValue} !important;
                     }
                     @if($sideName=='') {
                         .br-#{$breakName}-#{$space} {
-                            border-radius: #{$spaceValue};
+                            border-radius: #{$spaceValue} !important;
                         }
                     }
                 }
                 .my-#{$breakName}-#{$space} {
-                    margin-top: #{$spaceValue};
-                    margin-bottom: #{$spaceValue};
+                    margin-top: #{$spaceValue} !important;
+                    margin-bottom: #{$spaceValue} !important;
                 }
                 .py-#{$breakName}-#{$space} {
-                    padding-top: #{$spaceValue};
-                    padding-bottom: #{$spaceValue};
+                    padding-top: #{$spaceValue} !important;
+                    padding-bottom: #{$spaceValue} !important;
                 }
                 .mx-#{$breakName}-#{$space} {
-                    margin-left: #{$spaceValue};
-                    margin-right: #{$spaceValue};
+                    margin-left: #{$spaceValue} !important;
+                    margin-right: #{$spaceValue} !important;
                 }
                 .px-#{$breakName}-#{$space} {
-                    padding-left: #{$spaceValue};
-                    padding-right: #{$spaceValue};
+                    padding-left: #{$spaceValue} !important;
+                    padding-right: #{$spaceValue} !important;
                 }
             }
         }
@@ -140,79 +140,79 @@ $breakValue in $breakpoints {
             $sideValue in $sides {
                 @if $sideName != "" {
                     .m#{$sideName}-#{$i}vw {
-                        margin-#{$sideValue}: #{$i}vw;
+                        margin-#{$sideValue}: #{$i}vw !important;
                     }
                     .p#{$sideName}-#{$i}vw {
-                        padding-#{$sideValue}: #{$i}vw;
+                        padding-#{$sideValue}: #{$i}vw !important;
                     }
                 } @else {
                     .m-#{$i}vw {
-                        margin: #{$i}vw;
+                        margin: #{$i}vw !important;
                     }
                     .p-#{$i}vw {
-                        padding: #{$i}vw;
+                        padding: #{$i}vw !important;
                     }
                 }
             }
 
             .w-#{$i}vw {
-                width: #{$i}vw;
+                width: #{$i}vw !important;
             }
             .h-#{$i}vw {
-                height: #{$i}vw;
+                height: #{$i}vw !important;
             }
             .wh-#{$i}vw {
-                width: #{$i}vw;
-                height: #{$i}vw;
+                width: #{$i}vw !important;
+                height: #{$i}vw !important;
             }
             .w-#{$i}vh {
-                width: #{$i}vh;
+                width: #{$i}vh !important;
             }
             .h-#{$i}vh {
-                height: #{$i}vh;
+                height: #{$i}vh !important;
             }
             .wh-#{$i}vh {
-                width: #{$i}vh;
-                height: #{$i}vh;
+                width: #{$i}vh !important;
+                height: #{$i}vh !important;
             }
 
             $space: $i + 'vw';
             $spaceValue: $i + 'vw';
 
             .my-#{$space} {
-                margin-top: #{$spaceValue};
-                margin-bottom: #{$spaceValue};
+                margin-top: #{$spaceValue} !important;
+                margin-bottom: #{$spaceValue} !important;
             }
             .py-#{$space} {
-                padding-top: #{$spaceValue};
-                padding-bottom: #{$spaceValue};
+                padding-top: #{$spaceValue} !important;
+                padding-bottom: #{$spaceValue} !important;
             }
             .mx-#{$space} {
-                margin-left: #{$spaceValue};
-                margin-right: #{$spaceValue};
+                margin-left: #{$spaceValue} !important;
+                margin-right: #{$spaceValue} !important;
             }
             .px-#{$space} {
-                padding-left: #{$spaceValue};
-                padding-right: #{$spaceValue};
+                padding-left: #{$spaceValue} !important;
+                padding-right: #{$spaceValue} !important;
             }
             $space: $i + 'vh';
             $spaceValue: $i + 'vh';
 
             .my-#{$space} {
-                margin-top: #{$spaceValue};
-                margin-bottom: #{$spaceValue};
+                margin-top: #{$spaceValue} !important;
+                margin-bottom: #{$spaceValue} !important;
             }
             .py-#{$space} {
-                padding-top: #{$spaceValue};
-                padding-bottom: #{$spaceValue};
+                padding-top: #{$spaceValue} !important;
+                padding-bottom: #{$spaceValue} !important;
             }
             .mx-#{$space} {
-                margin-left: #{$spaceValue};
-                margin-right: #{$spaceValue};
+                margin-left: #{$spaceValue} !important;
+                margin-right: #{$spaceValue} !important;
             }
             .px-#{$space} {
-                padding-left: #{$spaceValue};
-                padding-right: #{$spaceValue};
+                padding-left: #{$spaceValue} !important;
+                padding-right: #{$spaceValue} !important;
             }
         }
 
@@ -229,32 +229,32 @@ $breakValue in $breakpoints {
                 $selector: #{$sideName}-#{$i};
                 $property: if($sideName=='', '', -#{$sideValue});
                 .m#{$selector} {
-                    margin#{$property}: #{$spaceValue};
+                    margin#{$property}: #{$spaceValue} !important;
                 }
                 .p#{$selector} {
-                    padding#{$property}: #{$spaceValue};
+                    padding#{$property}: #{$spaceValue} !important;
                 }
                 @if($sideName=='') {
                     .br-#{$space} {
-                        border-radius: #{$spaceValue};
+                        border-radius: #{$spaceValue} !important;
                     }
                 }
             }
             .my-#{$space} {
-                margin-top: #{$spaceValue};
-                margin-bottom: #{$spaceValue};
+                margin-top: #{$spaceValue} !important;
+                margin-bottom: #{$spaceValue} !important;
             }
             .py-#{$space} {
-                padding-top: #{$spaceValue};
-                padding-bottom: #{$spaceValue};
+                padding-top: #{$spaceValue} !important;
+                padding-bottom: #{$spaceValue} !important;
             }
             .mx-#{$space} {
-                margin-left: #{$spaceValue};
-                margin-right: #{$spaceValue};
+                margin-left: #{$spaceValue} !important;
+                margin-right: #{$spaceValue} !important;
             }
             .px-#{$space} {
-                padding-left: #{$spaceValue};
-                padding-right: #{$spaceValue};
+                padding-left: #{$spaceValue} !important;
+                padding-right: #{$spaceValue} !important;
             }
         }
     }
@@ -268,141 +268,141 @@ $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600"
         @media (min-width: $breakValue) {
 			@each $weightName, $weightValue in $fontWeights {
 				.fw-#{$breakName}-#{$weightName} {
-					font-weight: #{$weightValue};
+					font-weight: #{$weightValue} !important;
 				}
 			}
 			@for $i from 0 through 50 {
 				.fs-#{$breakName}-#{$i} {
-					font-size: #{$i}px;
+					font-size: #{$i}px !important;
 				}	
 			}
             .border-#{$breakName}-none {
-                border: none
+                border: none !important
             }
             .border-#{$breakName} {
-                border: 1px solid var(--border-color);
+                border: 1px solid var(--border-color) !important;
             }
             
             .border-#{$breakName}-left {
-                border-left: 1px solid var(--border-color);
+                border-left: 1px solid var(--border-color) !important;
             }
 
             .border-#{$breakName}-left-none {
-                border-left: none
+                border-left: none !important
             }
             
             .border-#{$breakName}-right {
-                border-right: 1px solid var(--border-color);
+                border-right: 1px solid var(--border-color) !important;
             }
 
             .border-#{$breakName}-right-none {
-                border-right: none
+                border-right: none !important
             }
             
             .border-#{$breakName}-top {
-                border-top: 1px solid var(--border-color);
+                border-top: 1px solid var(--border-color) !important;
             }
 
             .border-#{$breakName}-top-none {
-                border-top: none
+                border-top: none !important
             }
             
             .border-#{$breakName}-bottom {
-                border-bottom: 1px solid var(--border-color);
+                border-bottom: 1px solid var(--border-color) !important;
             }
 
             .border-#{$breakName}-bottom-none {
-                border-bottom: none
+                border-bottom: none !important
             }
             
             .border-#{$breakName}-y {
-                border-top: 1px solid var(--border-color);
-                border-bottom: 1px solid var(--border-color);
+                border-top: 1px solid var(--border-color) !important;
+                border-bottom: 1px solid var(--border-color) !important;
             }
             
             .border-#{$breakName}-x {
-                border-left: 1px solid var(--border-color);
-                border-right: 1px solid var(--border-color);
+                border-left: 1px solid var(--border-color) !important;
+                border-right: 1px solid var(--border-color) !important;
             }
 
             .border-#{$breakName}-y-none {
-                border-top: none;
-                border-bottom: none;
+                border-top: none !important;
+                border-bottom: none !important;
             }
             
             .border-#{$breakName}-x-none {
-                border-left: none;
-                border-right: none;
+                border-left: none !important;
+                border-right: none !important;
             }
 		}
 	} @else {
 		@each $weightName, $weightValue in $fontWeights {
 			.fw-#{$weightName} {
-				font-weight: #{$weightValue};
+				font-weight: #{$weightValue} !important;
 			}
 		}
 		@for $i from 10 through 50 {
 			.fs-#{$i} {
-				font-size: #{$i}px;
+				font-size: #{$i}px !important;
 			}	
 		}
         .border-none {
-            border: none
+            border: none !important
         }
         .border {
-            border: 1px solid var(--border-color);
+            border: 1px solid var(--border-color) !important;
         }
         
         .border-left {
-            border-left: 1px solid var(--border-color);
+            border-left: 1px solid var(--border-color) !important;
         }
 
         .border-left-none {
-            border-left: none
+            border-left: none !important
         }
         
         .border-right {
-            border-right: 1px solid var(--border-color);
+            border-right: 1px solid var(--border-color) !important;
         }
 
         .border-right-none {
-            border-right: none
+            border-right: none !important
         }
         
         .border-top {
-            border-top: 1px solid var(--border-color);
+            border-top: 1px solid var(--border-color) !important;
         }
 
         .border-top-none {
-            border-top: none
+            border-top: none !important
         }
         
         .border-bottom {
-            border-bottom: 1px solid var(--border-color);
+            border-bottom: 1px solid var(--border-color) !important;
         }
 
         .border-bottom-none {
-            border-bottom: none
+            border-bottom: none !important
         }
         
         .border-y {
-            border-top: 1px solid var(--border-color);
-            border-bottom: 1px solid var(--border-color);
+            border-top: 1px solid var(--border-color) !important;
+            border-bottom: 1px solid var(--border-color) !important;
         }
         
         .border-x {
-            border-left: 1px solid var(--border-color);
-            border-right: 1px solid var(--border-color);
+            border-left: 1px solid var(--border-color) !important;
+            border-right: 1px solid var(--border-color) !important;
         }
 
         .border-y-none {
-            border-top: none;
-            border-bottom: none;
+            border-top: none !important;
+            border-bottom: none !important;
         }
         
         .border-x-none {
-            border-left: none;
-            border-right: none;
+            border-left: none !important;
+            border-right: none !important;
         }
 	}
 }
