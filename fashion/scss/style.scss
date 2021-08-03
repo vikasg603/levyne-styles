@@ -271,7 +271,7 @@ $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600"
 					font-weight: #{$weightValue};
 				}
 			}
-			@for $i from 0 through 30 {
+			@for $i from 0 through 50 {
 				.fs-#{$breakName}-#{$i} {
 					font-size: #{$i}px;
 				}	
@@ -341,7 +341,7 @@ $fontWeights: ("100": 100, "200": 200, "300": 300, "400": 400, "500": 500, "600"
 				font-weight: #{$weightValue};
 			}
 		}
-		@for $i from 10 through 30 {
+		@for $i from 10 through 50 {
 			.fs-#{$i} {
 				font-size: #{$i}px;
 			}	
